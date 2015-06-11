@@ -1,0 +1,2939 @@
+[{
+	"Technology" : "Acoustics",
+	"Brave New World" : {
+		"Era" : "Renaissance",
+		"Cost" : 2340,
+		"Required techs" : ["Education"],
+		"Leads" : ["Architecture"],
+		"Units" : [],
+		"Buildings enabled" : ["Opera_house",  "Ceilidh hall",  "Sistine Chapel",  "Musicians' guild"]
+	},
+	"Gods and Kings" : {
+		"Era" : "Renaissance",
+		"Cost" : 1950,
+		"Required techs" : ["Education"],
+		"Leads" : ["Architecture"],
+		"Units" : [],
+		"Buildings enabled" : ["Opera_house",  "Ceilidh hall",  "Sistine Chapel"]
+	},
+	"Vanilla" : {
+		"Era" : "Renaissance",
+		"Cost" : 1950,
+		"Required techs" : ["Education"],
+		"Leads" : ["Scientific theory"],
+		"Units" : [],
+		"Buildings enabled" : ["Opera_house",  "Ceilidh hall",  "Sistine Chapel",  "Kremlin"]
+	}
+},{
+	"Technology" : "Advanced_ballistics",
+	"Brave New World" : {
+		"Era" : "Information",
+		"Cost" : 23100,
+		"Required techs" : ["Rocketry",  "Nuclear fission"],
+		"Leads" : ["Nuclear fusion",  "Particle physics"],
+		"Units" :  Guided missile   Nuclear missile  SS Booster
+		"Buildings enabled" : [[]]
+	},
+	"Gods and Kings" : {
+		"Era" : "Information",
+		"Cost" : 24546,
+		"Required techs" : ["Rocketry",  "Nuclear fission"],
+		"Leads" : ["Nuclear fusion",  "Particle physics"],
+		"Units" :  Guided missile   Nuclear missile  SS Booster
+		"Buildings enabled" : [[]]
+	},
+	"Vanilla" : {
+		"Era" : Modern
+		"Cost" : 9546,
+		"Required techs" : ["Lasers",  "Nuclear fission"],
+		"Leads" : ["Nuclear fusion"],
+		"Units" :  Nuclear missile
+		"Buildings enabled" : [[]]
+	}
+},{
+	"Technology" : "Agriculture",
+	"Brave New World" : {
+		"Era" : "Ancient",
+		"Cost" : 60,
+		"Required techs" : [[]],
+		"Leads" : ["Pottery",  "Animal_husbandry",  "Archery",  "Mining"],
+		"Units" :  Worker  Settler  Warrior  Scout  Atlatlist  Jaguar  Maori warrior  Pathfinder
+		"Buildings enabled" : [Farm]
+	},
+	"Vanilla" : {
+		"Era" : "Ancient",
+		"Cost" : 60,
+		"Required techs" : [[]],
+		"Leads" : ["Pottery",  "Animal_husbandry",  "Archery",  "Mining"],
+		"Units" :  Worker  Settler  Warrior  Scout  Jaguar
+		"Buildings enabled" : [Farm]
+	}
+},{
+	"Technology" : "Animal_husbandry",
+	"Brave New World" : {
+		"Era" : "Ancient",
+		"Cost" : 105,
+		"Required techs" : ["Agriculture"],
+		"Leads" : ["Trapping",  "The wheel"],
+		"Units" :  Caravan
+		"Buildings enabled" : [Pasture]
+	},
+	"Vanilla" : {
+		"Era" : "Ancient",
+		"Cost" : 105,
+		"Required techs" : ["Agriculture"],
+		"Leads" : ["Trapping",  "The wheel"],
+		"Units" : [],
+		"Buildings enabled" : [Pasture]
+	}
+},{
+	"Technology" : "Archaeology",
+	"Brave New World" : {
+		"Era" : "Industrial",
+		"Cost" : 4800,
+		"Required techs" : ["Navigation",  "Architecture"],
+		"Leads" : ["Biology"],
+		"Units" :  Archaeologist
+		"Buildings enabled" : [Museum  Louvre]
+	},
+	"Vanilla" : {
+		"Era" : "Industrial",
+		"Cost" : 3900,
+		"Required techs" : ["Navigation"],
+		"Leads" : ["Biology"],
+		"Units" : [],
+		"Buildings enabled" : [Museum  Hermitage  Louvre]
+	}
+},{
+	"Technology" : "Archery",
+	"Brave New World" : {
+		"Era" : "Ancient",
+		"Cost" : 105,
+		"Required techs" : ["Agriculture"],
+		"Leads" : ["The wheel"],
+		"Units" :  Archer  Bowman  Slinger
+		"Buildings enabled" : [Temple of Artemis]
+	},
+	"Gods and Kings" : {
+		"Era" : "Ancient",
+		"Cost" : 105,
+		"Required techs" : ["Agriculture"],
+		"Leads" : ["The wheel"],
+		"Units" :  Archer  Bowman  Slinger
+		"Buildings enabled" : [Temple of Artemis]
+	},
+	"Vanilla" : {
+		"Era" : "Ancient",
+		"Cost" : 105,
+		"Required techs" : ["Agriculture"],
+		"Leads" : ["Mathematics"],
+		"Units" :  Archer  Bowman  Slinger
+		"Buildings enabled" : [Temple of Artemis]
+	}
+},{
+	"Technology" : "Architecture",
+	"Brave New World" : {
+		"Era" : "Renaissance",
+		"Cost" : 3450,
+		"Required techs" : ["Acoustics",  "Banking"],
+		"Leads" : ["Archaeology",  "Scientific theory"],
+		"Units" : [],
+		"Buildings enabled" : [Hermitage  Porcelain Tower  Taj Mahal  Uffizi]
+	},
+	"Gods and Kings" : {
+		"Era" : "Renaissance",
+		"Cost" : 3450,
+		"Required techs" : ["Acoustics",  "Banking"],
+		"Leads" : ["Archaeology",  "Scientific theory"],
+		"Units" : [],
+		"Buildings enabled" : [Hermitage  Porcelain Tower  Taj Mahal]
+	}
+},{
+	"Technology" : "Astronomy",
+	"Brave New World" : {
+		"Era" : "Renaissance",
+		"Cost" : 2340,
+		"Required techs" : ["Compass",  "Education"],
+		"Leads" : ["Navigation"],
+		"Units" :  Caravel  Turtle ship  Nau
+		"Buildings enabled" : [Observatory]
+	},
+	"Gods and Kings" : {
+		"Era" : "Renaissance",
+		"Cost" : 1950,
+		"Required techs" : ["Compass",  "Education"],
+		"Leads" : ["Navigation"],
+		"Units" :  Caravel
+		"Buildings enabled" : [Observatory]
+	}
+},{
+	"Technology" : "Atomic_theory",
+	"Brave New World" : {
+		"Era" : "Atomic",
+		"Cost" : 15300,
+		"Required techs" : ["Electronics",  "Plastics"],
+		"Leads" : ["Ecology",  "Nuclear fission"],
+		"Units" : [],
+		"Buildings enabled" : [Manhattan Project]
+	},
+	"Gods and Kings" : {
+		"Era" : "Atomic",
+		"Cost" : 15300,
+		"Required techs" : ["Electronics",  "Plastics"],
+		"Leads" : ["Ecology",  "Nuclear fission"],
+		"Units" : [],
+		"Buildings enabled" : [Manhattan Project]
+	},
+	"Vanilla" : {
+		"Era" : "Industrial",
+		"Cost" : 7410,
+		"Required techs" : ["Combustion"],
+		"Leads" : ["Nuclear fission"],
+		"Units" : [],
+		"Buildings enabled" : [Manhattan Project]
+	}
+},{
+	"Technology" : "Ballistics",
+	"Brave New World" : {
+		"Era" : Modern
+		"Cost" : 12300,
+		"Required techs" : ["Railroad"],
+		"Leads" : ["Radar",  "Combined arms"],
+		"Units" :  Anti-aircraft gun  Machine gun
+		"Buildings enabled" : [[]]
+	}
+},{
+	"Technology" : "Banking",
+	"Brave New World" : {
+		"Era" : "Renaissance",
+		"Cost" : 2340,
+		"Required techs" : ["Education",  "Chivalry"],
+		"Leads" : ["Economics",  "Architecture"],
+		"Units" : [],
+		"Buildings enabled" : [Constabulary  Bank  Satrap's court  Hanse  Forbidden Palace]
+	},
+	"Gods and Kings" : {
+		"Era" : "Renaissance",
+		"Cost" : 2160,
+		"Required techs" : ["Education",  "Chivalry"],
+		"Leads" : ["Economics",  "Architecture"],
+		"Units" : [],
+		"Buildings enabled" : [Satrap's court  Bank  Constabulary  Forbidden Palace]
+	},
+	"Vanilla" : {
+		"Era" : "Renaissance",
+		"Cost" : 1950,
+		"Required techs" : ["Education",  "Chivalry"],
+		"Leads" : ["Economics"],
+		"Units" : [],
+		"Buildings enabled" : [Satrap's court  Bank  Forbidden Palace]
+	}
+},{
+	"Technology" : "Biology",
+	"Brave New World" : {
+		"Era" : "Industrial",
+		"Cost" : 7050,
+		"Required techs" : ["Archaeology",  "Scientific theory"],
+		"Leads" : ["Refrigeration"],
+		"Units" : [],
+		"Buildings enabled" : [Hospital  Oil well]
+	},
+	"Gods and Kings" : {
+		"Era" : "Industrial",
+		"Cost" : 5040,
+		"Required techs" : ["Archaeology",  "Scientific theory"],
+		"Leads" : ["Refrigeration"],
+		"Units" : [],
+		"Buildings enabled" : [Hospital  Oil well]
+	},
+	"Vanilla" : {
+		"Era" : "Industrial",
+		"Cost" : 5040,
+		"Required techs" : ["Archaeology",  "Scientific theory"],
+		"Leads" : ["Electricity"],
+		"Units" : [],
+		"Buildings enabled" : [Hospital  Oil well]
+	}
+},{
+	"Technology" : "Bronze_working",
+	"Brave New World" : {
+		"Era" : "Ancient",
+		"Cost" : 165,
+		"Required techs" : ["Mining"],
+		"Leads" : ["Iron working"],
+		"Units" :  Spearman  Hoplite  Immortal  Pictish warrior  Battering ram
+		"Buildings enabled" : [Barracks  Krepost  Ikanda  Statue of Zeus]
+	},
+	"Gods and Kings" : {
+		"Era" : "Ancient",
+		"Cost" : 165,
+		"Required techs" : ["Mining"],
+		"Leads" : ["Iron working"],
+		"Units" :  Spearman  Hoplite  Immortal  Pictish warrior  Battering ram
+		"Buildings enabled" : [Barracks  Krepost  Statue of Zeus]
+	},
+	"Vanilla" : {
+		"Era" : "Ancient",
+		"Cost" : 165,
+		"Required techs" : ["Mining"],
+		"Leads" : ["Iron working"],
+		"Units" :  Spearman  Hoplite  Immortal
+		"Buildings enabled" : [Barracks  Krepost  Colossus  Statue of Zeus]
+	}
+},{
+	"Technology" : "Calendar",
+	"Brave New World" : {
+		"Era" : "Ancient",
+		"Cost" : 165,
+		"Required techs" : ["Pottery"],
+		"Leads" : ["Philosophy"],
+		"Units" : [],
+		"Buildings enabled" : [Plantation  Stone works  Stonehenge]
+	},
+	"Gods and Kings" : {
+		"Era" : "Ancient",
+		"Cost" : 165,
+		"Required techs" : ["Pottery"],
+		"Leads" : ["Philosophy"],
+		"Units" : [],
+		"Buildings enabled" : [Plantation  Stone works  Stonehenge]
+	},
+	"Vanilla" : {
+		"Era" : "Ancient",
+		"Cost" : 165,
+		"Required techs" : ["Pottery"],
+		"Leads" : ["Theology"],
+		"Units" : [],
+		"Buildings enabled" : [Plantation  Stone works  Stonehenge]
+	}
+},{
+	"Technology" : ""Chemistry",",
+	"Brave New World" : {
+		"Era" : "Renaissance",
+		"Cost" : 3450,
+		"Required techs" : ["Gunpowder"],
+		"Leads" : ["Military science",  "Fertilizer"],
+		"Units" :  Cannon
+		"Buildings enabled" : [[]]
+	},
+	"Gods and Kings" : {
+		"Era" : "Renaissance",
+		"Cost" : 2700,
+		"Required techs" : ["Gunpowder"],
+		"Leads" : ["Military science",  "Fertilizer"],
+		"Units" :  Cannon
+		"Buildings enabled" : [[]]
+	},
+	"Vanilla" : {
+		"Era" : "Renaissance",
+		"Cost" : 2700,
+		"Required techs" : ["Gunpowder"],
+		"Leads" : ["Military science",  "Fertilizer"],
+		"Units" :  Cannon
+		"Buildings enabled" : [Ironworks]
+	}
+},{
+	"Technology" : "Chivalry",
+	"Brave New World" : {
+		"Era" : Medieval
+		"Cost" : 1455,
+		"Required techs" : ["Civil_service",  Guilds],
+		"Leads" : ["Banking",  "Printing press"],
+		"Units" :  Knight  Camel archer  Naresuan's elephant  Mandekalu cavalry  Keshik  Conquistador
+		"Buildings enabled" : [Castle  Mughal fort  Alhambra  Chateau  Kasbah]
+	},
+	"Gods and Kings" : {
+		"Era" : Medieval
+		"Cost" : 1455,
+		"Required techs" : ["Civil_service",  "Horseback riding",  Currency],
+		"Leads" : ["Acoustics",  "Banking"],
+		"Units" :  Knight  Camel archer  Naresuan's elephant  Mandekalu cavalry  Keshik  Conquistador
+		"Buildings enabled" : [Castle    Mughal fort  Himeji Castle]
+	},
+	"Vanilla" : {
+		"Era" : Medieval
+		"Cost" : 1455,
+		"Required techs" : ["Civil_service",  Guilds],
+		"Leads" : ["Banking",  "Printing press"],
+		"Units" :  Knight  Camel archer  Naresuan's elephant  Mandekalu cavalry  Keshik  Conquistador
+		"Buildings enabled" : [Castle    Mughal fort  Alhambra]
+	}
+},{
+	"Technology" : "Civil_service",
+	"Brave New World" : {
+		"Era" : Medieval
+		"Cost" : 825,
+		"Required techs" : ["Drama_and_poetry",  "Horseback riding",  Currency],
+		"Leads" : ["Chivalry",  "Education"],
+		"Units" :  Pikeman  Landsknecht
+		"Buildings enabled" : [Chichen Itza]
+	},
+	"Gods and Kings" : {
+		"Era" : Medieval
+		"Cost" : 825,
+		"Required techs" : ["Drama_and_poetry",  "Horseback riding",  Currency],
+		"Leads" : ["Chivalry",  "Education"],
+		"Units" :  Pikeman  Landsknecht
+		"Buildings enabled" : [Chichen Itza]
+	},
+	"Vanilla" : {
+		"Era" : Medieval
+		"Cost" : 825,
+		"Required techs" : ["Philosophy",  "Trapping"],
+		"Leads" : ["Chivalry",  "Education"],
+		"Units" :  Pikeman  Landsknecht
+		"Buildings enabled" : [Chichen Itza]
+	}
+},{
+	"Technology" : "Combined_arms",
+	"Brave New World" : {
+		"Era" : "Atomic",
+		"Cost" : 15300,
+		"Required techs" : ["Combustion",  "Ballistics"],
+		"Leads" : ["Computers"],
+		"Units" :  Tank  Anti-tank gun  Panzer
+		"Buildings enabled" : [Pentagon]
+	},
+	"Gods and Kings" : {
+		"Era" : "Atomic",
+		"Cost" : 15300,
+		"Required techs" : ["Combustion",  "Ballistics"],
+		"Leads" : ["Computers"],
+		"Units" :  Tank  Anti-tank gun  Panzer
+		"Buildings enabled" : [Pentagon]
+	}
+},{
+	"Technology" : "Combustion",
+	"Brave New World" : {
+		"Era" : Modern
+		"Cost" : 12300,
+		"Required techs" : ["Railroad"],
+		"Leads" : ["Combined arms"],
+		"Units" :  Destroyer  Landship
+		"Buildings enabled" : [[]]
+	},
+	"Gods and Kings" : {
+		"Era" : Modern
+		"Cost" : 13926,
+		"Required techs" : ["Railroad"],
+		"Leads" : ["Combined arms"],
+		"Units" :  Destroyer  Landship
+		"Buildings enabled" : [[]]
+	},
+	"Vanilla" : {
+		"Era" : "Industrial",
+		"Cost" : 6600,
+		"Required techs" : ["Replaceable parts",  "Railroad",  "Dynamite"],
+		"Leads" : ["Atomic_theory",  "Lasers"],
+		"Units" :  Tank  Panzer
+		"Buildings enabled" : [[]]
+	}
+},{
+	"Technology" : "Compass",
+	"Brave New World" : {
+		"Era" : Medieval
+		"Cost" : 1125,
+		"Required techs" : ["Optics",  "Theology"],
+		"Leads" : ["Astronomy"],
+		"Units" :  Galleass  Great galleass
+		"Buildings enabled" : [Harbor]
+	},
+	"Gods and Kings" : {
+		"Era" : Medieval
+		"Cost" : 1125,
+		"Required techs" : ["Optics",  "Theology"],
+		"Leads" : ["Astronomy"],
+		"Units" :  Galleass
+		"Buildings enabled" : [Harbor]
+	},
+	"Vanilla" : {
+		"Era" : Medieval
+		"Cost" : 1020,
+		"Required techs" : ["Optics"],
+		"Leads" : ["Astronomy"],
+		"Units" : [],
+		"Buildings enabled" : [Harbor]
+	}
+},{
+	"Technology" : "Computers",
+	"Brave New World" : {
+		"Era" : "Atomic",
+		"Cost" : 19200,
+		"Required techs" : ["Radar",  "Combined arms"],
+		"Leads" : ["Robotics",  "Lasers"],
+		"Units" :  Helicopter gunship
+		"Buildings enabled" : [Great Firewall]
+	},
+	"Gods and Kings" : {
+		"Era" : "Atomic",
+		"Cost" : 19500,
+		"Required techs" : ["Radar",  "Combined arms"],
+		"Leads" : ["Robotics",  "Lasers"],
+		"Units" :  Helicopter gunship
+		"Buildings enabled" : [Great Firewall]
+	},
+	"Vanilla" : {
+		"Era" : "Industrial",
+		"Cost" : 8550,
+		"Required techs" : ["Electronics",  "Mass media"],
+		"Leads" : ["Robotics"],
+		"Units" :  Nuclear submarine  Mobile SAM
+		"Buildings enabled" : [[]]
+	}
+},{
+	"Technology" : "Construction",
+	"Brave New World" : {
+		"Era" : "Classical",
+		"Cost" : 315,
+		"Required techs" : [Masonry  "The wheel"],
+		"Leads" : [Engineering],
+		"Units" :  Composite bowman
+		"Buildings enabled" : [Lumber mill  Terrace farm  Moai  Colosseum  Terracotta Army]
+	},
+	"Gods and Kings" : {
+		"Era" : "Classical",
+		"Cost" : 315,
+		"Required techs" : [Masonry  "The wheel"],
+		"Leads" : [Engineering],
+		"Units" :  Composite bowman
+		"Buildings enabled" : [Lumber mill  Terrace farm  Moai  Colosseum  Terracotta Army]
+	},
+	"Vanilla" : {
+		"Era" : "Classical",
+		"Cost" : 315,
+		"Required techs" : [Masonry],
+		"Leads" : [Engineering  "Metal casting"],
+		"Units" : [],
+		"Buildings enabled" : [Lumber mill  Terrace farm  Moai  Colosseum  Circus Maximus  Great Wall]
+	}
+},{
+	"Technology" : "Currency",
+	"Brave New World" : {
+		"Era" : "Classical",
+		"Cost" : 525,
+		"Required techs" : ["Mathematics"],
+		"Leads" : ["Civil_service",  Guilds],
+		"Units" : [],
+		"Buildings enabled" : [Market  Mint  Bazaar  Petra]
+	},
+	"Gods and Kings" : {
+		"Era" : "Classical",
+		"Cost" : 525,
+		"Required techs" : ["Mathematics"],
+		"Leads" : ["Civil_service",  Guilds],
+		"Units" : [],
+		"Buildings enabled" : [Market  Mint  Bazaar  Petra]
+	},
+	"Vanilla" : {
+		"Era" : Medieval
+		"Cost" : 750,
+		"Required techs" : ["Mathematics"],
+		"Leads" : ["Chivalry"],
+		"Units" : [],
+		"Buildings enabled" : [Market  Mint  Bazaar  Machu Picchu]
+	}
+},{
+	"Technology" : "Drama_and_poetry",
+	"Brave New World" : {
+		"Era" : "Classical",
+		"Cost" : 525,
+		"Required techs" : ["Writing"],
+		"Leads" : ["Theology",  "Civil_service"],
+		"Units" : [],
+		"Buildings enabled" : [National Epic  Amphitheater  Writers' guild  Parthenon]
+	},
+	"Gods and Kings" : {
+		"Era" : "Classical",
+		"Cost" : 525,
+		"Required techs" : ["Writing"],
+		"Leads" : ["Theology",  "Civil_service"],
+		"Units" : [],
+		"Buildings enabled" : [Amphitheater   National Epic]
+	}
+},{
+	"Technology" : "Dynamite",
+	"Brave New World" : {
+		"Era" : "Industrial",
+		"Cost" : 6000,
+		"Required techs" : ["Fertilizer",  "Military science"],
+		"Leads" : ["Railroad"],
+		"Units" :  Artillery
+		"Buildings enabled" : [[]]
+	},
+	"Gods and Kings" : {
+		"Era" : "Industrial",
+		"Cost" : 5700,
+		"Required techs" : ["Fertilizer",  "Rifling"],
+		"Leads" : ["Combustion"],
+		"Units" :  Artillery
+		"Buildings enabled" : [[]]
+	}
+},{
+	"Technology" : "Ecology",
+	"Brave New World" : {
+		"Era" : "Atomic",
+		"Cost" : 19200,
+		"Required techs" : ["Atomic_theory",  "Penicillin"],
+		"Leads" : ["Telecommunications",  "Mobile tactics"],
+		"Units" : [],
+		"Buildings enabled" : [Solar plant  Recycling center  Sydney Opera House]
+	},
+	"Gods and Kings" : {
+		"Era" : "Atomic",
+		"Cost" : 20550,
+		"Required techs" : ["Atomic_theory",  "Penicillin"],
+		"Leads" : ["Telecommunications",  "Mobile tactics"],
+		"Units" : [],
+		"Buildings enabled" : [Solar plant  Recycling center  Sydney Opera House]
+	},
+	"Vanilla" : {
+		"Era" : "Industrial",
+		"Cost" : 8550,
+		"Required techs" : ["Plastics",  "Penicillin"],
+		"Leads" : ["Globalization"],
+		"Units" : [],
+		"Buildings enabled" : [Solar plant  Sydney Opera House  Recycling center]
+	}
+},{
+	"Technology" : "Economics",
+	"Brave New World" : {
+		"Era" : "Renaissance",
+		"Cost" : 3450,
+		"Required techs" : ["Banking",  "Printing press"],
+		"Leads" : ["Scientific theory",  "Industrialization",  "Rifling"],
+		"Units" : [],
+		"Buildings enabled" : [Windmill  Coffee house]
+	},
+	"Gods and Kings" : {
+		"Era" : "Renaissance",
+		"Cost" : 2700,
+		"Required techs" : ["Banking",  "Printing press"],
+		"Leads" : ["Military science"],
+		"Units" : [],
+		"Buildings enabled" : [Windmill]
+	}
+},{
+	"Technology" : "Education",
+	"Brave New World" : {
+		"Era" : Medieval
+		"Cost" : 1455,
+		"Required techs" : ["Theology",  "Civil_service"],
+		"Leads" : ["Astronomy",  "Acoustics",  "Banking"],
+		"Units" : [],
+		"Buildings enabled" : [University  Wat  Oxford University  Angkor Wat]
+	},
+	"Gods and Kings" : {
+		"Era" : Medieval
+		"Cost" : 1320,
+		"Required techs" : ["Theology",  "Civil_service"],
+		"Leads" : ["Astronomy",  "Acoustics",  "Banking"],
+		"Units" : [],
+		"Buildings enabled" : [University  Wat  Oxford University  Angkor Wat]
+	}
+},{
+	"Technology" : "Electricity",
+	"Brave New World" : {
+		"Era" : "Industrial",
+		"Cost" : 7050,
+		"Required techs" : ["Scientific theory"],
+		"Leads" : ["Refrigeration",  "Radio",  "Replaceable parts"],
+		"Units" : [],
+		"Buildings enabled" : [Hydro plant  Stock exchange  Police station]
+	},
+	"Gods and Kings" : {
+		"Era" : "Industrial",
+		"Cost" : 7050,
+		"Required techs" : ["Scientific theory"],
+		"Leads" : ["Refrigeration",  "Radio",  "Replaceable parts"],
+		"Units" : [],
+		"Buildings enabled" : [Hydro plant  Stock exchange  Police station]
+	},
+	"Vanilla" : {
+		"Era" : "Industrial",
+		"Cost" : 5700,
+		"Required techs" : ["Biology",  "Steam power"],
+		"Leads" : ["Refrigeration",  Telegraph  "Radio"],
+		"Units" : [],
+		"Buildings enabled" : [Stock exchange]
+	}
+},{
+	"Technology" : "Electronics",
+	"Brave New World" : {
+		"Era" : Modern
+		"Cost" : 12300,
+		"Required techs" : ["Replaceable parts",  "Flight"],
+		"Leads" : ["Atomic_theory",  "Radar"],
+		"Units" :  Carrier  Battleship
+		"Buildings enabled" : [[]]
+	},
+	"Gods and Kings" : {
+		"Era" : "Atomic",
+		"Cost" : 15990,
+		"Required techs" : ["Replaceable parts",  "Flight"],
+		"Leads" : ["Atomic_theory",  "Radar"],
+		"Units" :  Carrier  Battleship
+		"Buildings enabled" : [[]]
+	},
+	"Vanilla" : {
+		"Era" : "Industrial",
+		"Cost" : 7410,
+		"Required techs" : [Telegraph],
+		"Leads" : ["Computers"],
+		"Units" :  Mechanized infantry
+		"Buildings enabled" : [[]]
+	}
+},{
+	"Technology" : "Engineering",
+	"Brave New World" : {
+		"Era" : "Classical",
+		"Cost" : 525,
+		"Required techs" : ["Mathematics",  "Construction"],
+		"Leads" : ["Metal casting",  "Machinery"],
+		"Units" : [],
+		"Buildings enabled" : [Fort  Aqueduct  Great Wall]
+	},
+	"Gods and Kings" : {
+		"Era" : "Classical",
+		"Cost" : 525,
+		"Required techs" : ["Mathematics",  "Construction"],
+		"Leads" : ["Metal casting",  "Machinery"],
+		"Units" : [],
+		"Buildings enabled" : [Fort  Aqueduct  Great Wall]
+	},
+	"Vanilla" : {
+		"Era" : Medieval
+		"Cost" : 825,
+		"Required techs" : ["Mathematics",  "Construction"],
+		"Leads" : ["Machinery",  "Physics"],
+		"Units" : [],
+		"Buildings enabled" : [Fort  Aqueduct]
+	}
+},{
+	"Technology" : ""Fertilizer",",
+	"Brave New World" : {
+		"Era" : "Industrial",
+		"Cost" : 3900,
+		"Required techs" : ["Chemistry"],
+		"Leads" : ["Dynamite"],
+		"Units" : [],
+		"Buildings enabled" : [[]]
+	}
+},{
+	"Technology" : "Flight",
+	"Brave New World" : {
+		"Era" : Modern
+		"Cost" : 9300,
+		"Required techs" : ["Steam power"],
+		"Leads" : ["Electronics",  "Ballistics"],
+		"Units" :  Triplane  Great war bomber
+		"Buildings enabled" : [Prora]
+	},
+	"Gods and Kings" : {
+		"Era" : Modern
+		"Cost" : 9000,
+		"Required techs" : ["Steam power"],
+		"Leads" : ["Electronics",  "Ballistics"],
+		"Units" :  Triplane  Great war bomber
+		"Buildings enabled" : [[]]
+	},
+	"Vanilla" : {
+		"Era" : "Industrial",
+		"Cost" : 6600,
+		"Required techs" : ["Replaceable parts"],
+		"Leads" : ["Radar"],
+		"Units" :  Carrier  Fighter  Zero
+		"Buildings enabled" : [[]]
+	}
+},{
+	"Technology" : "Future_tech",
+	"Brave New World" : {
+		"Era" : "Information",
+		"Cost" : 28500,
+		"Required techs" : ["Nanotechnology",  "Nuclear fusion",  "Stealth",  "Particle physics",  "Globalization",  "The Internet"],
+		"Leads" : [[]],
+		"Units" : [],
+		"Buildings enabled" : [[]]
+	},
+	"Gods and Kings" : {
+		"Era" : Modern
+		"Cost" : 11400,
+		"Required techs" : ["Nanotechnology",  "Nuclear fusion"],
+		"Leads" : [[]],
+		"Units" : [],
+		"Buildings enabled" : [[]]
+	}
+},{
+	"Technology" : "Globalization",
+	"Brave New World" : {
+		"Era" : "Information",
+		"Cost" : 26400,
+		"Required techs" : ["Telecommunications"],
+		"Leads" : ["Future tech"],
+		"Units" : [],
+		"Buildings enabled" : [[]]
+	},
+	"Gods and Kings" : {
+		"Era" : "Information",
+		"Cost" : 24546,
+		"Required techs" : ["Telecommunications"],
+		"Leads" : ["Future tech"],
+		"Units" : [],
+		"Buildings enabled" : [United Nations]
+	},
+	"Vanilla" : {
+		"Era" : Modern
+		"Cost" : 9546,
+		"Required techs" : ["Ecology",  "Computers"],
+		"Leads" : ["Future tech"],
+		"Units" : [],
+		"Buildings enabled" : [United Nations]
+	}
+},{
+	"Technology" : "Guilds",
+	"Brave New World" : {
+		"Era" : Medieval
+		"Cost" : 825,
+		"Required techs" : [Currency],
+		"Leads" : ["Machinery",  "Chivalry"],
+		"Units" : [],
+		"Buildings enabled" : [Trading post  Polder  East India Company  Machu Picchu  Artists' guild]
+	},
+	"Gods and Kings" : {
+		"Era" : Medieval
+		"Cost" : 825,
+		"Required techs" : [Currency],
+		"Leads" : ["Machinery",  "Chivalry"],
+		"Units" : [],
+		"Buildings enabled" : [Trading post  Polder   National Treasury   Machu Picchu]
+	}
+},{
+	"Technology" : "Gunpowder",
+	"Brave New World" : {
+		"Era" : "Renaissance",
+		"Cost" : 2340,
+		"Required techs" : ["Physics",  Steel],
+		"Leads" : ["Chemistry",  "Metallurgy"],
+		"Units" :  Musketman  Minuteman  Musketeer  Janissary  Tercio
+		"Buildings enabled" : [Himeji Castle]
+	},
+	"Gods and Kings" : {
+		"Era" : "Renaissance",
+		"Cost" : 2160,
+		"Required techs" : ["Physics",  Steel],
+		"Leads" : ["Chemistry",  "Metallurgy"],
+		"Units" :  Musketman  Minuteman  Musketeer  Janissary  Tercio
+		"Buildings enabled" : [Himeji Castle]
+	},
+	"Vanilla" : {
+		"Era" : "Renaissance",
+		"Cost" : 2040,
+		"Required techs" : ["Physics",  Steel],
+		"Leads" : ["Chemistry",  "Metallurgy"],
+		"Units" :  Musketman  Minuteman  Musketeer  Janissary  Tercio
+		"Buildings enabled" : [[]]
+	}
+},{
+	"Technology" : "Horseback_riding",
+	"Brave New World" : {
+		"Era" : "Classical",
+		"Cost" : 315,
+		"Required techs" : ["The wheel",  "Trapping"],
+		"Leads" : ["Civil_service"],
+		"Units" :  Horseman  Companion cavalry  Cataphract  African forest elephant
+		"Buildings enabled" : [Stable  Caravansary  Ducal stable  Circus Maximus]
+	},
+	"Gods and Kings" : {
+		"Era" : "Classical",
+		"Cost" : 315,
+		"Required techs" : ["The wheel",  "Trapping"],
+		"Leads" : ["Civil_service"],
+		"Units" :  Horseman  Companion cavalry  Cataphract  African forest elephant
+		"Buildings enabled" : [Stable  Circus Maximus]
+	},
+	"Vanilla" : {
+		"Era" : "Classical",
+		"Cost" : 315,
+		"Required techs" : ["The wheel"],
+		"Leads" : ["Chivalry"],
+		"Units" :  Horseman  Companion cavalry
+		"Buildings enabled" : [Stable]
+	}
+},{
+	"Technology" : "Industrialization",
+	"Brave New World" : {
+		"Era" : "Industrial",
+		"Cost" : 4800,
+		"Required techs" : ["Economics"],
+		"Leads" : ["Steam power"],
+		"Units" :  Gatling gun
+		"Buildings enabled" : [Factory  Big Ben]
+	},
+	"Gods and Kings" : {
+		"Era" : "Industrial",
+		"Cost" : 4800,
+		"Required techs" : ["Economics"],
+		"Leads" : ["Steam power"],
+		"Units" :  Gatling gun
+		"Buildings enabled" : [Factory  Big Ben]
+	}
+},{
+	"Technology" : "Iron_working",
+	"Brave New World" : {
+		"Era" : "Classical",
+		"Cost" : 585,
+		"Required techs" : [Bronze working],
+		"Leads" : ["Metal casting"],
+		"Units" :  Swordsman  Mohawk warrior  Legion  Kris swordsman
+		"Buildings enabled" : [Heroic Epic  Colossus]
+	},
+	"Gods and Kings" : {
+		"Era" : "Classical",
+		"Cost" : 585,
+		"Required techs" : [Bronze working],
+		"Leads" : ["Metal casting"],
+		"Units" :  Swordsman  Mohawk warrior  Legion
+		"Buildings enabled" : [Heroic Epic  Colossus]
+	},
+	"Vanilla" : {
+		"Era" : "Classical",
+		"Cost" : 315,
+		"Required techs" : [Bronze working],
+		"Leads" : ["Metal casting"],
+		"Units" :  Swordsman  Mohawk warrior  Legion
+		"Buildings enabled" : [Heroic Epic]
+	}
+},{
+	"Technology" : "Lasers",
+	"Brave New World" : {
+		"Era" : "Information",
+		"Cost" : 23100,
+		"Required techs" : ["Computers"],
+		"Leads" : ["Stealth"],
+		"Units" :  Jet fighter  Modern armor
+		"Buildings enabled" : [[]]
+	},
+	"Gods and Kings" : {
+		"Era" : "Information",
+		"Cost" : 25500,
+		"Required techs" : ["Computers"],
+		"Leads" : ["Stealth"],
+		"Units" :  Jet fighter  Modern armor
+		"Buildings enabled" : [[]]
+	},
+	"Vanilla" : {
+		"Era" : "Information",
+		"Cost" : 23100,
+		"Required techs" : ["Radar",  "Combustion"],
+		"Leads" : ["Stealth",  "Advanced ballistics"],
+		"Units" :  Jet fighter  Modern armor
+		"Buildings enabled" : [[]]
+	}
+},{
+	"Technology" : "Machinery",
+	"Brave New World" : {
+		"Era" : Medieval
+		"Cost" : 1455,
+		"Required techs" : [Engineering  Guilds],
+		"Leads" : ["Printing press"],
+		"Units" :  Crossbowman  Longbowman  Chu-ko-nu
+		"Buildings enabled" : [Ironworks  Brazilwood camp]
+	},
+	"Gods and Kings" : {
+		"Era" : Medieval
+		"Cost" : 1320,
+		"Required techs" : [Engineering],
+		"Leads" : ["Printing press"],
+		"Units" :  Crossbowman  Longbowman  Chu-ko-nu
+		"Buildings enabled" : [Ironworks]
+	}
+},{
+	"Technology" : "Masonry",
+	"Brave New World" : {
+		"Era" : "Ancient",
+		"Cost" : 165,
+		"Required techs" : ["Mining"],
+		"Leads" : ["Construction"],
+		"Units" : [],
+		"Buildings enabled" : [Quarry  Walls  Walls of Babylon  Pyramids  Mausoleum of Halicarnassus]
+	}
+},{
+	"Technology" : "Mass_media",
+	"Brave New World" : {
+		"Era" : "Industrial",
+		"Cost" : 7410,
+		"Required techs" : ["Radio"],
+		"Leads" : ["Computers"],
+		"Units" : [],
+		"Buildings enabled" : [Stadium  Sydney Opera House]
+	}
+},{
+	"Technology" : "Mathematics",
+	"Brave New World" : {
+		"Era" : "Classical",
+		"Cost" : 315,
+		"Required techs" : ["The wheel"],
+		"Leads" : [Currency  Engineering],
+		"Units" :  Catapult  Ballista  Siege tower
+		"Buildings enabled" : [Courthouse  Hanging Gardens]
+	},
+	"Gods and Kings" : {
+		"Era" : "Classical",
+		"Cost" : 315,
+		"Required techs" : ["The wheel"],
+		"Leads" : [Currency  Engineering],
+		"Units" :  Catapult  Ballista
+		"Buildings enabled" : [Courthouse  Hanging Gardens]
+	},
+	"Vanilla" : {
+		"Era" : "Classical",
+		"Cost" : 315,
+		"Required techs" : ["The wheel",  "Archery"],
+		"Leads" : [Currency  Engineering],
+		"Units" :  Catapult  Ballista
+		"Buildings enabled" : [Courthouse  Hanging Gardens]
+	}
+},{
+	"Technology" : "Metal_casting",
+	"Brave New World" : {
+		"Era" : Medieval
+		"Cost" : 825,
+		"Required techs" : [Engineering  "Iron working"],
+		"Leads" : ["Physics",  Steel],
+		"Units" :  Berserker
+		"Buildings enabled" : [Forge  Workshop  Longhouse]
+	},
+	"Gods and Kings" : {
+		"Era" : Medieval
+		"Cost" : 750,
+		"Required techs" : ["Iron working"],
+		"Leads" : ["Physics",  Steel],
+		"Units" : [],
+		"Buildings enabled" : [Forge  Workshop  Longhouse]
+	}
+},{
+	"Technology" : ""Metallurgy",",
+	"Brave New World" : {
+		"Era" : "Renaissance",
+		"Cost" : 3450,
+		"Required techs" : ["Gunpowder"],
+		"Leads" : ["Rifling",  "Military science"],
+		"Units" :  Lancer  Sipahi  Hakkapeliitta  Winged hussar
+		"Buildings enabled" : [Arsenal  Red Fort]
+	},
+	"Gods and Kings" : {
+		"Era" : "Renaissance",
+		"Cost" : 3288,
+		"Required techs" : ["Gunpowder"],
+		"Leads" : ["Rifling",  "Military science"],
+		"Units" :  Lancer  Sipahi  Hakkapeliitta
+		"Buildings enabled" : [Arsenal  "Kremlin"]
+	},
+	"Vanilla" : {
+		"Era" : "Renaissance",
+		"Cost" : 2700,
+		"Required techs" : ["Gunpowder"],
+		"Leads" : ["Rifling"],
+		"Units" :  Lancer
+		"Buildings enabled" : [[]]
+	}
+},{
+	"Technology" : "Military_science",
+	"Brave New World" : {
+		"Era" : "Industrial",
+		"Cost" : 4800,
+		"Required techs" : ["Metallurgy",  "Chemistry"],
+		"Leads" : ["Dynamite"],
+		"Units" :  Cavalry  Cossack  Hussar  Berber cavalry  Comanche riders
+		"Buildings enabled" : [Military academy  Brandenburg Gate]
+	},
+	"Gods and Kings" : {
+		"Era" : "Industrial",
+		"Cost" : 6000,
+		"Required techs" : ["Metallurgy",  "Chemistry"],
+		"Leads" : ["Dynamite"],
+		"Units" :  Cavalry  Cossack  Hussar
+		"Buildings enabled" : [Military academy  Brandenburg Gate]
+	},
+	"Vanilla" : {
+		"Era" : "Industrial",
+		"Cost" : 3900,
+		"Required techs" : ["Economics",  "Chemistry"],
+		"Leads" : ["Steam power"],
+		"Units" :  Cavalry  Cossack
+		"Buildings enabled" : [Military academy  Brandenburg Gate]
+	}
+},{
+	"Technology" : "Mining",
+	"Brave New World" : {
+		"Era" : "Ancient",
+		"Cost" : 105,
+		"Required techs" : ["Agriculture"],
+		"Leads" : [Masonry  Bronze working],
+		"Units" : [],
+		"Buildings enabled" : [Mine]
+	}
+},{
+	"Technology" : "Mobile_tactics",
+	"Brave New World" : {
+		"Era" : "Information",
+		"Cost" : 23100,
+		"Required techs" : ["Ecology",  "Nuclear fission"],
+		"Leads" : ["Particle physics"],
+		"Units" :  Mechanized infantry
+		"Buildings enabled" : [[]]
+	},
+	"Gods and Kings" : {
+		"Era" : "Information",
+		"Cost" : 23100,
+		"Required techs" : ["Ecology",  "Nuclear fission"],
+		"Leads" : ["Particle physics"],
+		"Units" :  Mechanized infantry
+		"Buildings enabled" : [[]]
+	}
+},{
+	"Technology" : "Nanotechnology",
+	"Brave New World" : {
+		"Era" : "Information",
+		"Cost" : 26400,
+		"Required techs" : ["Robotics"],
+		"Leads" : ["Future tech"],
+		"Units" :  XCOM Squad  SS Stasis Chamber
+		"Buildings enabled" : [[]]
+	},
+	"Gods and Kings" : {
+		"Era" : "Information",
+		"Cost" : 24405,
+		"Required techs" : ["Robotics"],
+		"Leads" : ["Future tech"],
+		"Units" :  SS Stasis Chamber
+		"Buildings enabled" : [[]]
+	},
+	"Vanilla" : {
+		"Era" : Modern
+		"Cost" : 9405,
+		"Required techs" : ["Particle physics"],
+		"Leads" : ["Future tech"],
+		"Units" :  SS Stasis Chamber
+		"Buildings enabled" : [Solar plant]
+	}
+},{
+	"Technology" : "Navigation",
+	"Brave New World" : {
+		"Era" : "Renaissance",
+		"Cost" : 3450,
+		"Required techs" : ["Astronomy"],
+		"Leads" : ["Archaeology",  "Scientific theory"],
+		"Units" :  Frigate  Ship of the line  Privateer  Sea beggar
+		"Buildings enabled" : [Seaport  Feitoria]
+	},
+	"Gods and Kings" : {
+		"Era" : "Renaissance",
+		"Cost" : 2700,
+		"Required techs" : ["Astronomy"],
+		"Leads" : ["Archaeology",  "Scientific theory"],
+		"Units" :  Frigate  Ship of the line  Privateer  Sea beggar
+		"Buildings enabled" : [Seaport]
+	},
+	"Vanilla" : {
+		"Era" : "Renaissance",
+		"Cost" : 2700,
+		"Required techs" : ["Astronomy"],
+		"Leads" : ["Archaeology",  "Scientific theory"],
+		"Units" :  Frigate  Ship of the line
+		"Buildings enabled" : [Seaport]
+	}
+},{
+	"Technology" : "Nuclear_fission",
+	"Brave New World" : {
+		"Era" : "Atomic",
+		"Cost" : 19200,
+		"Required techs" : ["Atomic_theory",  "Radar"],
+		"Leads" : ["Advanced ballistics",  "Mobile tactics"],
+		"Units" :  "Atomic", bomb  Bazooka
+		"Buildings enabled" : [Nuclear plant]
+	},
+	"Gods and Kings" : {
+		"Era" : "Atomic",
+		"Cost" : 20550,
+		"Required techs" : ["Atomic_theory",  "Radar"],
+		"Leads" : ["Advanced ballistics",  "Mobile tactics"],
+		"Units" :  "Atomic", bomb
+		"Buildings enabled" : [Nuclear plant]
+	},
+	"Vanilla" : {
+		"Era" : "Industrial",
+		"Cost" : 8550,
+		"Required techs" : ["Atomic_theory"],
+		"Leads" : ["Advanced ballistics"],
+		"Units" :  "Atomic", bomb
+		"Buildings enabled" : [Nuclear plant]
+	}
+},{
+	"Technology" : "Nuclear_fusion",
+	"Brave New World" : {
+		"Era" : "Information",
+		"Cost" : 26400,
+		"Required techs" : ["Satellites",  "Robotics",  "Advanced ballistics"],
+		"Leads" : ["Future tech"],
+		"Units" :  Giant death robot
+		"Buildings enabled" : [[]]
+	},
+	"Gods and Kings" : {
+		"Era" : "Information",
+		"Cost" : 25260,
+		"Required techs" : ["Satellites",  "Robotics",  "Advanced ballistics"],
+		"Leads" : ["Future tech"],
+		"Units" :  Giant death robot
+		"Buildings enabled" : [[]]
+	},
+	"Vanilla" : {
+		"Era" : Modern
+		"Cost" : 10260,
+		"Required techs" : ["Satellites",  "Stealth",  "Advanced ballistics"],
+		"Leads" : ["Future tech"],
+		"Units" :  Giant death robot
+		"Buildings enabled" : [[]]
+	}
+},{
+	"Technology" : "Optics",
+	"Brave New World" : {
+		"Era" : "Classical",
+		"Cost" : 255,
+		"Required techs" : ["Sailing"],
+		"Leads" : ["Compass"],
+		"Units" : [],
+		"Buildings enabled" : [Lighthouse  Great Lighthouse]
+	},
+	"Gods and Kings" : {
+		"Era" : "Classical",
+		"Cost" : 255,
+		"Required techs" : ["Sailing"],
+		"Leads" : ["Compass"],
+		"Units" : [],
+		"Buildings enabled" : [Lighthouse  Great Lighthouse]
+	},
+	"Vanilla" : {
+		"Era" : "Classical",
+		"Cost" : 255,
+		"Required techs" : ["Sailing"],
+		"Leads" : ["Compass"],
+		"Units" : [],
+		"Buildings enabled" : [[]]
+	}
+},{
+	"Technology" : "Particle_physics",
+	"Brave New World" : {
+		"Era" : "Information",
+		"Cost" : 26400,
+		"Required techs" : ["Telecommunications",  "Advanced ballistics",  "Mobile tactics"],
+		"Leads" : ["Future tech"],
+		"Units" :  SS Engine
+		"Buildings enabled" : [[]]
+	},
+	"Gods and Kings" : {
+		"Era" : "Information",
+		"Cost" : 24546,
+		"Required techs" : ["Telecommunications",  "Advanced ballistics",  "Mobile tactics"],
+		"Leads" : ["Future tech"],
+		"Units" :  SS Engine
+		"Buildings enabled" : [[]]
+	},
+	"Vanilla" : {
+		"Era" : Modern
+		"Cost" : 9546,
+		"Required techs" : ["Globalization",  "Robotics",  "Satellites"],
+		"Leads" : ["Nanotechnology"],
+		"Units" :  SS Engine
+		"Buildings enabled" : [[]]
+	}
+},{
+	"Technology" : "Penicillin",
+	"Brave New World" : {
+		"Era" : "Atomic",
+		"Cost" : 15300,
+		"Required techs" : ["Refrigeration",  "Plastics"],
+		"Leads" : ["Ecology"],
+		"Units" :  Marine
+		"Buildings enabled" : [Medical lab]
+	},
+	"Gods and Kings" : {
+		"Era" : "Atomic",
+		"Cost" : 15000,
+		"Required techs" : ["Refrigeration",  "Plastics"],
+		"Leads" : ["Ecology"],
+		"Units" :  Marine
+		"Buildings enabled" : [Medical lab]
+	},
+	"Vanilla" : {
+		"Era" : "Industrial",
+		"Cost" : 7410,
+		"Required techs" : ["Refrigeration"],
+		"Leads" : ["Ecology"],
+		"Units" :  Marine
+		"Buildings enabled" : [Medical lab]
+	}
+},{
+	"Technology" : "Philosophy",
+	"Brave New World" : {
+		"Era" : "Classical",
+		"Cost" : 525,
+		"Required techs" : ["Calendar",  "Writing"],
+		"Leads" : ["Theology"],
+		"Units" : [],
+		"Buildings enabled" : [Temple  Burial tomb  Mud pyramid mosque  National College  Oracle]
+	},
+	"Gods and Kings" : {
+		"Era" : "Classical",
+		"Cost" : 525,
+		"Required techs" : ["Calendar",  "Writing"],
+		"Leads" : ["Theology"],
+		"Units" : [],
+		"Buildings enabled" : [Temple  Burial tomb  Mud pyramid mosque  National College  Oracle]
+	},
+	"Vanilla" : {
+		"Era" : "Classical",
+		"Cost" : 315,
+		"Required techs" : ["Writing"],
+		"Leads" : ["Theology",  "Civil_service"],
+		"Units" : [],
+		"Buildings enabled" : [Temple  Burial tomb  Mud pyramid mosque  National College  National Epic  Oracle]
+	}
+},{
+	"Technology" : "Physics",
+	"Brave New World" : {
+		"Era" : Medieval
+		"Cost" : 1455,
+		"Required techs" : ["Metal casting"],
+		"Leads" : ["Printing press",  "Gunpowder"],
+		"Units" :  Trebuchet  Hwach'a
+		"Buildings enabled" : [Notre Dame]
+	},
+	"Gods and Kings" : {
+		"Era" : Medieval
+		"Cost" : 1455,
+		"Required techs" : [Engineering  "Metal casting"],
+		"Leads" : ["Printing press",  "Gunpowder"],
+		"Units" :  Trebuchet  Hwach'a
+		"Buildings enabled" : [Notre Dame]
+	},
+	"Vanilla" : {
+		"Era" : Medieval
+		"Cost" : 1320,
+		"Required techs" : [Engineering  "Metal casting"],
+		"Leads" : ["Printing press",  "Gunpowder"],
+		"Units" :  Trebuchet  Hwach'a
+		"Buildings enabled" : [[]]
+	}
+},{
+	"Technology" : "Plastics",
+	"Brave New World" : {
+		"Era" : Modern
+		"Cost" : 12300,
+		"Required techs" : ["Radio",  "Replaceable parts"],
+		"Leads" : ["Penicillin",  "Atomic_theory"],
+		"Units" :  Infantry  Pracinha
+		"Buildings enabled" : [Research lab  Cristo Redentor]
+	},
+	"Gods and Kings" : {
+		"Era" : "Atomic",
+		"Cost" : 15990,
+		"Required techs" : ["Radio",  "Replaceable parts"],
+		"Leads" : ["Penicillin",  "Atomic_theory"],
+		"Units" :  Infantry
+		"Buildings enabled" : [Research lab  Cristo Redentor]
+	},
+	"Vanilla" : {
+		"Era" : "Industrial",
+		"Cost" : 7410,
+		"Required techs" : ["Refrigeration"],
+		"Leads" : ["Ecology"],
+		"Units" : [],
+		"Buildings enabled" : [Hydro plant  Research lab]
+	}
+},{
+	"Technology" : "Pottery",
+	"Brave New World" : {
+		"Era" : "Ancient",
+		"Cost" : 105,
+		"Required techs" : ["Agriculture"],
+		"Leads" : ["Sailing",  "Calendar",  "Writing"],
+		"Units" : [],
+		"Buildings enabled" : [Granary  Shrine  Pyramid]
+	},
+	"Gods and Kings" : {
+		"Era" : "Ancient",
+		"Cost" : 105,
+		"Required techs" : ["Agriculture"],
+		"Leads" : ["Sailing",  "Calendar",  "Writing"],
+		"Units" : [],
+		"Buildings enabled" : [Granary  Shrine  Pyramid]
+	},
+	"Vanilla" : {
+		"Era" : "Ancient",
+		"Cost" : 105,
+		"Required techs" : ["Agriculture"],
+		"Leads" : ["Sailing",  "Calendar",  "Writing"],
+		"Units" : [],
+		"Buildings enabled" : [Granary]
+	}
+},{
+	"Technology" : "Printing_press",
+	"Brave New World" : {
+		"Era" : "Renaissance",
+		"Cost" : 2340,
+		"Required techs" : ["Machinery",  "Physics",  "Chivalry"],
+		"Leads" : ["Economics",  "Metallurgy"],
+		"Units" : [],
+		"Buildings enabled" : [Zoo  Leaning Tower of Pisa  Globe Theatre]
+	},
+	"Gods and Kings" : {
+		"Era" : "Renaissance",
+		"Cost" : 1950,
+		"Required techs" : ["Machinery",  "Physics",  "Chivalry"],
+		"Leads" : ["Economics",  "Metallurgy"],
+		"Units" : [],
+		"Buildings enabled" : [Theatre  Leaning Tower of Pisa]
+	},
+	"Vanilla" : {
+		"Era" : "Renaissance",
+		"Cost" : 1950,
+		"Required techs" : ["Machinery",  "Physics",  "Chivalry"],
+		"Leads" : ["Economics",  "Metallurgy"],
+		"Units" : [],
+		"Buildings enabled" : [Theatre  Taj Mahal]
+	}
+},{
+	"Technology" : "Radar",
+	"Brave New World" : {
+		"Era" : "Atomic",
+		"Cost" : 15300,
+		"Required techs" : ["Ballistics",  "Electronics"],
+		"Leads" : ["Rocketry",  "Nuclear fission",  "Computers"],
+		"Units" :  Bomber  B17  Fighter  Zero  Paratrooper
+		"Buildings enabled" : [Airport]
+	},
+	"Gods and Kings" : {
+		"Era" : "Atomic",
+		"Cost" : 19890,
+		"Required techs" : ["Ballistics",  "Electronics"],
+		"Leads" : ["Rocketry",  "Nuclear fission",  "Computers"],
+		"Units" :  Bomber  B17  Fighter  Zero  Paratrooper
+		"Buildings enabled" : [[]]
+	},
+	"Vanilla" : {
+		"Era" : "Industrial",
+		"Cost" : 7410,
+		"Required techs" : ["Radio",  "Flight"],
+		"Leads" : ["Rocketry",  "Lasers"],
+		"Units" :  Bomber  B17  Paratrooper
+		"Buildings enabled" : [Pentagon]
+	}
+},{
+	"Technology" : "Radio",
+	"Brave New World" : {
+		"Era" : Modern
+		"Cost" : 9300,
+		"Required techs" : ["Electricity"],
+		"Leads" : ["Plastics"],
+		"Units" : [],
+		"Buildings enabled" : [Broadcast tower  Eiffel Tower  National Intelligence Agency  Broadway]
+	},
+	"Gods and Kings" : {
+		"Era" : Modern
+		"Cost" : 9000,
+		"Required techs" : ["Electricity"],
+		"Leads" : ["Plastics"],
+		"Units" : [],
+		"Buildings enabled" : [Broadcast tower  Eiffel Tower  National Intelligence Agency]
+	},
+	"Vanilla" : {
+		"Era" : "Industrial",
+		"Cost" : 6600,
+		"Required techs" : ["Electricity"],
+		"Leads" : ["Radar",  "Mass media"],
+		"Units" :  Anti-aircraft gun
+		"Buildings enabled" : [Broadcast tower  Eiffel Tower]
+	}
+},{
+	"Technology" : "Railroad",
+	"Brave New World" : {
+		"Era" : Modern
+		"Cost" : 9300,
+		"Required techs" : ["Steam power",  "Dynamite"],
+		"Leads" : ["Combustion",  "Ballistics"],
+		"Units" : [],
+		"Buildings enabled" : ["Railroad",s  "Kremlin",  Neuschwanstein Castle]
+	},
+	"Gods and Kings" : {
+		"Era" : Modern
+		"Cost" : 9000,
+		"Required techs" : ["Steam power",  "Dynamite"],
+		"Leads" : ["Combustion",  "Ballistics"],
+		"Units" : [],
+		"Buildings enabled" : ["Railroad",s  Neuschwanstein Castle]
+	},
+	"Vanilla" : {
+		"Era" : "Industrial",
+		"Cost" : 5700,
+		"Required techs" : ["Steam power"],
+		"Leads" : ["Combustion"],
+		"Units" : [],
+		"Buildings enabled" : [[]]
+	}
+},{
+	"Technology" : "Refrigeration",
+	"Brave New World" : {
+		"Era" : Modern
+		"Cost" : 9300,
+		"Required techs" : ["Biology",  "Electricity"],
+		"Leads" : ["Penicillin"],
+		"Units" :  Submarine
+		"Buildings enabled" : [Stadium  Offshore platform  Hotel]
+	},
+	"Gods and Kings" : {
+		"Era" : Modern
+		"Cost" : 9000,
+		"Required techs" : ["Biology",  "Electricity"],
+		"Leads" : ["Penicillin"],
+		"Units" :  Submarine
+		"Buildings enabled" : [Stadium  Offshore platform]
+	},
+	"Vanilla" : {
+		"Era" : "Industrial",
+		"Cost" : 6600,
+		"Required techs" : ["Electricity"],
+		"Leads" : ["Plastics",  "Penicillin"],
+		"Units" :  Submarine
+		"Buildings enabled" : [Offshore platform]
+	}
+},{
+	"Technology" : "Replaceable_parts",
+	"Brave New World" : {
+		"Era" : Modern
+		"Cost" : 9300,
+		"Required techs" : ["Electricity",  "Steam power"],
+		"Leads" : ["Plastics",  "Electronics"],
+		"Units" :  Great war infantry  Foreign legion
+		"Buildings enabled" : [Military base  Statue of Liberty]
+	},
+	"Gods and Kings" : {
+		"Era" : Modern
+		"Cost" : 12300,
+		"Required techs" : ["Electricity",  "Steam power"],
+		"Leads" : ["Plastics",  "Electronics"],
+		"Units" :  Great war infantry  Foreign legion
+		"Buildings enabled" : [Military base  Statue of Liberty]
+	},
+	"Vanilla" : {
+		"Era" : Modern
+		"Cost" : 9300,
+		"Required techs" : ["Steam power"],
+		"Leads" : ["Flight",  "Combustion"],
+		"Units" : [],
+		"Buildings enabled" : [Statue of Liberty]
+	}
+},{
+	"Technology" : "Rifling",
+	"Brave New World" : {
+		"Era" : "Industrial",
+		"Cost" : 4275,
+		"Required techs" : ["Metallurgy"],
+		"Leads" : ["Dynamite"],
+		"Units" :  Rifleman  Norwegian ski infantry  Mehal sefari  Carolean
+		"Buildings enabled" : [[]]
+	}
+},{
+	"Technology" : "Robotics",
+	"Brave New World" : {
+		"Era" : "Information",
+		"Cost" : 23100,
+		"Required techs" : ["Computers",  "Rocketry"],
+		"Leads" : ["Nuclear fusion",  "Nanotechnology",  "Stealth"],
+		"Units" :  Missile cruiser
+		"Buildings enabled" : [Spaceship factory]
+	},
+	"Gods and Kings" : {
+		"Era" : "Information",
+		"Cost" : 23100,
+		"Required techs" : ["Computers",  "Rocketry"],
+		"Leads" : ["Nuclear fusion",  "Nanotechnology",  "Stealth"],
+		"Units" :  Missile cruiser
+		"Buildings enabled" : [Spaceship factory]
+	},
+	"Vanilla" : {
+		"Era" : "Information",
+		"Cost" : 23100,
+		"Required techs" : ["Computers",  "Penicillin"],
+		"Leads" : ["Particle physics"],
+		"Units" :  SS Booster  Missile cruiser
+		"Buildings enabled" : [Spaceship factory]
+	}
+},{
+	"Technology" : "Rocketry",
+	"Brave New World" : {
+		"Era" : "Atomic",
+		"Cost" : 19200,
+		"Required techs" : ["Radar"],
+		"Leads" : ["Advanced ballistics",  "Satellites",  "Robotics"],
+		"Units" :  Mobile SAM  Rocket artillery
+		"Buildings enabled" : [Apollo Program]
+	},
+	"Gods and Kings" : {
+		"Era" : "Atomic",
+		"Cost" : 19200,
+		"Required techs" : ["Radar"],
+		"Leads" : ["Advanced ballistics",  "Satellites",  "Robotics"],
+		"Units" :  Mobile SAM  Rocket artillery
+		"Buildings enabled" : [Apollo Program]
+	},
+	"Vanilla" : {
+		"Era" : "Industrial",
+		"Cost" : 8550,
+		"Required techs" : ["Radar"],
+		"Leads" : ["Satellites"],
+		"Units" :  Helicopter gunship  Rocket artillery
+		"Buildings enabled" : [Apollo Program]
+	}
+},{
+	"Technology" : "Sailing",
+	"Brave New World" : {
+		"Era" : "Ancient",
+		"Cost" : 165,
+		"Required techs" : ["Pottery"],
+		"Leads" : ["Optics"],
+		"Units" :  Work boat  Trireme  Dromon  Quinquereme  Cargo ship
+		"Buildings enabled" : [Fishing boats]
+	},
+	"Gods and Kings" : {
+		"Era" : "Ancient",
+		"Cost" : 165,
+		"Required techs" : ["Pottery"],
+		"Leads" : ["Optics"],
+		"Units" :  Work boat  Trireme  Dromon  Quinquereme
+		"Buildings enabled" : [Fishing boats]
+	},
+	"Vanilla" : {
+		"Era" : "Ancient",
+		"Cost" : 165,
+		"Required techs" : ["Pottery"],
+		"Leads" : ["Optics"],
+		"Units" :  Work boat  Trireme
+		"Buildings enabled" : [Great Lighthouse  Fishing boats]
+	}
+},{
+	"Technology" : "Satellites",
+	"Brave New World" : {
+		"Era" : "Information",
+		"Cost" : 23100,
+		"Required techs" : ["Rocketry"],
+		"Leads" : ["Nuclear fusion"],
+		"Units" :  SS Cockpit
+		"Buildings enabled" : [Hubble Telescope]
+	},
+	"Gods and Kings" : {
+		"Era" : "Information",
+		"Cost" : 24546,
+		"Required techs" : ["Rocketry"],
+		"Leads" : ["Nuclear fusion"],
+		"Units" :  SS Cockpit
+		"Buildings enabled" : [Hubble Telescope]
+	},
+	"Vanilla" : {
+		"Era" : Modern
+		"Cost" : 9546,
+		"Required techs" : ["Rocketry"],
+		"Leads" : ["Particle physics",  "Nuclear fusion"],
+		"Units" :  SS Cockpit  Guided missile
+		"Buildings enabled" : [Hubble Telescope]
+	}
+},{
+	"Technology" : "Scientific_theory",
+	"Brave New World" : {
+		"Era" : "Industrial",
+		"Cost" : 4800,
+		"Required techs" : ["Economics",  "Architecture"],
+		"Leads" : ["Biology",  "Steam power",  "Electricity"],
+		"Units" : [],
+		"Buildings enabled" : [Public school]
+	},
+	"Gods and Kings" : {
+		"Era" : "Industrial",
+		"Cost" : 4800,
+		"Required techs" : ["Economics",  "Architecture"],
+		"Leads" : ["Biology",  "Steam power",  "Electricity"],
+		"Units" : [],
+		"Buildings enabled" : [Public school]
+	},
+	"Vanilla" : {
+		"Era" : "Industrial",
+		"Cost" : 4800,
+		"Required techs" : ["Navigation",  "Acoustics",  "Economics"],
+		"Leads" : ["Biology",  "Steam power"],
+		"Units" : [],
+		"Buildings enabled" : [Public school]
+	}
+},{
+	"Technology" : "Stealth",
+	"Brave New World" : {
+		"Era" : "Information",
+		"Cost" : 26400,
+		"Required techs" : ["Lasers",  "Robotics"],
+		"Leads" : ["Future tech"],
+		"Units" :  "Stealth", bomber
+		"Buildings enabled" : [[]]
+	},
+	"Gods and Kings" : {
+		"Era" : "Information",
+		"Cost" : 24600,
+		"Required techs" : ["Lasers"],
+		"Leads" : ["Future tech"],
+		"Units" :  "Stealth", bomber
+		"Buildings enabled" : [[]]
+	},
+	"Vanilla" : {
+		"Era" : Modern
+		"Cost" : 9546,
+		"Required techs" : ["Lasers"],
+		"Leads" : ["Nuclear fusion"],
+		"Units" :  "Stealth", bomber
+		"Buildings enabled" : [[]]
+	}
+},{
+	"Technology" : "Steam_power",
+	"Brave New World" : {
+		"Era" : "Industrial",
+		"Cost" : 7050,
+		"Required techs" : ["Scientific theory",  "Industrialization",  "Rifling"],
+		"Leads" : ["Flight",  "Replaceable parts",  "Railroad"],
+		"Units" :  Ironclad
+		"Buildings enabled" : [[]]
+	},
+	"Gods and Kings" : {
+		"Era" : "Industrial",
+		"Cost" : 6717,
+		"Required techs" : ["Scientific theory",  "Industrialization",  "Rifling"],
+		"Leads" : ["Flight",  "Replaceable parts",  "Railroad"],
+		"Units" :  Ironclad
+		"Buildings enabled" : [[]]
+	},
+	"Vanilla" : {
+		"Era" : "Industrial",
+		"Cost" : 5040,
+		"Required techs" : ["Scientific theory",  "Military science"],
+		"Leads" : ["Electricity",  "Replaceable parts",  "Railroad"],
+		"Units" :  Ironclad
+		"Buildings enabled" : [Factory]
+	}
+},{
+	"Technology" : "Steel",
+	"Brave New World" : {
+		"Era" : Medieval
+		"Cost" : 1455,
+		"Required techs" : ["Metal casting"],
+		"Leads" : ["Gunpowder"],
+		"Units" :  Longswordsman  Samurai
+		"Buildings enabled" : [Armory]
+	},
+	"Gods and Kings" : {
+		"Era" : Medieval
+		"Cost" : 1320,
+		"Required techs" : ["Metal casting"],
+		"Leads" : ["Gunpowder"],
+		"Units" :  Longswordsman  Samurai  Berserker
+		"Buildings enabled" : [Armory]
+	}
+},{
+	"Technology" : "Telecommunications",
+	"Brave New World" : {
+		"Era" : "Information",
+		"Cost" : 23100,
+		"Required techs" : ["Ecology"],
+		"Leads" : ["Globalization",  "Particle physics",  "The Internet"],
+		"Units" :  Nuclear submarine
+		"Buildings enabled" : [Bomb shelter  National Visitor's Center  CN Tower]
+	},
+	"Gods and Kings" : {
+			"Required techs" : ["Ecology"],
+		"Leads" : ["Globalization",  "Particle physics"],
+		"Units" : [],
+		"Buildings enabled" : [Bomb shelter  CN Tower]
+	}
+},{
+	"Technology" : "Telegraph",
+	"Brave New World" : {
+		"Era" : "Industrial",
+		"Cost" : 6600,
+		"Required techs" : ["Electricity"],
+		"Leads" : ["Electronics"],
+		"Units" :  Battleship
+		"Buildings enabled" : [Military base  Cristo Redentor]
+	}
+},{
+	"Technology" : "The_Internet",
+	"Brave New World" : {
+		"Era" : "Information",
+		"Cost" : 26400,
+		"Required techs" : ["Telecommunications"],
+		"Leads" : ["Future tech"],
+		"Units" : [],
+		"Buildings enabled" : [[]]
+	}
+},{
+	"Technology" : "The_wheel",
+	"Brave New World" : {
+		"Era" : "Ancient",
+		"Cost" : 165,
+		"Required techs" : ["Animal_husbandry",  "Archery"],
+		"Leads" : ["Horseback riding",  "Mathematics",  "Construction"],
+		"Units" :  Chariot archer  War chariot  War elephant  Horse archer
+		"Buildings enabled" : [Roads  Water mill  Floating gardens]
+	},
+	"Gods and Kings" : {
+		"Era" : "Ancient",
+		"Cost" : 165,
+		"Required techs" : ["Animal_husbandry"],
+		"Leads" : ["Horseback riding",  "Mathematics",  "Construction"],
+		"Units" :  Chariot archer  War chariot  War elephant  Horse archer
+		"Buildings enabled" : [Roads  Water mill  Floating gardens]
+	},
+	"Vanilla" : {
+		"Era" : "Ancient",
+		"Cost" : 165,
+		"Required techs" : ["Animal_husbandry",  "Archery"],
+		"Leads" : ["Horseback riding",  "Mathematics"],
+		"Units" :  Chariot archer  War chariot  War elephant
+		"Buildings enabled" : [Roads  Water mill  Floating gardens]
+	}
+},{
+	"Technology" : "Theology",
+	"Brave New World" : {
+		"Era" : Medieval
+		"Cost" : 825,
+		"Required techs" : ["Drama_and_poetry",  "Philosophy"],
+		"Leads" : ["Education",  "Compass"],
+		"Units" : [],
+		"Buildings enabled" : [Garden  Candi  Grand Temple  Great Mosque of Djenne  Hagia Sophia  Borobudur]
+	},
+	"Gods and Kings" : {
+		"Era" : Medieval
+		"Cost" : 750,
+		"Required techs" : ["Calendar",  "Philosophy"],
+		"Leads" : ["Education"],
+		"Units" : [],
+		"Buildings enabled" : [Garden  Great Mosque of Djenne  Hagia Sophia  Grand Temple]
+	}
+},{
+	"Technology" : "Trapping",
+	"Brave New World" : {
+		"Era" : "Ancient",
+		"Cost" : 165,
+		"Required techs" : ["Animal_husbandry"],
+		"Leads" : ["Horseback riding"],
+		"Units" : [],
+		"Buildings enabled" : [Camp  Circus]
+	},
+	"Gods and Kings" : {
+		"Era" : "Ancient",
+		"Cost" : 165,
+		"Required techs" : ["Animal_husbandry"],
+		"Leads" : ["Civil_service"],
+		"Units" : [],
+		"Buildings enabled" : [Camp  Circus]
+	},
+	"Vanilla" : {
+		"Era" : "Ancient",
+		"Cost" : 165,
+		"Required techs" : ["Animal_husbandry"],
+		"Leads" : ["Civil_service"],
+		"Units" : [],
+		"Buildings enabled" : [Camp  Trading post  Circus]
+	}
+},{
+	"Technology" : "Writing",
+	"Brave New World" : {
+		"Era" : "Ancient",
+		"Cost" : 165,
+		"Required techs" : ["Pottery"],
+		"Leads" : ["Philosophy",  "Drama_and_poetry"],
+		"Units" : [],
+		"Buildings enabled" : [Library  Paper maker  Great Library  Royal library]
+	},
+	"Gods and Kings" : {
+		"Era" : "Ancient",
+		"Cost" : 165,
+		"Required techs" : ["Pottery"],
+		"Leads" : ["Philosophy",  "Drama_and_poetry"],
+		"Units" : [],
+		"Buildings enabled" : [Library  Paper maker  Great Library]
+	},
+	"Vanilla" : {
+		"Era" : "Classical",
+		"Cost" : 207,
+		"Required techs" : ["Pottery"],
+		"Leads" : ["Philosophy"],
+		"Units" : [],
+		"Buildings enabled" : [Library  Paper maker  Great Library]
+	}
+} 
+],
+{
+	"Wonder" : "Alhambra",
+	"Production Cost" : 400 ,
+	"Culture" : 1,
+	"Technology" : "Chivalry",
+Effect
+All newly-trained non-air units in this city receive the Drill I promotion.
+Provides a free Castle in the city in which it's built.
+Provides +20%  Culture in that city.
+Supplies 1 Great Artist Point. ()
+ Back to the list of wonders
+ All newly trained non-air units in this city receive the Drill I promotion, improving  Combat Strength when fighting in ROUGH Terrain
+ Free Castle in the city
+ City  Culture output +20%
+},
+{
+	"Wonder" : "Angkor_Wat",
+	"Production Cost" : 400,
+	"Culture" : 1,
+	"Technology" : "Education",
+1 Great Engineer points
+Effect
+Culture and Gold cost of acquiring new tiles reduced by 25% in all cities
+ Back to the list of wonders
+  Culture and  Gold cost of acquiring new tiles reduced by 25% in all cities.
+},
+{
+	"Wonder" : "Apollo_Program",
+	"Production Cost" : 750,
+	"Required technology" : "Rocketry",
+Effect
+ Allows the building of spaceship parts
+ Back to the list of wonders
+Special project. Allows your cities to build spaceship parts.
+},
+{
+	"Wonder" : "Big_Ben",
+	"Production Cost" : 750,
+	"Culture" : 1,
+	"Technology" : "Industrialization",
+2 Great Merchant points
+Effect
+ Requires Commerce. Cost of Gold purchasing in all Cities reduced by 15%.
+ +4  Gold
+ Back to the list of wonders
+Requires Commerce.
+ +4  Gold
+ Cost of  Gold purchasing in all Cities reduced by 15%
+},
+{
+	"Wonder" : "Borobudur",
+	"Production Cost" : 300,
+	"Culture" : N/A,
+	"Technology" : "Theology",
+Effect
+ +5  Faith
+ Must be built in a Holy City. 3 free Missionaries appear.
+ Back to the list of wonders
+Must be built in a Holy City.
+ +5  Faith
+ 3 free Missionaries appear
+},
+{
+	"Wonder" : "Brandenburg_Gate",
+	"Production Cost" : 750,
+	"Culture" : 1,
+	"Technology" : "Military science",
+2 Great Scientist points
+Effect
+A Great General appears near the capital and +15 experience for all new units built in this city
+ Back to the list of wonders
+ +15 experience for all new units built in this city
+ A Great General appears near the  Capital
+},
+{
+	"Wonder" : "Broadway",
+	"Production Cost" : 1000,
+	"Culture" : 2,
+	"Technology" : "Radio",
+Effect
+Free Great Musician
+Contains 3 slots for Great Works of Music
+ Back to the list of wonders
+A free Great Musician appears near the city where the Wonder was built.
+Contains 3 slots for Great Works of Music which provide +3 theming bonus, if you fill the slots with Great Works of Music from the same civilization and the same era.
+},
+{
+	"Wonder" : "CN_Tower",
+	"Production Cost" : 1250,
+	"Culture" : 1,
+	"Technology" : "Telecommunications",
+1 Great Merchant
+Effect
+ Provides a free Broadcast Tower in every city.
+ +1  Population in every city and  Happiness per city.
+ Back to the list of wonders
+ +1  Population in every city 
+ +1  Happiness per city
+ Free Broadcast Tower in all cities 
+},
+{
+	"Wonder" : "Chichen_Itza",
+	"Production Cost" : 300,
+	"Culture" : 1,
+	"Technology" : "Civil service",
+1 Great Engineer points
+Effect
+ Length of Golden Age increased by 50%
+ +4  Happiness
+ Back to the list of wonders
+ +4  Happiness
+ Length of Golden Ages increased by 50%
+},
+{
+National wonder in Civilization V
+	"Wonder" : "Circus_Maximus",
+	"Production Cost" : 125 (increases with number of cities),
+	"Culture" : 1,
+	"Required Buildings" : "Colosseum",
+	"Technology" : "Horseback Riding",
+Effect
++5  Happiness
+ Back to the list of wonders
+Entertainment national wonder. Requires a Colosseum in all cities. 
++5  Happiness
+ +1  Happiness with Universal Healthcare tenet (any Ideology)
+},
+{
+	"Wonder" : "Colossus",
+	"Production Cost" : 185,
+	"Culture" : 1,
+	"Technology" : ""Iron working",",
+1 Great Merchant points
+Effect
+ +5  Gold
+ Gains an additional trade route slot and a Cargo Ship appears in the city.
+ Trade routes other players make to a city with the Colossus will generate an extra 2  Gold for the city owner and the trade route owner gains an additional 1  Gold for the trade route.
+ City must be built on the coast.
+ Back to the list of wonders
+City must be built on the coast.
+ +5  Gold
+ Gains an additional trade route slot
+ Free Cargo Ship appears in the city
+ Trade routes other players make to this city will generate an extra 2  Gold for the city owner and the trade route owner gains an additional 1  Gold for the trade route. 
+},
+{
+	"Wonder" : "Cristo_Redentor",
+	"Production Cost" : 1250,
+	"Culture" : 5,
+	"Technology" : "Plastics",
+Effect
+ Culture cost of adopting new policies reduced by 10%
+ Back to the list of wonders
+ +5  Culture
+  Culture cost of adopting new Policies reduced by 10%
+The Cristo Redentor isn't that important, but is still a useful Wonder, especially for culturally-oriented players. It is the only Wonder which provides +5  Culture, instead of the usual +1.
+Cristo Redentor, "Christ the Redeemer" in English, is a 38 meter (125 foot) tall statue of Jesus Christ situated on Corcovado Mountain, watching over the Brazilian city of Rio de Janeiro. First proposed in 1921 during celebrations of the centennial of Brazilian independence, by 1931 the statue had been completed, making it the largest art deco monument in the world. Since that time, the statue, seated 710 meters (2330 feet) above sea level, has become a beloved symbol of Rio de Janeiro and of Brazil.
+},
+{
+National wonder in Civilization VOnly available in Medieval and earlier starts.
+	"Wonder" : "East_India_Company",
+	"Production Cost" : 125 (increases with number of cities),
+	"Culture" : N/A,
+	"Required Buildings" : "Market",
+	"Technology" : "Guilds",
+Effect
++4  Gold
+Trade routes with other players made to a city with an East India Company will generate an extra 4  Gold for the city owner and the trade route owner gains an additional 2  Gold for the trade route.
+ Back to the list of wonders
+Commercial national wonder introduced in Civilization V: Brave New World. Requires Market in all cities. 
++4  Gold
+Trade routes other players make to a city with an East India Company will generate an extra 4  Gold for the city owner and the trade route owner gains an additional 2  Gold for the trade route.
++4  Production and  Culture in this city with Merchant Navy Social policy
+ +1  Happiness with Universal Healthcare tenet (any Ideology)
+The East India Company wonder replaces the older National Treasury for reasons of better reflecting the new trading system in the expansion. Note that, just like other similar trading bonuses, the East India's bonus applies only to trade routes others have opened to your city! So, try to build it in a city which receives a lot of trade - this way you'll take maximum advantage of the bonus.
+The various East India Companies were joint-stock ventures chartered by the crown to pursue trade in Asia and the islands around the Indian Ocean. Reaching their height during the 17th and 18th centuries, the various companies maintained their own military forces, established settlements under their administration, undertook explorations, fought wars, collected taxes, and built plantations, mines and roads - all in the pursuit of profit. The most successful of these corporations were the "Honourable" East India Company of Britain (chartered by Queen Elizabeth in 1600 AD), the Dutch East Indies Company (1602) and the French Company of the Indies (1664).
+},
+{
+	"Wonder" : "Eiffel_Tower",
+	"Production Cost" : 1060,
+	"Culture" : 1,
+	"Technology" : "Radio",
+2 Great Merchant points
+Effect
+ +5  Happiness
+ +12  Tourism
+ Back to the list of wonders
+ +5  Happiness 
+ +12  Tourism
+With the Brave New World expansion, the Eiffel Tower turns into a must for players pursuing a cultural victory. It essentially outclasses any other wonder in terms of  Tourism, providing an immediate +12 bonus. Build it in your main  Tourism-generating city. Additionally, although the Eiffel Tower no longer gives the +1  Happiness per Social Policy it provides in vanilla, the flat +5 bonus remains quite significant.
+The Eiffel Tower is one of the world's most famous landmarks. Built for the Universal Exposition of 1889, the tower rises 300 meters (984 feet) above Paris' Champ de Mars, near the Seine River. Structural engineer Alexandre Gustave Eiffel built the tower to demonstrate how steel and iron could be utilized in the construction of extremely tall buildings. The cost was more than $1 million.
+The tallest building in the world when it was originally completed, the Eiffel Tower drew crowds of awestruck observers from around the world. Today, it remains one of Paris' leading tourist attractions.
+},
+{
+	"Wonder" : "Forbidden_Palace",
+	"Production Cost" : 500,
+	"Culture" : 1,
+	"Technology" : "Banking",
+Effect
+ Requires Patronage.
+ Grants 2 additional delegates in the World Congress.
+ -10%  Unhappiness from  Citizens in non-occupied cities.
+ Back to the list of wonders
+Requires Patronage.
+ Grants 2 additional delegates in the World Congress.
+ -10%  Unhappiness from  Citizens in non-occupied cities.
+The Forbidden Palace Wonder is practically required for all players pursuing a Diplomatic victory, giving them a priceless 2 additional Delegates and practically ensuring dominance over the early stages of the World Congress. Its building takes some work, though, since you both need to unlock Patronage and rush "Banking", to get a serious shot at it. 
+A collection of imperial structures in Beijing, the Forbidden Palace stands as a testament to the Chinese architectural ingenuity and aesthetic. Ornamental gardens, terraces and fountains surround the magnificent structure, which became the capital of China in 1421. It was the residence of 24 emperors of the Ming and Qing Dynasties until the last emperor abdicated in 1911.
+Although the correct title for the building is the "Imperial Palace," it is more widely known as the "Forbidden" Palace because ordinary people were barred from entering its grounds. With a 50 m (160-foot) moat and walls 9 m (30 feet) tall, there was little chance that they would get inside unwanted. The Forbidden Palace is enormous, occupying 720,000 square meters (170 acres) and containing 8,706 rooms. An estimated eight to ten thousand people lived inside the palace to serve the needs of the emperor. Today, the Forbidden Palace is a major tourist attraction, and it is still used as a symbol of Chinese sovereignty.
+},
+{
+	"Wonder" : "Globe_Theatre",
+	"Production Cost" : 500,
+	"Culture" : 2,
+	"Technology" : "Printing press",
+Effect
+ 1 free Great Writer appears near the city where the wonder was built.
+ Contains 2 slots for Great Works of "Writing",.
+ Back to the list of wonders
+ 1 free Great Writer appears near the city where the wonder was built.
+ Contains 2 slots for Great Works of "Writing", which provide +2 theming bonus, if you fill the slots with Great Works of "Writing", from the same civilization and the same era. 
+One of the first  Tourism-oriented Wonders, the Globe Theatre offers 2 slots for Great Works of "Writing", with a nice and usually easily achievable Theming Bonus. Just have 1 Great Writer ready, and when you get the free Writer from completing the Wonder you can instantly activate the bonus.
+Built in 1599 AD on Maiden Lane in London by the Lord Chamberlain's Men, the theatrical company of which William Shakespeare was a shareholder, the Globe Theatre incorporated a number of design innovations. In 1613 the Globe burned to the ground after the thatched roof was set alight by cannonfire during a production of Henry VIII; it was rebuilt on the same site in 1614 and continued in operation until closed by the Puritans in 1642. Although its exact dimensions are unrecorded, it is known that the Globe Theatre was a three-story, circular, open-air amphitheater roughly 30 meters (100 feet) in diameter and able to seat about 300 spectators. The stage was 13 meters (43 feet) wide, 8 meters (27 feet) deep and raised five feet off the ground, allowing for trap doors.
+The first Globe Theatre was destroyed by fire on 29 June 1613. A second Globe Theatre was built on the same site by June 1614 and closed in 1642.
+A modern reconstruction of the Globe, named "Shakespeare's Globe," opened in 1997 approximately 750 feet (230 m) from the site of the original theatre.
+The Latin inscription translates to "All the world's a stage."
+},
+{
+National wonder in Civilization V
+	"Wonder" : "Grand_Temple",
+	"Production Cost" : 125 (increases with number of cities),
+	"Culture" : 1,
+	"Required Buildings" : "Temple or Burial tomb",
+	"Technology" : "Theology",
+Effect
++8  Faith
+Doubles religious pressure emanating from this City.
+Must be built in a holy city.
+ Back to the list of wonders
+Religious national wonder. Requires a Temple in all cities; must be built in a Holy City. 
+ + 8  Faith
+ Doubles religious pressure emanating from this City.
++1  Happiness with Universal Healthcare tenet (any Ideology)
+The Grand Temple wonder is a fine tool for religious-oriented empires, helping them both to spread their religion, and defend against other strong religions nearby. As with all national wonders, it's better to be built early.
+A Grand Temple is a revered holy site held sacred among the followers of a given religion. These temples often feature grand architecture and ornate inscriptions that stand for centuries as a testament to the faith of the religion's adherents. Although there is no clear consensus as to which of the many temples found throughout the world today is the oldest, many believe the Göbekli Tepe - found in modern Turkey and assembled over 12,000 years ago - to be the earliest man-made religious structure ever discovered.
+},
+{
+	"Wonder" : "Great_Firewall",
+	"Production Cost" : 1250,
+	"Culture" : N/A,
+	"Technology" : "Computers",
+Effect
+ 99.9% reduction in effectiveness of enemy spies in the city in which it is built.
+ All other cities in the civilization get a 25% reduction in enemy spy effectiveness.
+  Negates the  Tourism bonus from other players' Internet technology.
+ Back to the list of wonders
+ 99.9% reduction in enemy spy effectiveness in this city
+ 25% reduction in enemy spy effectiveness for all other cities
+  Negates the  Tourism bonus from other players' Internet technology.
+The Great Firewall is a Wonder for anti-spy fanatics who detest having technologies stolen. It will practically stop all enemy spies acting on your soil in their tracks. As an added (and much more useful) bonus, the Great Firewall negates the Internet technology of enemies, making your nation far less susceptible to the end-game cultural push.
+The Great Firewall is also worth having if you yourself are going for a culture victory - not for the advantages it provides, but because it prevents anyone else from having them.
+The Great Firewall is a restrictive internet monitoring and censorship program used to control the flow of information available to a civilization's people through the internet. By limiting the public's access to potentially volatile information available online, government agencies can limit potential backlash and other dissension regarding unpopular policies and government programs.
+It is a game parallel of a few real-life versions thereof, including the so-called "Great Firewall of China."
+Although it has a powerful non-espionage-related effect (negating other players' tourism bonuses from "The Internet",), the Great Firewall is not buildable in games where spying is disabled.
+It is not necessary to research "The Internet", before building this wonder since computer hacking appeared before the Internet.
+},
+{
+	"Wonder" : "Great_Library",
+	"Production Cost" : 185,
+	"Culture" : 1,
+	"Technology" : "Writing",
+1 Great Scientist points
+Effect
+ 1 Free Technology.
+ Provides a free Library in the city which it is built.
+ Contains 2 slots for Great Works of "Writing",.
+ +3  Science
+ Back to the list of wonders
+ +3  Science
+ 1 Free Technology. 
+ Free Library in the city.
+ Contains 2 slots for Great Works of "Writing",, which provide +2 theming bonus if you fill the slots with Great Works of "Writing", from different civilizations and different eras.
+The Great Library is a scientific wonder that provides useful bonuses early on. First, its effect to grant 1 free technology on top of providing a free Library is proven to be extremely useful, especially in the Ancient Era. Second, its overall boost to  Science (along with the free Library and Great Scientist point) may prove invaluable to your early game tech progression. Finally, starting in Brave New World, it provides two free slots for Great Works of "Writing",, which are exceptionally useful for the tourism race that starts in the mid-game.
+If you want to have a good chance of finishing the wonder, it's recommended to start building it as soon as possible. However, it's not always recommended to build this wonder as it'll slow down your early-game expansion. If you plan on building it, your starting research order should be Pottery first and "Writing", second, or you risk being outraced by the others.
+Like many Wonders that provide free buildings, if you're building the Great Library, do so before you build the normal Library.
+The Great Library of Alexandria was one of the two most important libraries of the ancient world. Ptolemy I founded it around 300 BC, and the Library was enhanced and expanded by his successors. The Library attempted to obtain copies of all scrolls of any consequence, and eventually contained over 700,000 volumes. Religious fanatics destroyed the library in 391 AD, after nearly 700 years of operation. Today, only a portion of the catalog survives, providing us with a mere hint of what treasures the library contained.
+Ancient sources differ widely on who is responsible for the destruction and when it occurred. Although there is a mythology of the burning of the Library at Alexandria, the library may have suffered several fires or acts of destruction over many years. Possible occasions for the partial or complete destruction of the Library of Alexandria include a fire set by Julius Caesar in 48 BCE, an attack by Aurelian in the 270s CE, the decree of Coptic Pope Theophilus in 391 CE, and the Muslim conquest of Egypt in 642 CE.
+},
+{
+	"Wonder" : "Great_Lighthouse",
+	"Production Cost" : 185,
+	"Culture" : 1,
+	"Technology" : "Optics",
+1 Great Merchant points
+Effect
+ All military naval units receive +1  Movement and +1 sight.
+ Provides a free Lighthouse in the city in which it is built.
+ City must be built on the coast.
+ Back to the list of wonders
+City must be built on the coast.
+ All military naval units receive +1  Movement and +1 sight. 
+ Free Lighthouse in the city.  
+The first sea-based Wonder available, the Great Lighthouse is a must for any sea-based civilization. Its main bonus allows their ships to move faster, which helps both in exploration and battle; its secondary bonuses add a Great Merchant point and a free Lighthouse in the city, so don't build one if you plan to build this wonder!
+In order to get a chance at building it, you have to rush "Optics",, which is quite easy: simply research Pottery, then "Sailing",, then "Optics",. You'll both get the Embarkation ability pretty early, and enter the Classical Era already.
+The Great Lighthouse, also known as the Pharos, was a marble watchtower and lighthouse built in 280 BC on an island in the harbor of Alexandria, Egypt. Estimated to have been 300 feet high, the primary function of the lighthouse was to guide approaching ships to the harbor on an otherwise unmarked coast. Exactly how the Pharos functioned is open to debate, with some historians believing that fires were burned on the top of the tower, while others believe that mirrors were used to reflect sunlight. (Since ships rarely sailed along coasts at night, there was probably little need for the lighthouse after dark.) The Pharos was destroyed in the 14th century after having been damaged by earthquakes.
+},
+{
+	"Wonder" : "Great_Mosque_of_Djenne",
+	"Production Cost" : 300,
+	"Culture" : 1,
+	"Technology" : "Theology",
+1 Great Engineer points
+Effect
+ +3  Faith
+ All Missionaries born in this city can spread religion three times.
+ Provides a free Mosque in the city in which it is built.
+ Back to the list of wonders
+Requires Piety.
+ +3  Faith
+ All Missionaries born in this city can spread religion three times. Prophets also gain an additional use of Spread Religion, for a total of five uses provided they are not automatically generated (that is, they have to be selected and bought, like an Inquisitor). A Prophet gained by completing the Piety policy tree also will not get this bonus.
+ Free Mosque in the city.
+The main bonus of the Great Mosque of Djenne makes spreading a religion easier. Activating the Piety tree and researching the "Theology", technology are both necessary to build it.
+Also, if building it is expected, not adopting the Mosques belief will allow the bonus Mosque from the Wonder to be an added benefit to all other effects from the religion of the city it is located in.
+The largest mud-brick structure in the world, the Great Mosque of Djenne is found in the African Republic of Mali. Thought to have first been constructed sometime in the 13th century by the sultan Koi Kunboro, the mosque has since been destroyed and rebuilt several times. The incarnation that stands today, assembled from mud bricks and mortar, was built in 1906 through the combined efforts of the surrounding community. Today, the mosque is maintained by the people of Djenne during an annual festival created specifically to ensure its longevity.
+},
+{
+	"Wonder" : "Great_Wall",
+	"Production Cost" : 250,
+	"Culture" : 1,
+	"Technology" : "Engineering",
+1 Great Engineer points
+Effect
+ Enemy land units must spend 1 extra movement point when inside your territory.
+ Provides Walls for free in the city in which it is built.
+ Upon discovering "Dynamite",, The Great Wall becomes obsolete.
+ Back to the list of wonders
+ Enemy land units must expend 1 extra movement per tile inside your territory. The wall encompasses all of the territory of the civilization that has built it.
+ Free Walls in the city.
+The Great Wall is the earliest defensive Wonder, which can make any potential invaders' life pure hell, while trying to penetrate your lands. It's recommended for all players that intend on playing defensively through the game. Just produce lots of ranged units and watch the enemy struggle to approach while they cut their lines down from afar!
+Despite being a defensive Wonder, it can be worthwhile to build it if you plan to be aggressive in order to deny others and make domination easier.
+Note that the "Dynamite", tech negates the effect of the Great Wall, making it obsolete. You will have to depend on other means of defense in the late game. Also, remember not to build Walls in the city that is planning on building this Wonder.
+The Great Wall of China is one of the largest and most famous man-made constructions in the entire world. Chinese rulers built the Great Wall to ward off attack from nomadic tribesmen living in modern Manchuria and Mongolia. Interestingly, the Great Wall was not designed to keep the nomads out - the Chinese knew it was all but impossible to defend such a long border - it was designed to make it difficult for the raiders to carry off loot, thus making raids far less profitable and thus less worth the risks involved.
+There have actually been five different "Great Walls" built by different Chinese dynasties. The first four were constructed of earth and have since all but disappeared. The current wall was built almost entirely by the Ming Dynasty between 1368 and 1640 AD. This wall was constructed on a grander scale, using more permanent materials (like stone). The Ming wall stretches for 6,354 km (3,948 miles) from Shanhai Pass on the Bohai Gulf in the east to Lop Nur in the southeast portion of Xinjiang's Uygur Autonomous Region in the west. This was the region where the Silk Road first entered China, and a series of watchtowers which could communicate via smoke signals were intended to pass messages rapidly along the wall's vast length.
+In pure military terms, the Great Wall turned out to be something of a failure. While the wall stopped raids, it could not stop an army. The Manchus were able to bribe a Chinese general to let them pass through the wall, so it turned out to be of little value in stopping a major barbarian attack. After the Manchus conquered China, the borders of the country extended far to the north, rendering the wall irrelevant. The sheer monetary cost of the wall was also staggering, and the cost in human lives is said to have exceeded over one million souls. The Great Wall is sometimes nicknamed "the long graveyard."
+Today much of the Great Wall is in a state of disrepair - though the tourist regions are well-preserved, much of the rest of the structure is crumbling, and perhaps only 20% of the wall is in good condition. Despite its decay, the Great Wall remains one of China's most popular tourist attractions and a true wonder of the world.
+Although the wonder affects all tiles under the owner's control, what you see on the map only extends up to 5 tiles away from the city in which it is built with the exception of coast and ocean tiles, and offshore islands (though the tiles still have to be under your control), and it expands every time you reload the game until it reaches the 5 tile limit in all directions. It can also turn out very ugly, especially if you have any holes in your borders, so the wonder is not really good for any aesthetic-minded players.
+},
+{
+	"Wonder" : "Hagia_Sophia",
+	"Production Cost" : 300,
+	"Culture" : 1,
+	"Technology" : "Theology",
+1 Great Artist points
+Effect
+ +3  Faith
+ A free Great Prophet appears.
+ Provides a free Temple in the city in which it is built.
+ Back to the list of wonders
+ +3  Faith
+ A free Great Prophet appears
+ Free Temple in the city 
+The Hagia Sophia could serve as means of enhancing your religion without waiting for enough  Faith to accumulate for the next Great Prophet. Instead, use the accumulated faith for a Missionary to spread your religion early. Also, remember not to build a Temple in that city beforehand!
+The Hagia Sophia, or "High Wisdom," was constructed in 530 AD as a Greek Orthodox church. It has been in service, most as a place of worship, for almost 1500 years. It is a remarkable building as it has survived many earthquakes, sometimes needing large repairs. It is a beautiful and ornate structure, built of stone and marble, and topped by a golden dome measuring over 30 m (100 feet) in diameter. An extremely difficult engineering challenge for the time, the dome has collapsed several times during its existence. Later on the Ottomans added 4 minarets, marking it one of the important mosques of the world.
+The classical interior of the Hagia Sophia is a marvelous space of columns and arches extending up to the dome, which appears almost to float atop the building. It breathes the classical age, nowhere else left to be found. The interior was sheathed in colored marble and golden mosaics depicting biblical scenes and images of Christian saints.
+In 1453 Constantinople was captured by the Ottoman Turks, and the Hagia Sophia was converted into a mosque. Human images are not welcome in mosques, and many of the mosaics were covered with plaster. In 1934, Turkish President Kemal Atatürk turned the building into a museum. In recent years some restoration work has been done on the Hagia Sophia, and a few of the mosaics have been uncovered. Despite the ravages of time, the Hagia Sophia remains universally acknowledged as one of the most beautiful buildings in the world.
+},
+{
+	"Wonder" : "Hanging_Gardens",
+	"Production Cost" : 250,
+	"Culture" : 1,
+	"Technology" : "Mathematics",
+Effect
+ +10  Food (Vanilla)
+ +6  Food ( and )
+ Provides a free Garden in the city in which it is built. ( and )
+ Back to the list of wonders
++10  Food in the city. (Vanilla)
++6  Food in the city. ( and )
+Free Garden in the city. ( and )
+Requires Tradition. ()
+The Hanging Gardens - or the Tradition Wonder, as we might dub it in Brave New World - greatly helps the  Population growth in this city. This is very valuable in the early game, when population growth is your main means of progress. Furthermore, the free Garden ignores terrain requirements and can grant the Great Person generation bonus to a large city that could not have had it otherwise. 
+The Hanging Gardens were a distinctive feature of ancient Babylon. They were a great source of pride to the people, and were often described in accounts written by visitors to the city. Possibly built by King Nebuchadnezzar II in 600 BC, the gardens were an ascending series of tiered platforms (not unlike a ziggurat) constructed of mud bricks and containing all manner of trees, shrubs, and vines. From a distance the gardens were said to look like a large green mountain rising from the center of the city.
+},
+{
+National wonder in Civilization V
+	"Wonder" : "Hermitage",
+	"Production Cost" : 125 (increases with number of cities),
+	"Culture" : 5,
+	"Required Buildings" : "Opera House",
+	"Technology" : "Architecture",
+Effect
++50%  Culture in the city 
+ Contains 3 slots for Great Works of Art.
+ Back to the list of wonders
+Cultural national wonder. Requires an Opera House in all cities.
+  Culture output of this City increased by 50%. 
+ Contains 3 slots for Great Works of Art which provide +3 theming bonus, if you fill the slots with Great Works of Art from different civilizations and different eras. 
++5  Culture and  Tourism with Religious Art Religious Belief
+ +1  Happiness with Universal Healthcare tenet (any Ideology)
+The Hermitage is a must-have for a civilization striving towards a Cultural victory. Its theming bonus is as strong as that of the Uffizi, but it doesn't require any specific Social policies!
+It is more than advised to build it in a city with strong cultural output, usually the capital, due to the +50% culture bonus.
+The Hermitage is a museum in Saint Petersburg, Russia. Constructed in 1764 by Catherine the Great, the Hermitage's collection contains some three million pieces, including the largest collection of paintings in the world. The collection is housed in a number of historic buildings, including the extraordinary Winter Palace, the former official residence of the Tsars from 1732 to 1917.
+},
+{
+National wonder in Civilization V
+	"Wonder" : "Heroic_Epic",
+	"Production Cost" : 125 (increases with number of cities),
+	"Culture" : 1,
+	"Required Buildings" : "Barracks or Krepost",
+	"Technology" : ""Iron working",",
+Effect
+All new units in this city receive the Morale promotion
+ Back to the list of wonders
+Military national wonder. Requires Barracks in all cities.
+ All newly trained Units in this City receive the Morale Promotion, improving combat strength by 15%.
+ Contains 1 slot for a Great Work of "Writing",
++1  Happiness with Universal Healthcare tenet (any Ideology)
+The Heroic Epic is one of the deadliest tools in a martial empire's arsenal. The 15% Morale bonus is an across-the-board improvement to all your units from that city. If you need to purchase any units outright, this city becomes the place to do it, so long as travel times aren't prohibitive to the unit's goals.
+This bonus stacks on top of promotions, terrain, and Great Generals. As a result, these units become some of the meanest tools you can forge. Ensure that the city gets more than the Barracks it already created. Build an Armory and Military Academy there to start each unit as the best of the best. Combine this with Honor Policies to push the numbers as much in your favor as possible.
+Martial civilizations tend to expand, making it hard to have Barracks in all cities at all times. Thus, it's wise to get the Heroic Epic built early, when you don't have as many cities to worry about. In addition, this gives you most of the game to enjoy the Wonder's benefit.
+From ancient times, a "heroic epic" is a poem that defines a people or an era, and is usually centered upon the heroic actions of one or more people. The Greek Odyssey is such a work, as are the Mesopotamian Epic of Gilgamesh and the Anglo-Saxon Beowulf.
+},
+{
+	"Wonder" : "Himeji_Castle",
+	"Production Cost" : 500,
+	"Culture" : 1,
+	"Technology" : "Gunpowder",
+2 Great Engineer points
+Effect
+ +15% combat strength for units fighting in friendly territory.
+ Provides a free Castle in the city in which it is built.
+ Back to the list of wonders
+ +15% combat strength for units fighting in friendly territory.
+ Free Castle in the city
+Another purely defensive Wonder, the Himeji Castle makes units defending your lands stronger, as opposed to slowing down the enemy like the Great Wall. Note that this bonus doesn't work on the offense! An interesting strategy for a player seeking a domination victory is to build the Wonder to prevent enemies from gaining a universal 15% strength in their territory.
+Himeji Castle can also be useful offensively because the combat bonus also applies to conquered enemy cities, which can serve as forward bases, giving you a strong safe zone to retreat to when your army is wounded.
+Note that, as with other similar promotions, units sitting in friendly territory attacking enemies outside of your territory will not get the bonus for attacking. This is because the battleground is considered to be the tile where the defending unit is, not the attacker, so you'll only get an attack bonus against enemy units who are actually inside your territory; similarly, your units only gain the defensive bonus when they are actually inside your territory. For example, you will not gain the bonus if an enemy inside your territory fires upon your unit outside of your territory, because the battleground location is the defending unit's position and Himeji Castle only affects battles taking place inside your territory.
+Finally, if you plan on building Himeji Castle in a city, don't build a Castle there.
+Himeji Castle is an extraordinary Japanese castle and one of the most beautiful structures in the world. First constructed in the 14th century and then massively rebuilt and extended in the late 16th-early 17th by Kuroda Yoshitaka and Ikeda Terumasa, Himeji Castle is a tall, imposing multi-story structure constructed of stone and wood, and featuring a brilliant white exterior and a series beautifully curved rooftops. It is nicknamed "White Heron Castle."
+Himeji Castle is surrounded by a confusing maze of paths leading to the keep. The walls and gates were designed to force an invading army to travel in a series of concentric circles with many dead ends before reaching the main gate. This would string out the attackers and allow the defenders to fire on the vanguard many times during the approach. The ingenious system was not put to the test, as the castle was never attacked during the medieval era.
+Although the surrounding area was heavily damaged by Allied bombing during World War II, the castle was almost entirely unscathed. It is currently undergoing major restoration, and it remains one of the most popular tourist sites in Japan.
+},
+{
+	"Wonder" : "Hubble_Space_Telescope",
+	"Production Cost" : 1250,
+	"Culture" : N/A,
+	"Technology" : "Satellites",
+1 Great scientist points
+Effect
+ 2 free Great scientists appear near the city where it was built.
+ Provides a free Spaceship factory in that city.
+ +25%  production when building Spaceship parts.
+ Back to the list of wonders
+ 2 free Great scientists appear near the City where the Wonder was built.
+ Free Spaceship Factory in the city 
+ +25%  Production when building Spaceship Parts.
+The Hubble Space Telescope is the Wonder for seekers of a science victory! Not only does it speed up your building of Spaceship parts (a requirement for the victory), but it also gives you two free Great Scientists, which could be used to research technologies almost instantaneously, giving you a boost to your tech progression.
+To get it, rush "Satellites", - make it the first tech to research in the Information Era.
+Named for renowned American astronomer Edwin Hubble, the Hubble Space Telescope has proven to be among the most crucial astronomical research tools ever developed. Launched in 1990, the telescope has continually provided breathtaking images of far-off constellations and nebulas, attracting widespread attention from both scientists and the general public. As the only space telescope capable of being repaired by astronauts, the service life of the Hubble has been continually extended through a series of space walks. However, despite its notable legacy, the Hubble Space Telescope will be replaced in 2018 by the more advanced James Webb Space Telescope.
+},
+{
+	"Wonder" : "International_Space_Station",
+	"Production Cost" : 850 per civilization (Normal speed),
+	"Culture" : N/A,
+	"Technology" : "Satellites",
+Effect
+ +1  Production from Scientists and +1  Science from Engineers
+ Great Scientists provide 33% more  Science when used to discover new technology
+ Back to the list of wonders
+The International Space Station is a world wonder in the Brave New World expansion pack. Unlike other wonders, the International Space Station can only be acquired through the International Project from the World Congress, and the process follows the same specifics as the other International Projects.
+The International Space Station Project begins via resolution at the World Congress, very similar to the World Fair. In order for the Project to become possible, at least one civilization needs to discover the "Satellites", technology. Once underway, civilizations can contribute  Production towards its completion by selecting it in the city production list. They can build parts for the space station, train some of its crew, and ultimately organize its construction in space and house its ground control facility. When complete, civilizations receive bonuses based on how much they contributed.
+ Mission Control (Highest contributor): The World Wonder appears in the Capital with its own respective bonuses
+ Crew on Board (850  Production or more): Free Great Scientist
+ Constructed Parts (425  Production or more): One-time research boost
+The minimum  Production requirement for each reward assumes the game played in standard settings (Standard map with 8 civilizations and Standard game speed).
+This is the last International Project, available close to the end of the game. This means that very often this project may not be completed, either because nations are too busy trying to hamper each other's progress through the World Congress to propose the necessary Resolution, or because someone simply achieves victory before the project is complete.
+If it does get completed, though, the International Space Station becomes the ultimate weapon towards achieving a science victory, boosting tech progress in a variety of ways. Unlike other Projects, the winner's prize is a permanent world wonder, meaning that whoever owns it will reap the benefits for the rest of the game. The very nature of the bonuses most benefits nations with lots of Specialists - those who also produce lots of Great People. In addition, the winner gets an immediate boost in tech research, both by a one-time effect and by getting a free Great Scientist! This means that whoever wins the first place will become a major contender for science victory - if you're not this lucky guy, beware!
+You can get the current world completion status by holding your mouse over the current build of a city working on the International Space Station. It is updated as each civilization has its turn, which can give you an idea of who is contributing and how much. That includes you; by looking at the&#160;% before your next turn starts and after, you can see how much of the total&#160;% you are contributing to its completion.
+Constructed from prefabricated modules launched individually, the International Space Station is a habitable, low-Earth-orbit satellite. It arose from the 1993 merger into a single multinational program of three national initiatives to establish a permanent orbital platform for research and exploration: the Soviet "Mir-2," the American "Freedom," and the European Union's "Columbus." To date, astronauts from 15 countries have lived and worked on the station. Supplies and crew members have ferried to the platform by American space shuttles and Russian Soyuz rockets; these are scheduled to be replaced by the Russian Progress, European ATV, Japanese H-II Transfer Vehicle, and the American SpaceX corporation's Dragon. The International Space Station is the largest artificial body in orbit, and can be seen with the naked eye from Earth under the appropriate conditions.
+},
+{
+National wonder in Civilization V
+	"Wonder" : "Ironworks",
+	"Production Cost" : 125 (increases with number of cities),
+	"Culture" : 1,
+	"Required Buildings" : "Workshop or Longhouse",
+	"Technology" : "Machinery",
+Effect
++8  Production
+ Back to the list of wonders
+Industrial national wonder. Requires a Workshop in all cities.
+ + 8  Production.
++1  Happiness with Universal Healthcare tenet (any Ideology)
+The Ironworks wonder may help boost one city's  Production considerably. Use it to either make a city a production giant, or overcome a production shortage in another city.
+An ironworks is a facility where iron ore is purified and fashioned into iron or steel. The process begins with exposing the raw material to extremely high heat, and after possibly mixing in other materials, results in some form of purified iron or steel. Iron smelting dates back at least to 1200 BC, and perhaps earlier. Not surprisingly, ironworks are dangerous places, and they require tough, highly skilled and courageous workers.
+},
+{
+	"Wonder" : "Kremlin",
+	"Production Cost" : 500 (Vanilla)/625 (G&amp;K)/1060 (BNW),
+	"Culture" : 3 (Vanilla and G&amp;K)/+1 (BNW),
+	"Technology" : "Railroad",
+1 Great Scientist points
+Effect
+ +12 Defense. (Vanilla)
+ Defensive Buildings in all Cities are 25% more effective. (Vanilla and )
+ +50%  Production when building Armor Units. ()
+ 1 Free Social Policy. ()
+ Back to the list of wonders
++12 Defense. (Vanilla)
+Defensive buildings in all cities are 25% more effective. (Vanilla and )
++50%  Production when building armored units. ()
+1 Free Social Policy. ()
+Requires Order. ()
+},
+{
+	"Wonder" : "Leaning_Tower_of_Pisa",
+	"Production Cost" : 500,
+	"Culture" : 1,
+	"Technology" : "Printing press",
+Effect
+ +25% generation of Great People in all Cities.
+ A free Great Person of your choice appears near the Capital.
+ Back to the list of wonders
+ +25% generation of Great People in all Cities.
+ A free Great Person of your choice appears near the  Capital.
+},
+{
+	"Wonder" : "Louvre",
+	"Production Cost" : 750,
+	"Culture" : 2,
+	"Technology" : "Archaeology",
+Effect
+ 1 free Great Artist appears near the City where the Wonder was built.
+ Contains 4 slots for Great Works of Art.
+ Back to the list of wonders
+Requires Exploration.
+ 1 free Great Artist.
+ Contains 4 slots for Great Works of Art which provide +4 theming bonus, if you fill the slots with 2 Great Works of Art and 2 Artifacts from different civilizations and different eras. 
+The Louvre is an important wonder for culture-oriented empires. Thanks to its 4 Great Work slots, it has the most powerful theming bonus, which is not difficult to fulfill at that! It often requires trading Great Works or taking some by force, though. A must for a player seeking a cultural victory; remember, however, to unlock the Exploration tree.
+The Louvre is a large and incredibly ornate palace in Paris, France. Originally constructed in the 15th century on the site of an even older castle, for the next two and a half centuries the Louvre served as the home to many of France's kings, most of whom added to the already-huge structure. During the 17th century Kings Louis XIII and Louis XIV and their advisors Cardinals Richelieu and Mazarin began acquiring an extensive art collection which was kept at the Louvre. In 1682 the Royal court moved to Versailles, and in 1793 the Revolutionary government opened the palace to the public. It has remained a public museum ever since. Not surprisingly, it is considered to have the finest collection of pre-modern French paintings in the world.
+},
+{
+	"Wonder" : "Machu_Picchu",
+	"Production Cost" : 300,
+	"Culture" : 1,
+	"Technology" : "Guilds",
+1 Great Merchant points
+Effect
+ +25%  Gold from City Connections.
+ City must be built within 2 tiles of a mountain that is inside your territory.
+ +2  Faith
+ +5  Gold
+ Back to the list of wonders
+City must be built within 2 tiles of a mountain that is inside your territory.
+ +2  Faith
+ +5  Gold
+ +25%  Gold from City Connections. 
+Machu Picchu is the first "mountain" Wonder - that is, one that may be built only in a city very close to a mountain tile. This makes it somewhat difficult to build, since such cities are relatively rare. Still, if you do have such a city in the early/early middle game, try to build Machu Picchu, as it will considerably boost your  Gold output. The more cities you have, the more it will benefit you.
+Note that most mountainous Natural Wonders within 2 tiles of a city (Grand Mesa, Mt. Fuji, Old Faithful, Cerro de Potosi, Mt. Kailash, Sri Pada, Uluru, King Solomon's Mines and Mt. Kilimanjaro) also count as mountains for the purpose of building Machu Picchu. Mt. Sinai does not count as a mountain for the purpose of building Machu Picchu.
+Clinging to a Peruvian mountaintop at an elevation of 2,350 m (7,700 feet), Machu Picchu was an extraordinary Incan city and a marvel of pre-Columbian architecture. Constructed in the mid-15th century, scholars believe that much of the city was a palace complex of the mighty Incan ruler Pachacuti Inca Yupanqui. Constructed almost entirely of white granite stone, the city was inexplicably deserted in the mid-16th century. The marauding Spanish Conquistadors did not discover the site during their conquest of the Incas, so it has remained relatively intact until today.
+Archaeologists have identified the aforementioned palace complex, as well as temples, residential areas, plazas and a cemetery, all carved from the living rock. The mountainous terrain surrounding the central structures has been carved into stepped agricultural terraces which were at one time watered by an extensive aqueduct system, in itself a remarkable feat in a mountainous locale.
+Although in ruins, Machu Picchu retains an extraordinary rugged beauty even today. It must have been an incredible city during the days when the mighty Incas called it home.
+The name "Machu Picchu" comes from the Quechua words machu (old, old person) and pikchu (peak). Together, these words idiomatically refer to a mountain or prominence with a broad base which ends in sharp peaks ("old peak").
+It is located in the Cusco Region, Urubamba Province, Machupicchu District in Peru, situated on a mountain ridge above the Sacred Valley which is 80 km (50 mi) northwest of Cusco and through which the Urubamba River flows. Since the site was not known to the Spanish during their conquest, it is highly significant as a relatively intact cultural site.
+Although known locally, it was unknown to the outside world before being brought to international attention in 1911 by the American historian Hiram Bingham. Since then, Machu Picchu has become an important tourist attraction. Most of the outlying buildings have been reconstructed in order to give tourists a better idea of what the structures originally looked like. By 1976, thirty percent of Machu Picchu had been restored. The restoration work continues to this day.
+Machu Picchu was declared a Peruvian Historical Sanctuary in 1981 and a UNESCO World Heritage Site in 1983. In 2007, Machu Picchu was voted one of the New Seven Wonders of the World in a worldwide Internet poll.
+Machu Picchu is vulnerable to threats. While natural phenomena like earthquakes and weather systems can play havoc with access, the site also suffers from the pressures of too many tourists. In addition, preservation of the area's cultural and archaeological heritage is an ongoing concern. Most notably, the removal of cultural artifacts by the Bingham expeditions in the early 20th century gave rise to a long-term dispute between the government of Peru and the custodian of the artifacts, Yale University.
+},
+{
+	"Wonder" : "Manhattan_Project",
+	"Production Cost" : 750,
+	"Required technology" : "Atomic theory",
+Effect
+ Allows the building of Atomic Bombs and Nuclear Missiles
+ Back to the list of wonders
+},
+{
+	"Wonder" : "Mausoleum_of_Halicarnassus",
+	"Production Cost" : 185,
+	"Culture" : 1,
+	"Technology" : "Masonry",
+1 Great Merchant points
+Effect
+ Gain 100  Gold each time a Great Person is expended.
+ Each source of Marble or Stone worked by this City produces +2  Gold.
+ Back to the list of wonders
+ Gain 100  Gold each time a Great Person is expended. 
+ Each source of Marble or Stone worked by this City produces +2  Gold.
+One of the earliest Wonders, the Mausoleum of Halicarnassus may help an empire considerably in its start, especially if it has the above-mentioned resources around the city. The 100  Gold received when a Great Person is expended is throughout the empire, not just in the territory of the city in which it was built. This extends to Great Prophets expended outside their home territory, even in another civilization, as well as Great Merchants sent to city-states.
+Note that the amount of  Gold received from expending Great People is dependent on game speed, so your earnings will be smaller during Quick games and larger during Epic or Marathon games.
+The Mausoleum of Halicarnassus was constructed c. 350 BC as a tomb for Mausolus, the ruler of Caria (an area of modern Turkey). Said to have been designed and constructed by the greatest sculptors and craftsmen of the time, the temple was known for its detailed sculptural reliefs and impressive scale, towering nearly 150 feet high (47 m). Destroyed by a series of earthquakes that struck the region during the 1st millennium AD, portions of the tomb were excavated by British archaeologists in the mid 19th century. One of the Seven Wonders of the Ancient World, the term "Mausoleum" as it is used today traces its origins to this tomb.
+The Mausoleum of Halicarnassus is introduced in the Wonders of the Ancient World DLC pack and is one of the earliest wonders that can be built.
+},
+{
+National wonder in Civilization V
+	"Wonder" : "National_College",
+	"Production Cost" : 125 (increases with number of cities),
+	"Culture" : 1,
+	"Required Buildings" : "Library or Paper maker",
+	"Technology" : "Philosophy",
+Effect
++3  Science
++50%  Science from this city
+ Back to the list of wonders
+Scientific national wonder. Requires a Library in all cities.
+ +3  Science
+ +50%  Science in this city
++1  Happiness with Universal Healthcare tenet (any Ideology)
+The National College is a great way to boost your early research in your main scientific city. Try to build it as early as possible, although its percentage bonus is useful at any point in the game.
+A national college is a state-run institute of higher learning. The modern college can be traced back to medieval Islamic madrasah, institutes of law and theology usually associated with mosques. Most countries in the world now have public college and university systems. The University of Tokyo in Japan is one such public institution. According to the Russian Global Universities Ranking, the University of Tokyo is the most prestigious university in Asia and third in the world.
+},
+{
+National wonder in Civilization V
+	"Wonder" : "National_Epic",
+	"Production Cost" : 125 (increases with number of cities),
+	"Culture" : 1,
+	"Required Buildings" : "Monument",
+	"Technology" : "Drama and Poetry",
+Effect
++25% Great People generation in this city
+ Back to the list of wonders
+Cultural national wonder. Requires a Monument in all cities.
+ +25% Great People generation in this City.
+ Contains 1 Great Work of "Writing", slot
++1  Happiness with Universal Healthcare tenet (any Ideology)
+The National Epic increases a city's Great People generation by 25 percent, which is especially useful for a player pursuing a Cultural victory. Build your Artists', Musicians', and Writers' Guilds in this city as well to ensure the maximum boost to Great People generation!
+A national epic is a poem or story which describes the origin of a nation, its character, or a significant event in its existence. The Secret History of Mongols is a Mongolian national epic. The Epic of Sundiata is a Malinese national epic. The Song of Hiawatha is a United States national epic. The Kalevala is an epic of Finland. In a more modern form, War and Peace might be considered a Russian national epic, and Roots: The Saga of an American Family another American epic.
+},
+{
+National wonder in Civilization V
+	"Wonder" : "National_Intelligence_Agency",
+	"Production Cost" : 125 (increases with number of cities),
+	"Culture" : 1,
+	"Required Buildings" : "Police station",
+	"Technology" : "Radio",
+Effect
+Gain an extra spy.
+Promotes all spies.
+-15% enemy spy effectiveness.
+ Back to the list of wonders
+Intelligence national wonder. Requires a Police Station in all cities.
+ Provides an additional spy
+ Levels up (1 level) all your existing spies
+ 15% reduction in enemy spy effectiveness
++1  Happiness with Universal Healthcare tenet (any Ideology)
+The National Intelligence Agency provides a great boost for your espionage activities, by promoting all existing spies and granting an additional spy. This is more useful to some nations than others, but is especially useful to those striving for a diplomatic victory. Unfortunately, this Wonder is available quite late in the game, so you will need to build lots of Constabularies and Police Stations. Try to set out and build them early, then halt your expansion until you finish the wonder - remember, every new city you found must also have the required building!
+A National Intelligence Agency provides government resources for the acquisition of information and intelligence data key to providing security and national defense. Everything from covert operations, including espionage and infiltration, to the assessment of national security risks and response recommendations are made by these agencies. The Central Intelligence Agency of the United States is perhaps the most famous (or notorious) of the world's intelligence agencies, as the program has continually influenced global affairs through various means for decades.
+},
+{
+National wonder in Civilization V
+	"Wonder" : "National_Treasury",
+	"Production Cost" : 120 (goes up with number of cities),
+	"Culture" : 1,
+	"Required Buildings" : "Market or Bazaar",
+	"Technology" : "Currency",
+Effect
++8  Gold
+ Back to the list of wonders
+Commercial national wonder. Requires Market in all cities.
+ +8  Gold
+The National Treasury National Wonder was added to Civilization V as part of the December 2010 patch. Later, it was removed in the Brave New World expansion, and replaced with the East India Company.
+A National Treasury houses a civilization's wealth, gold, priceless items, and jewels, all under secure lock and key. Records show that some of the first treasuries were constructed by the ancient Greeks, who attached these buildings to temples in order to house all manner of gifts to the gods. Now a National Treasury is usually administered by a branch of government, and usually isn't attached to some religious building or other. The treasury branch not only keeps an eye on a civilization's accumulated wealth, but also governs other financial matters for the nation, like the fine tradition of taxation.
+},
+{
+National wonder in Civilization V
+	"Wonder" : "National_Visitor_Center",
+	"Production Cost" : 400 (increases with number of cities),
+	"Culture" : N/A,
+	"Required Buildings" : "Hotel",
+	"Technology" : "Telecommunications",
+Effect
+100% of the  Culture from World Wonders, Natural Wonders, and Improvements (Landmarks, Moai, Chateaux) is added to the  Tourism output of the city.
+ Tourism output from Great Works +100%.
+Must have built a Hotel in all Cities.
+The cost goes up the more cities there are in the empire.
+ Back to the list of wonders
+Touristic national Wonder, introduced in Brave New World. Requires a Hotel in all cities. 
+100% of the  Culture from Wonders and Improvements is added to the  Tourism output of the city. 
++100%  Tourism output for Great Works in this city
++1  Happiness with Universal Healthcare tenet (any Ideology)
+The National Visitor Center is the ultimate weapon for achieving the new Cultural victory. Consider VERY carefully where you build it, because its effect is exponentially greater the more Wonders and  Culture-producing sites there are in the area of the city! Paradoxically, sometimes its effect may be greater when not in the Capital! 
+Because the center becomes available quite late, you should be ready to build it right away (so as not to lag behind other players pursuing their victory types). So, take care to build Hotels in all your cities even before you research "Telecommunications", - this shouldn't be a problem, since if you're striving for a cultural victory, you should be building Hotels anyway, and they don't cost any maintenance.
+A Visitor Center is a location that provides information to the travelers to a specific site or area. Most common are the government-run visitor centers which provide information and suggestions on visiting the area's attractions, lodging and costs as well as maps, brochures and memorabilia. The first simple visitor centers were located at railroad stations, and maintained by the railroad companies in the hopes of fostering repeated visits. Today, most towns and cities have a visitor center of some sort with the same aim.
+},
+{
+	"Wonder" : "Neuschwanstein",
+	"Production Cost" : 1060,
+	"Culture" : 4,
+	"Technology" : "Railroad",
+1 Great Merchant points
+Effect
+ +3  Gold, +2  Culture, and +1  Happiness from every Castle.
+ +2  Happiness
+ +4  Culture
+ +6  Gold
+ Back to the list of wonders
+City must be built within 2 tiles of a mountain that is inside your territory.
+ +2  Happiness
+ +4  Culture
+ +6  Gold
+ +3  Gold, +2  Culture, and +1  Happiness from every Castle. 
+Neuschwanstein is a very useful Wonder, and highly beneficial if built in one of a civilization's cities that meets the requirements for it (i.e. a city within 2 tiles of a mountain inside the civilization's territory). A big empire with many Castles will reap especially great benefits from Neuschwanstein.
+If the Professional Army in the Honor policy tree in Gods &amp; Kings is adopted, a Castle would provide a total of +3  Gold, +2  Culture, and +2  Happiness.
+Given that the AI has a tendency to avoid settling cities near mountains, AI players will rarely, if ever, attempt to build this Wonder. This can be a considerable advantage, because once "Railroad",s has been researched, City-States will give quests for Neuschwanstein, and it can be built without competition (given a city that has a mountain nearby, that is).
+Note that mountainous Natural Wonders within 2 tiles of a city (Grand Mesa, Mt. Fuji, Old Faithful, Cerro de Potosi, Mt. Kailash, Mt. Sinai, Sri Pada, Uluru, King Solomon's Mines and Mt. Kilimanjaro) often may not count as mountains for the purpose of building Neuschwanstein.
+Commissioned by the "Mad King" Ludwig II of Bavaria in the late 19th century, the Neuschwanstein Castle has since become the symbol for iconic "fairy tale" castles commonly found in children's literature and fables. Built into a hillside near the town of Füssen in Germany, Ludwig had intended the castle to be his retreat from public view, as he was known for his reclusive nature. Following his death, the castle became a popular tourist attraction, and eventually served as the inspiration for the famous Sleeping Beauty Castle created by Walt Disney.
+},
+{
+	"Wonder" : "Notre_Dame",
+	"Production Cost" : 400,
+	"Culture" : N/A,
+	"Technology" : "Physics",
+1 Great Merchant points
+Effect
+ +10  Happiness
+ +4  Faith
+ Back to the list of wonders
+ +10  Happiness
+ +4  Faith
+Notre Dame is a very important World Wonder for your empire, standing proud with an extra 10  Happiness for your empire. Keeping your empire happy is the key to growth, so it is strongly suggested you get this Wonder before someone else does! To do this, however, you will have to rush "Physics",, a relatively useless technology.
+Notre Dame is a mighty cathedral standing on the "Île de la Cité," an island in the Seine River in Paris, France. Built on the site of an older church, which was in turn built on the site of a Roman temple to Jupiter, Notre Dame is a magnificent example of gothic architecture and one of the greatest buildings standing. "Construction", of Notre Dame began in 1163 and took almost two centuries to complete.
+Notre Dame is a massive stone building of square towers, flying buttresses, and tall spires. The exterior is decorated with delicate ribbons of arches and statues of saints and kings. The roofline of the building is festooned with gargoyles. The interior of the cathedral is a long, narrow space with columns lining each side, supporting two beautiful raised galleries. Brilliant stained glass windows shine gently down on the main altar, which contains a beautiful statue of the Virgin Mary, the cathedral's patron, holding the body of Jesus.
+The cathedral has suffered many periods of neglect over the years. During the French Revolution, many of Notre Dame's treasures were stolen and the building was used as a warehouse. In the early 1800s, the cathedral was in such a state of disrepair that the city planners contemplated tearing it down. In fact, Victor Hugo wrote "The Hunchback of Notre Dame" in part to raise awareness of the cathedral's plight. In 1871, during the short-lived Paris Commune, Notre Dame was almost set on fire. Fortunately the cathedral survived it all, and has now been largely restored to its original grandeur.
+},
+{
+	"Wonder" : "Oracle",
+	"Production Cost" : 250,
+	"Culture" : 3,
+	"Technology" : "Philosophy",
+1 Great Scientist points
+Effect
+ 1 free Social Policy
+ Back to the list of wonders
+ +3  Culture
+ 1 Free Social Policy
+The Oracle is a solid wonder that is especially useful for strategies that rely on having many Social Policies. Try to build it if you happen to research Philosophy early, unless you have to delay building your National College.
+In ancient Greek religion, an oracle was a priest or priestess through whom the gods spoke in response to questions. The oracle interpreted dreams, the actions of entranced persons, and physical signs found in the entrails of sacrificed animals. The most famous oracle resided in the shrine of Apollo at Delphi, located on the slopes of Mount Parnassus. Greeks, Romans, and others consulted this oracle for centuries about public policy and private matters. A priestess called the Pythia would, for a fee, make public predictions for the future. These ecstatic pronouncements became infamous for their ambiguity.
+There also was the Oracle of Delos, located at Delos in the Ionic sea. This oracle predated the classical Greek culture, but its location at an island made it hard to reach in time of need, particularly during wars. The Oracle of Delos originally held the Serpent Column, a gift of the Greeks after winning the wars against the Persians.
+},
+{
+National wonder in Civilization V
+	"Wonder" : "Oxford_University",
+	"Production Cost" : 125 (increases with number of cities),
+	"Culture" : 1,
+	"Required Buildings" : "University or Wat",
+	"Technology" : "Education",
+Effect
+Provides one free technology
++3  Science
+Contains 2 slots for Great Works of "Writing",
+ Back to the list of wonders
+Scientific national wonder. Requires University in all cities.
++3  Science
+1 Free Technology
+Contains 2 slots for Great Works of "Writing", which provide +2 theming bonus, if you fill the slots with Great Works of "Writing", from other civilizations and different eras. 
+ +1  Happiness with Universal Healthcare tenet (any Ideology)
+Oxford University is the next step for your national scientific development. As with other buildings that provide free techs, the bonus might become really useful, or not that much (depending on your timing). Also, use the opportunity to get some more  Culture and  Tourism by filling the Great Work slots.
+Oxford University is the oldest university in England, and in all of the English-speaking world. Founded sometime late in the 11th century, Oxford has been in continuous operation ever since. Famous Oxford graduates include Roger Bacon, William of Ockham, Sir Walter Raleigh, John Donne, Jonathan Swift, Dr. Samuel Johnson, Oscar Wilde, Sir Richard Burton, and J.R.R. Tolkien.
+},
+{
+National wonder in Civilization V
+	"Wonder" : "Palace",
+	"Production Cost" : 1,
+	"Culture" : 1,
+Effect
++3  Production
++3  Science
++3  Gold
++2  Defense
+Indicates the capital city
+Cities connected by a road to the capital produce additional gold
+ Back to the list of wonders
+Indicates that a given city is the  Capital of the empire. Built automatically in the first city you establish.
+Connecting other cities to the  Capital by Road will produce additional  Gold
++3  Production, +3  Science, +3  Gold, +1  Culture
++2  Defense
+ 1 Great Work of Art or Artifact slot
++1  Production,  Culture,  Gold,  Faith and  Science with God King Religious Belief
+Your Palace is the seat of your government. In the very beginning of the game it provides a significant portion of your capital city's  Gold and  Production, boosts  Science output, and is the only source of  Culture. It also forms the heart of your empire's trading network.
+At all times, the Palace is considered the seat of your government in regards to domination victory. Although the Palace is automatically rebuilt in another city if your capital is captured, it can still be a terrible blow to your civilization (and also makes you ineligible to win a domination victory until you get it back). Protect your Palace well!
+A palace is the residence of a civilization's ruler. The term is somewhat anachronistic, dating back to a time when most countries were ruled by kings or other hereditary leaders. Nowadays modern rulers live in ornate buildings called something like "the People's House" or "the Place of Justice," but the effect is the same. Palaces (and their modern equivalents) are designed to do three things: to provide the ruler with access to the people and communications necessary to rule, to defend the leader from attack, and to impress upon subjects and foreign visitors the leader's importance and grandeur.
+},
+{
+	"Wonder" : "Parthenon",
+	"Production Cost" : 250,
+	"Culture" : 4,
+	"Technology" : "Drama and poetry",
+Effect
+ Contains a prebuilt Great Work of Art in the Great Work Slot.
+ Back to the list of wonders
+ +4  Culture
+ Contains a prebuilt Great Work of Art in the Great Work Slot.
+The Parthenon is a Wonder that automatically grants you a free Great Work of Art (usually your first Great Work ever), allowing you to jump-start your  Tourism and start gaining influence over the other players. All players pursuing a cultural victory should try to build it.
+Also, the +6  Culture (base of 4, +2 with the Great Work) generated is significant at this point of the game, a great help for early Social Policies.
+Built upon the Acropolis, dedicated to the goddess Athena, the Parthenon is considered the culmination of Doric architecture. "Construction", of the temple began in 447 BC; the last decorations were put into place in 432 BC and are important surviving examples of classical sculpture. It housed the chryselephantine statute of Athena sculpted by Phidius, and the outer facade was ornamented with 92 metopes. Like most Greek temples, the Parthenon also served as treasury, both for Athens itself and for the Delian League. Through the 1700s, European tourists and scholars enjoyed greater access to the picturesque ruins and its fame spread. When Greece regained its independence in 1832, the government took control of the site. Undertaking a restoration of the Acropolis in 1975, Greece has made the Parthenon an enduring symbol of ancient Greece, Athenian democratic ideals, Western civilization and one of the world's greatest cultural treasures.
+The Parthenon was used as a fortification during a Venetian siege in 1687, and was critically damaged by an exploding gunpowder depot. The missing columns at the southern side still mark this spot, and the once translucent roof was gone for good, reducing the Parthenon to a row of columns.
+},
+{
+	"Wonder" : "Pentagon",
+	"Production Cost" : 1250,
+	"Culture" : 1,
+	"Technology" : "Combined arms",
+2 Great Merchant points
+Effect
+  Gold cost of upgrading military units reduced by 33%.
+ Back to the list of wonders
+  Gold cost of upgrading military units reduced by 33%.
+The Pentagon appears to be a great Wonder for militaristic empires, but it is not without drawbacks: it allows them to keep their armies updated in tech for a lower  Gold cost and also gives out two Great Merchant points. Although it may at first seem helpful to get Great Merchants, whenever a Great Merchant is acquired, the GPP requirements for obtaining Great Scientists and Great Engineers increase significantly. Militaristic players should not rush to build the Pentagon unless they also need to strengthen their economies or maintain alliances with city-states, because the slower acquisition of Great Scientists and Great Engineers will hamper their science and production potential.
+The Pentagon is a large, five-sided building in Arlington, Virginia, USA, just across the Potomac River from Washington, DC. It is the headquarters of the United States Department of Defense and all five branches of the armed forces: the Army, Navy, Marine Corps, Air Force, and the Coast Guard. The Pentagon was designed to consolidate the various parts of the War Department (now the Department of Defense), until then was scattered in seventeen separate buildings across Washington. "Construction", began in 1941, and was completed in 1943, an astonishingly short period for such a huge building, reflecting the frantic pace of American military expansion at the start of World War II. The Pentagon occupies some 12 hectares (30 acres) and contains office space for 25,000 people, making it one of the largest office buildings ever constructed (it holds more workers than the Empire State Building, for example).
+The Pentagon was struck by a passenger jet airplane piloted by religious extremists on September 11, 2001. Fortunately, the area of the Pentagon that was hit was undergoing renovations at the time of the attack. The renovations were to improve the structural strength of the building, and many of the office workers occupying that portion of the building had temporarily relocated to other quarters. One hundred and twenty-five Pentagon workers were killed in the attack, along with all sixty-four passengers aboard the plane. The building has since been fully rebuilt and today remains the heart and brains of the US armed forces.
+},
+{
+	"Wonder" : "Petra",
+	"Production Cost" : 250,
+	"Culture" : 1,
+	"Technology" : "Currency",
+1 Great Engineer points
+Effect
+ +1  Food, +1  Production, for all desert tiles worked by this city (except Flood Plains).
+ Gains an additional trade route slot and a Caravan appears in the city.
+ +6  Culture once "Archaeology", is discovered.
+ City must be built on or next to Desert.
+ Back to the list of wonders
+City must be built on or next to Desert. 
+ +1  Food and +1  Production, for all desert tiles worked by this city (except Flood Plains). ( only - this bonus applies to mountains and some Natural Wonders if they are in desert, like Mt. Sinai or Barringer Crater)
+ Gains an additional trade route slot
+ A free Caravan appears in the city.
+ +6  Culture once "Archaeology", is discovered.
+Petra is one of the most powerful, but restricted Wonders in the game. Besides enhancing early trading, its main bonus can literally turn a desert into an oasis, greatly helping the city! If one of your starting cities is close to a desert, you should absolutely try to build Petra; for this, you'll need to rush Currency. One problem might be that the city next to the desert doesn't have good  Production capabilities; if so, you will really have to juggle your  Citizens to make the most of the limited resources available to you.
+This Wonder is perfect in areas with a large amount of desert hills, as the bonus applies on top of the 2  Production the hills provide, but otherwise it turns all regular desert tiles into the equivalent of plains tiles. Note that oasis tiles also get the bonus - only flood plains (non-hill tiles next to a river) don't get it. 
+ 	  	 		 			 		 		 		 			Concept art of the "Petra" Wonder 		 	 
+Constructed sometime around 1000 BC, the site of Petra in Jordan is among the most famous examples of rock-cut architecture in the world. Numerous intricately carved structures were cut into the sandstone walls of the desert canyons surrounding the area, as Petra came to serve as the capital city for the once-nomadic Nabataen people. The most famous of these structures, the Al Khazneh or "The Treasury," has been featured in numerous major motion pictures, notably a prominent role in "Indiana Jones and the Last Crusade" when the Al Khazneh was used to represent the location of the Holy Grail.
+},
+{
+	"Wonder" : "Porcelain_Tower",
+	"Production Cost" : 625,
+	"Culture" : 1,
+	"Technology" : "Architecture",
+2 Great Scientist points
+Effect
+ A Great Scientist appears near the City where the Wonder was built.
+ 50% more  Science generated from Research Agreements.
+ Back to the list of wonders
+Requires Rationalism.
+ A free Great Scientist appears near the City where the Wonder was built.
+ 50% more  Science generated from Research Agreements.
+The Porcelain Tower Wonder is a must for those pursuing a Science victory. It will not only boost your current research efforts, but will also give you a larger benefit from each research agreement you make! So, after building this wonder, try to stay friendly with as many players as possible and save your  Gold for research agreements.
+Constructed by the Ming Dynasty in the 15th century, the Porcelain Tower of Nanjing was one of the most extraordinary architectural achievements of Chinese history. The tower was some 30 meters (97 feet) in diameter, with a height of 79 meters (260 feet).
+The exterior of the building was built of white porcelain bricks that shone like mirrors in the sunlight. At night the tower was hung from top to bottom with over 100 lamps. The tower stood in the center of Nanjing until 1854 when it was destroyed during the Taiping Rebellion.
+},
+{
+	"Wonder" : "Prora",
+	"Production Cost" : 1060,
+	"Culture" : N/A,
+	"Technology" : "Flight",
+Effect
+ +2  Happiness
+ +1  Happiness for every 2 Social Policies
+ 1 Free Social Policy.
+ Must be constructed in a coastal city.
+ Back to the list of wonders
+Requires Autocracy. Must be constructed in a coastal city.
+ +2  Happiness.
+ +1  Happiness for every 2 Social Policies you have adopted.
+ 1 Free Social Policy. 
+The Prora is quite a useful wonder for players who have adopted the Autocracy ideology. The  Happiness boost from Social Policies is very helpful in times of war and peace alike, allowing players to cut down on the  Unhappiness of their empire when conquering or founding new cities or struggling against foreign influence, while the free Social Policy allows them to advance faster in the Social Policy or Ideology trees.
+The only drawback to the Prora is its lack of culture boosters, which leaves the builder's civilization vulnerable to the foreign influence of the  Tourism wave and its unfavorable effects on public opinion. Rather than relying solely on the Prora's bonuses, it is recommended for players to build many  Culture- and  Happiness-boosting buildings in their cities, get a lot of luxury resources, and obtain many Great Works. If a player takes all of these steps in addition to building the Prora as quickly as possible after adopting Autocracy, his or her civilization should be largely immune to the cultural influence of foreign civilizations.
+Built between 1936 and 1939, Prora was to be a massive beach resort on the Baltic island of Ruegen. The massive complex was intended to provide vacations for German workers. As originally planned, the Prora Resort would consist of eight blocks of ten housing units, capable of providing rooms for 20,000 vacationers. The complex, if completed, would also have included restaurants, cinemas, swimming pools, gymnasiums, ballrooms and other amenities, all served by a rail station and a quay for cruise ships. The outbreak of World War II halted construction; during the war the buildings were used to house refugees and later served as a military hospital. After the war, the complex was occupied by Soviet units for a period, and then stripped of all usable materials, down to the wiring and plumbing. Aside from a museum for East German history, most of the complex has fallen into decay.
+Before the release of the Brave New World expansion, the Eiffel Tower had the Prora's ability to grant additional  Happiness based on the number of Social Policies adopted. With the appearance of  Tourism, the Eiffel Tower's abilities were changed and the Prora inherited the Eiffel Tower's  Happiness-boosting ability (though it has a base  Happiness bonus of +2 rather than +5).
+},
+{
+	"Wonder" : "Pyramids",
+	"Production Cost" : 185,
+	"Culture" : 1,
+	"Technology" : "Masonry",
+1 Great Engineer points
+Effect
+ Tile improvement construction speed increased by 25%
+ Two Workers appear near the City.
+ Back to the list of wonders
+Requires Liberty.
+ Tile improvement construction speed increased by 25%
+ Two free Workers appear near the City.
+The Pyramids is one of the earliest wonders available, and it may considerably speed up your early development. Its main effect, faster improvement construction, combines nicely with the similar effect from the Liberty social branch, but even more important are the free Workers, which will allow you to upgrade your early cities with lightning speed. To get a chance at building the Pyramids, adopt Liberty first thing, then research "Mining",, then finally Masonry.
+Built by the fourth dynasty of Egyptian rulers, the Pyramids represent the pinnacle of ancient Egyptian cultural achievement. Constructed on the Giza plateau outside modern-day Cairo, these structures were burial tombs and monuments for the Pharaohs, and may have taken generations and tens of thousands of workers to complete. The Pyramids are the only one of the generally accepted man-made wonders of the ancient world that remains in existence today.
+},
+{
+	"Wonder" : "Red_Fort",
+	"Production Cost" : 625,
+	"Culture" : 1,
+	"Technology" : ""Metallurgy",",
+1 Great Scientist points
+Effect
+ Defensive buildings in all Cities are 25% more effective
+ Back to the list of wonders
+ Provides +12 defense in the city it was built in
+ Defensive buildings in all cities are 25% more effective
+In Brave New World, the Red Fort acquires the old bonus of the "Kremlin", wonder. Building it is highly recommended if you're afraid your civilization will be invaded (or if it has been invaded already), and especially if there is a militaristic nation nearby, attacking everyone.
+Built by Shah Jahan, the Lal Qil'ah in Delhi, better known as the Red Fort, was the residence and administrative palace for the Mughal emperors from 1648 AD, when construction was completed, until 1857, when the last Mughal emperor was exiled by the British government. So-called for the red sandstone used to construct its massive 23 meters (75 foot) high outer walls, the Red Fort is a tribute to the magnificence of Mughal architecture with large audience halls, luxurious living quarters, richly landscaped gardens, baths, libraries, and sumptuous mosques. With British occupation the Red Fort was stripped of its valuables, a number of buildings inside it were demolished, the gardens largely filled in, and it was used as a military cantonment. In 2003, the Indian government began a long-term project to restore the Red Fort to its former opulence as a tourist site.
+},
+{
+	"Wonder" : "Sistine_Chapel",
+	"Production Cost" : 500,
+	"Culture" : 1,
+	"Technology" : "Acoustics",
+Effect
+ +25%  Culture in all Cities.
+ Contains 2 slots for Great Works of Art.
+ Back to the list of wonders
+ +25%  Culture in all Cities.
+ Contains 2 slots for Great Works of Art which provide +2 theming bonus, if you fill the slots with Great Works of Art from the same civilization and the same era. 
+},
+{
+	"Wonder" : "Statue_of_Liberty",
+	"Production Cost" : 1060,
+	"Culture" : 1,
+	"Technology" : "Replaceable parts",
+Effect
+ +1  Production for every Specialist in all Cities
+ 1 Free Social Policy
+ Back to the list of wonders
+Requires Freedom.
+ +1  Production from Specialists in every city. 
+ 1 Free Social Policy.
+The special wonder of the Freedom Ideology, the Statue of Liberty fits very nicely into small, non-expansionist empires with lots of  Population. Assign as many Specialists as you can after you build this wonder, and watch your overall effectiveness soar! 
+The Statue of Liberty is one of the largest statues in the world. Measuring over 90 meters (300 feet) tall from the base of its pedestal, the statue is constructed of copper plating over an iron framework and weighs over 250 metric tons. Designed by French sculptor Frederic Bartholdi, the statue, with upraised torch and the broken chains of tyranny at her feet, was presented to the United States by the French government in 1886 to commemorate 100 years of American independence. The statue itself, Liberty Island, and nearby Ellis Island became a national monument in 1924. During WWI the statue was damaged when German spies blew up a nearby ammo dump. The torch has been closed for visiting by the public since.
+For more than a century, the Statue of Liberty has stood at the mouth of the New York harbor. Often the first sight seen by immigrants arriving in America, Lady Liberty symbolizes the ideals of freedom upon which the United States was founded.
+},
+{
+	"Wonder" : "Statue_of_Zeus",
+	"Production Cost" : 185,
+	"Culture" : 1,
+	"Technology" : "Bronze working",
+Effect
+ All units gain +15% combat strength when attacking cities.
+ Back to the list of wonders
+Requires Honor.
+ All units gain +15% combat strength when attacking cities.
+The Statue of Zeus Wonder is a decent option for all players pursuing a domination victory. Its bonus helps you do what you need to do most: conquer enemy cities faster. Although its benefits are minimal early on in the game, they become more significant when you gain access to siege weapons and the more advanced and powerful units of the later eras. 
+Standing over 40 feet tall (12 m) in the Temple of Zeus at Olympia, Greece, the Statue of Zeus was one of the Seven Wonders of the Ancient World. It was known to have been constructed by the Greek sculptor Phidias c. 440 BC, and even with Zeus seated on a golden throne the enormous statue could barely be contained by the temple itself. The statue is thought to have been destroyed no later than 425 AD, when the temple of Zeus was burned. Whether the statue was still present at that time is the subject of much debate.
+The Statue of Zeus is one of the earliest wonders that can be built, introduced in the Wonders of the Ancient World DLC pack and later included in Brave New World.
+},
+{
+	"Wonder" : "Stonehenge",
+	"Production Cost" : 185,
+	"Culture" : N/A,
+	"Technology" : "Calendar",
+1 Great Engineer points
+Effect
+ +6  Culture (Vanilla)
+ +5  Faith ( and )
+ Back to the list of wonders
+ +6  Culture (Vanilla)
+ +5  Faith ( and )
+One of the earliest Wonders available, Stonehenge will jump-start your religion. In a time when you're producing 1-2  Faith per turn, the wonder's bonus will boost this stat significantly, allowing you to found a religion typically within 20-30 turns of building it. Also, the Great Engineer point is very welcome at this earliest phase of the game. 
+Stonehenge also allows a player to potentially get a religion without choosing a  Faith-generating pantheon or having access to a  Faith-generating Natural Wonder. 
+Stonehenge is perhaps the most astounding construct of pre-history still standing. Though largely in ruins, this mighty relic still has the power to incite amazement, awe and wonder.
+Stonehenge was built in southern England. Consisting of concentric circles of stone surrounded by a moat (called a "henge"), Stonehenge was constructed in stages over thousands of years. The henge was dug approximately 5000 years ago; the inner ring of smaller "bluestones" were added about a thousand years later, in approximately 2000 BC; and the outer ring of huge "sarsen" stones was completed 500 years after.
+No one is sure exactly who constructed Stonehenge. For centuries it was romantically and erroneously believed that the Druids built the wonder, but in fact the edifice was completed 2000 years before there were any Druids. All we really know is that construction was begun by people of the Neolithic period and completed by those who supplanted them.
+Stonehenge is a wonder of engineering constructed with the most primitive tools. It appears that the outer ditch was dug with wooden and bone implements. The 80 inner bluestones, weighing about 4 tons each, were transported from a quarry over 240 miles away. Scientists speculate that the stones were dragged on logs and wooden sledges for part of the journey and carried on river barges for the rest. The heaviest of the outer ring of stones weighs in at about 50 tons; it took approximately 600 men to drag such stones from their quarry, about 20 miles away. These monster stones had to be pulled upright in exactly the correct position by men equipped with ropes and wooden levers.
+There is much debate about Stonehenge's purpose. Some theorize that it was built as a temple to honor earth gods, while others believe that it was a burial ground for ancient kings and noblemen. Another theory is that Stonehenge is an ancient astronomical observatory, charting the movement of the stars which men believed controlled their destinies.
+Whatever its original purpose, it remains today a rugged and beautiful monument to the astonishing skill and dedication of its "primitive" builders.
+},
+{
+	"Wonder" : "Sydney_Opera_House",
+	"Production Cost" : 1250,
+	"Culture" : N/A,
+	"Technology" : "Ecology",
+Effect
+ 1 Free Social Policy
+ +50%  Culture in this city
+ Contains 2 slots for Great Works of Music
+ City must be built on the coast
+ Back to the list of wonders
+Must be constructed in a coastal city.
+ +50%  Culture in this city.
+ 1 Free Social Policy.
+ Contains 2 slots for Great Works of Music which provide +2 theming bonus, if you fill the slots with Great Works of Music from the same civilization and different eras.
+The Sydney Opera House is, along with Broadway, one of only two wonders which provide theming bonuses for Great Works of Music. It is therefore quite useful to players pursuing a cultural victory, though the free social policy and +50%  Culture in the city will be of great benefit to players aiming at other victory conditions as well.
+The Sydney Opera House is one of the grandest modern opera houses in the world. Constructed over a 20-year period ending in 1973, the Sydney Opera House is a beautiful building sitting atop Bennelong Point alongside Sydney Harbor in Sydney, Australia. Designed as a series of shells, or wings, the structure is one of the most recognizable in the world and it has come to symbolize Australia itself, in much the same way that the Statue of Liberty symbolizes the United States or the Great Pyramids symbolize Egypt. It houses an Opera Theatre, Concert Hall, three smaller venues, and a restaurant.
+In the bottom-right corner of the portrait, an appearance is made by the band The Lonely Island from their music video "I'm on a Boat."
+},
+{
+	"Wonder" : "Taj_Mahal",
+	"Production Cost" : 625,
+	"Culture" : 1,
+	"Technology" : "Architecture",
+Effect
+ Immediately enter a Golden Age
+ +4  Happiness
+ Back to the list of wonders
++4  Happiness
+ The empire enters a Golden Age.
+Perhaps the Taj Mahal is not a remarkable wonder, but the Golden Age it starts is not to be underestimated, especially if you managed to build the Chichen Itza, or are playing a relevant civilization such as Brazil or Persia. Either way, this is a very good wonder to spend a Great Engineer on, particularly if you are playing a wide empire and are looking for more  Happiness on top of the Golden Age.
+If the city containing the Taj Mahal is captured (and either annexed or puppeted), then the capturing civilization will also get a Golden Age (10 turns in Normal speed games) once the city leaves the resistance phase.
+The Taj Mahal stands in Agra, India. It was built in the mid-16th century at the orders of the Mughal Emperor Shah Jahan, as a mausoleum for his wife. Acknowledged as one of the most beautiful structures in the world, the Taj Mahal is composed of rare and brilliant materials imported from across India and Asia - it is said that over 1000 elephants were employed to carry the sandstone, marble, jade, turquoise, sapphires, and other materials used in its construction.
+The Taj Mahal complex covers an area of approximately 300 meters by 580 meters (1000 feet by 1900 feet) and consists of a gateway, garden, mausoleum, mosque, and guest house. The first three buildings are clad in white marble and covered with geometric patterns, while the mosque and guesthouse are built of brilliant red sandstone. The buildings are topped with magnificent onion-shaped domes and minarets.
+Experts have debated about what makes the Taj Mahal unique and beautiful. Some suggest that it lies in the structures' marvelous proportions and symmetry, while others argue in favor of the way that the marble buildings interact with the light, giving the Taj Mahal ever-changing character as the sun rises and sets. Still others believe that its inherent beauty lies in its purpose - a man seeking to cast in stone his love for his departed wife.
+},
+{
+	"Wonder" : "Temple_of_Artemis",
+	"Production Cost" : 185,
+	"Culture" : 1,
+	"Technology" : "Archery",
+1 Great Engineer points
+Effect
+ +10%  Growth in all cities
+ +15%  Production of ranged units
+ Back to the list of wonders
+ +10%  Growth in all cities.
+ +15%  Production when building ranged units.
+The Temple of Artemis is the earliest wonder available in the game. Its +10% bonus to total  Food makes it a great wonder for small empires, which both get a boost to  Population growth and are able to more rapidly build ranged units to defend themselves.
+The Temple of Artemis, a Greek temple first constructed in 880 BC, was dedicated to the Goddess Artemis who represented the wilderness, the hunt and the moon. Originally built in the city of Ephesus, the temple is said to have been destroyed and rebuilt no less than seven times, the victim of both natural and man-made disasters. Considered one of the Seven Wonders of the Ancient World, the site was rediscovered by British archaeologists in the late 1800s, and today is marked by a single column made up of excavated remnants found at the site.
+The Temple of Artemis is one of the earliest wonders that can be built, introduced in the Wonders of the Ancient World DLC pack.
+},
+{
+	"Wonder" : "Terracotta_Army",
+	"Production Cost" : 250,
+	"Culture" : 6 (+1 in ),
+	"Technology" : "Construction",
+Effect
+Creates a Copy of each unique Military Unit you currently possess. Additionally, it grants +1  Culture.
+ Back to the list of wonders
+Gives a big bonus to  Culture (+6) early on. ()
+Creates a copy of each type of military unit you currently possess. ()
+The Terracotta Army is a unique wonder in every sense - it creates free soldiers for you! There are some tricks, though - the extra units are created for each unit type you possess, not for each unit! So, if you want to make the most of the wonder, try to produce as many types of units as you can while building the wonder.
+Note that the sudden rush of units may turn against you - there will be a sudden rise in  Gold maintenance costs for your army, so be prepared for that!  
+Unearthed by Chinese farmers in 1974, the Terracotta Army of Emperor Qin Shi Huang was assembled to accompany the emperor in his burial tomb. Constructed during the 3rd century BC, workers created thousands of life-sized earthen figures, with each soldier having unique characteristics added during their construction. Positioned in proper military formation along deep pits carved within the tomb, the soldiers of the Terracotta Army are joined by horses, chariots, and cavalry which were also replicated in great detail.
+},
+{
+	"Wonder" : "Uffizi",
+	"Production Cost" : 625,
+	"Culture" : 2,
+	"Technology" : "Architecture",
+Effect
+ 1 free Great Artist appears near the city where the Wonder was built.
+ Contains 3 slots for Great Works of Art.
+ Back to the list of wonders
+Requires Aesthetics.
+ 1 free Great Artist appears near the city.
+ Contains 3 slots for Great Works of Art which provide +3 theming bonus, if you fill the slots with Great Works of Art from the same civilization and the same era.
+},
+{
+	"Wonder" : "United_Nations",
+	"Production Cost" : 1000,
+	"Culture" : 1,
+	"Technology" : "Globalization",
+2 Great Merchant points
+Effect
+Completion triggers voting for the diplomatic victory
+ Back to the list of wonders
+},
+
+{
+	"Wonder" : "Utopia_Project",
+	"Production Cost" : 1500,
+Effect
+Triggers the cultural victory
+Unlocked after completing five social policy branches
+ Back to the list of wonders
+}

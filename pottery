@@ -1,0 +1,1163 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="Civilization Wiki,civilization,Pottery (Civ5),Pottery (Civ5).png,Agriculture (Civ5).png,Sailing (Civ5).png,Calendar (Civ5).png,Writing (Civ5).png,Granary (Civ5).png,Shrine (Civ5).png,Pyramid (Civ5).png,Science (Civ5),Agriculture (Civ5)" />
+<meta name="description" content="Back to the list of technologies As the art of building objects from clay, Pottery is also a..." />
+<meta name="google-site-verification" content="dS0TsKnwenO7Pgwq42CoGUFqwE1FmFZGLCI2Nbf3Atc" />
+<link rel="canonical" href="http://civilization.wikia.com/wiki/Pottery_(Civ5)" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/wiki/Pottery_(Civ5)?action=edit" />
+<link rel="edit" title="Edit" href="/wiki/Pottery_(Civ5)?action=edit" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb17/civilization/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/civilization/images/6/64/Favicon.ico/revision/latest?cb=20140905212120" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Civilization Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://civilization.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="/wiki/Civilization:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="Civilization Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Pottery (Civ5) - Civilization Wiki</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images4.wikia.nocookie.net/__am/1433857871/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20141001165809%252Fcivilization%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D800%26background-image-width%3D2000%26color-body%3D%252313282c%26color-body-middle%3D%25230a2c35%26color-buttons%3D%252373979f%26color-header%3D%252373979f%26color-links%3D%252373979f%26color-page%3D%252313282c%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0%26wordmark-font%3Dmegalopolis/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationHubsMenu.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://civilization.wikia.com/__load/-/cb%3D1433857871%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: civilization:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="games",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live! Chat","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"pageArticleId":6556,"pageIsArticle":true,"pageName":"Pottery_(Civ5)","pageType":"article","skin":"oasis","wikiCategory":"gaming","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age-18-34;age=kids;age=teen;gnre=rts;gnre=strategy;pform=pc;gnre=sim;esrb=everyone","wikiDbName":"civilization","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"Gaming"},"providers":[],"slots":{"exitstitial":true,"exitstitialRedirectDelay":15},"forceProviders":[]},"runtime":[]},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[131,100050,100051,100056,100057,100058,100059],
+wgWikiFactoryTagNames=["gaming","vanquish_windowshade","kalypso","wow","t9","skyscraper","skyscrapperwow"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1433857871",
+wgDBname="civilization",
+wgCityId="1945",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=6556,
+wgCategories=["Ancient era technologies (G\x26K)","Technologies (Civ5)"],
+wgPageName="Pottery_(Civ5)",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="other",
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=true,
+wgStyleVersion="1433857871",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s25","php_version":"5.6.4","wiki":"civilization","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>
+function syslogReport(priority,message,context){context=context||null;var url='//jserrorslog.wikia.com/',i=new Image(),data={'@message':message,'syslog_pri':priority};if(context){data['@context']=context;}
+try{data['@fields']={server:document.cookie.match(/server.([A-Z]*).cache/)[1]};}catch(e){}
+try{i.src=url+'l?'+JSON.stringify(data);}catch(e){i.src=url+'e?'+e;}}
+window.onerror=function(m,u,l){if(Math.random()<0.01){syslogReport(3,m,{'url':u,'line':l});}
+return false;}</script><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1433857871&amp;c=1945&amp;lc=en&amp;lid=75&amp;x=civilization&amp;y=c1&amp;u=0&amp;a=6556&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1433857871&amp;c=1945&amp;lc=en&amp;lid=75&amp;x=civilization&amp;y=c1&amp;u=0&amp;a=6556&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images1.wikia.nocookie.net/__load/-/cb%3D1433857871%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__load/-/cb%3D1433857871%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1433857871/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_rubicon_rtp_js,adengine2_amazon_match_js,optimizely_blocking_js,qualaroo_blocking_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="Civilization Wiki" />
+	<meta property="og:title" content="Pottery (Civ5)" />
+	<meta property="og:description" content="Back to the list of technologies As the art of building objects from clay, Pottery is also a fundament of civilization, creating the means for long-term storage of food and materials and their protection from the elements. Thanks to that, a number of future developments are possible." />
+	<meta property="og:url" content="http://civilization.wikia.com/wiki/Pottery_(Civ5)" />
+	<meta property="og:image" content="http://images.wikia.nocookie.net/common/__cb1400612267/skins/common/images/Wikia_black_large_rgb.png" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Pottery_Civ5  TOC_hide wikinav2 skin-oasis oasis-dark-theme  user-anon background-fixed background-not-tiled background-dynamic">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_gaming"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fcivilization.wikia.com%2Fwiki%2FPottery_%2528Civ5%2529%3Fcomscorekw%3Dwikiacsid_gaming&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatchOld"), // new name
+		require.optional("ext.wikia.adEngine.amazonMatchOld")  // old name
+	], function (geo, globals, amazon1, amazon2) {
+		var ac = globals["wgAmazonMatchOldCountries"],
+			amazon = amazon1 || amazon2;
+
+		if (ac && ac.indexOf && ac.indexOf(geo.getCountryCode()) > -1) {
+			amazon.call();
+		}
+	});
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"), // new name
+		require.optional("ext.wikia.adEngine.amazonMatch")  // old name
+	], function (geo, globals, amazon1, amazon2) {
+		var ac = globals["wgAmazonMatchCountries"],
+			amazon = amazon1 || amazon2;
+
+		if (ac && ac.indexOf && ac.indexOf(geo.getCountryCode()) > -1) {
+			amazon.call();
+		}
+	});
+</script>
+<!-- Unsupported language for AnalyticsProviderIVW2 -->
+<!-- Start for RubiconRTP, page_view -->
+<script id="analytics-provider-rubicon-rtp">
+	require([
+		'wikia.geo',
+		'wikia.instantGlobals',
+		require.optional('ext.wikia.adEngine.lookup.rubiconRtp'), // new name
+		require.optional('ext.wikia.adEngine.rubiconRtp')         // old name
+	], function (geo, instantGlobals, rtp1, rtp2) {
+		var rtpCountries = ["US","GB","AU","NZ","CA","DE"], country = geo.getCountryCode();
+
+		if (rtpCountries.indexOf(country) !== -1 && !instantGlobals.wgSitewideDisableRubiconRTP) {
+			var rtp = rtp1 || rtp2;
+			rtp.call({"disabled":false,"oz_site":"7450\/41686","oz_zone":"175094","oz_ad_slot_size":"728x90","skin":["oasis"],"oz_cached_only":false,"slotname":["HOME_TOP_LEADERBOARD","TOP_LEADERBOARD","CORP_TOP_LEADERBOARD"]});
+		}
+	});
+</script><div class="WikiaSiteWrapper">
+	<h1>Wikia</h1>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com"
+				class="wikia-logo"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+			</a>
+		</div>
+		<div class="hubs-container table-cell" id="hubsEntryPoint">
+			<a class="hubs-entry-point"></a>
+<div class="hubs-menu-wrapper">
+	<nav id="hubs" class="hubs-menu global-nav-dropdown">
+		<ul class="hub-list">
+							<li>
+											<a data-vertical="comics" href="http://comicshub.wikia.com/wiki/Comics_Hub" class="comics hub-link ">
+							<span class="icon"></span>
+							<span class="label">Comics</span>
+						</a>
+									</li>
+							<li>
+											<a data-vertical="tv" href="http://tvhub.wikia.com/wiki/TV_Hub" class="tv hub-link ">
+							<span class="icon"></span>
+							<span class="label">TV</span>
+						</a>
+									</li>
+							<li>
+											<a data-vertical="movies" href="http://movieshub.wikia.com/wiki/Movies_Hub" class="movies hub-link ">
+							<span class="icon"></span>
+							<span class="label">Movies</span>
+						</a>
+									</li>
+							<li>
+											<a data-vertical="music" href="http://musichub.wikia.com/wiki/Music_Hub" class="music hub-link ">
+							<span class="icon"></span>
+							<span class="label">Music</span>
+						</a>
+									</li>
+							<li>
+											<a data-vertical="books" href="http://bookshub.wikia.com/wiki/Books_Hub" class="books hub-link ">
+							<span class="icon"></span>
+							<span class="label">Books</span>
+						</a>
+									</li>
+							<li>
+											<a data-vertical="games" href="http://gameshub.wikia.com/wiki/Games_Hub" class="games hub-link  active">
+							<span class="icon"></span>
+							<span class="label">Games</span>
+						</a>
+									</li>
+							<li>
+											<a data-vertical="lifestyle" href="http://lifestylehub.wikia.com/wiki/Lifestyle_Hub" class="lifestyle hub-link ">
+							<span class="icon"></span>
+							<span class="label">Lifestyle</span>
+						</a>
+									</li>
+					</ul>
+		<div class="hub-links">
+				<div class="hub-menu-section games-links active">
+		<div class="hub-menu-columns">
+												<ul>
+						<li><strong>WITCHER 3: WILD HUNT</strong></li>
+																					<li>
+									<a href="http://ow.ly/NjMeU">Community Guides</a>
+								</li>
+															<li>
+									<a href="http://ow.ly/NjMh2">Behind the Scenes</a>
+								</li>
+															<li>
+									<a href="http://ow.ly/NjMie">Contribute</a>
+								</li>
+																		</ul>
+									<ul>
+						<li><strong>HOT</strong></li>
+																					<li>
+									<a href="http://ow.ly/NjM7Y">MOBA Beasts Tournament</a>
+								</li>
+															<li>
+									<a href="http://ow.ly/NjM3n">Dominate at Hearthstone</a>
+								</li>
+															<li>
+									<a href="http://ow.ly/NjM1K">Destiny: The Prison of Elders</a>
+								</li>
+																		</ul>
+									<ul>
+						<li><strong>COMING SOON</strong></li>
+																					<li>
+									<a href="http://ow.ly/NjLQ4">Game of Thrones, Episode 4</a>
+								</li>
+															<li>
+									<a href="http://ow.ly/NjLSI">Splatoon</a>
+								</li>
+															<li>
+									<a href="http://ow.ly/NjLLR">The Elder Scrolls Online (PS4/XBO)</a>
+								</li>
+																		</ul>
+									<ul>
+						<li><strong>TOP VIDEOS</strong></li>
+																					<li>
+									<a href="http://ow.ly/NjLFQ">Ultra Street Fighter IV</a>
+								</li>
+															<li>
+									<a href="http://ow.ly/NjLHB">Overwatch Gameplay</a>
+								</li>
+															<li>
+									<a href="http://ow.ly/NjLJG ">Witcher Launch Trailer</a>
+								</li>
+																		</ul>
+									</div>
+		<a class="more" href="http://gameshub.wikia.com/wiki/Games_Hub">More Games</a>
+	</div>
+		</div>
+	</nav>
+</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://civilization.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search within Civilization Wiki..." data-search-url="http://civilization.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search within Civilization Wiki..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell">
+	<li class="account-navigation-first-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Pottery_(Civ5)" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">				<div class="avatar-container anon-avatar-placeholder">
+									</div>
+			</a>
+							<span class="sign-in-label">Sign in</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+		</div>
+		<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Sign up</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Pottery_(Civ5)">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+				<div class="start-wikia-container table-cell">
+			<a href="http://www.wikia.com/Special:CreateNewWiki"
+			   class="start-wikia"
+			   title="Start a wikia"
+			   data-id="start-wikia">
+				<span>Start a wikia</span>
+			</a>
+		</div>
+			</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h1 class="wordmark large graphic font-megalopolis">
+	<a accesskey="z" href="/wiki/Civilization_Games_Wiki">
+					<img src="http://img1.wikia.nocookie.net/__cb17/civilization/images/8/89/Wiki-wordmark.png" alt="Civilization"  width="250" height="65" >
+			</a>
+</h1>
+    <nav class="WikiNav">
+    	        <h1>Civilization Navigation</h1>
+        		<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Sid_Meier%27s_Civilization:_Beyond_Earth">Beyond Earth</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Starting_a_new_game_(CivBE)">Getting Started<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:CivBE_Instant_Expert">Instant Expert</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Beyond_Earth_Super_Walkthrough">Super Walkthrough</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Starting_a_new_game_(CivBE)">Starter's Guide</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Affinities_(CivBE)">Affinities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Victory_(CivBE)">Victory</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Starting_a_new_game_(CivBE)#Sponsor">Sponsors</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Tech_Web_(CivBE)">Tech Web</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Buildings_(CivBE)">Buildings</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Units_(CivBE)">Units</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Affinities_(CivBE)">Affinities</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Resources_(CivBE)">Resources</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Games">All Games</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="#">Civilization series<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Civilization_(original)">Civilization</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Civilization_II">Civilization II</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Civilization_III">Civilization III</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Civilization_IV">Civilization IV</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Civilization_V">Civilization V</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="#">Other games<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Colonization_(1994)">Colonization</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sid_Meier%27s_Alpha_Centauri">Alpha Centauri</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Civilization_Revolution">Civilization Revolution</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Civilization_Revolution_2">Civilization Revolution 2</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/CivWorld">CivWorld</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sid_Meier%27s_Starships">Sid Meier's Starships</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/C-evo">C-evo<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/C-evo_advances_affecting_units/air">Air units</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/C-evo_advances_affecting_units/ground">Ground units</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/C-evo_advances_affecting_units/naval">Naval units</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Civilization_Wiki:Community_Portal">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forums</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:News">News</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Mods">Mods</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Help:Editing">Editing Guide</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>    </nav>
+	    <div class="buttons">
+		<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Pottery_(Civ5)?action=edit"  data-id="edit"  >Edit this Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+					<a href="#" class="wikia-button share-button secondary"  data-id="shareButton"> Share<span class="share-dot"></span><span class="share-pixel"></span></a>
+    </div>
+	    <div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent changes</a>    </div>
+</header>
+
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>Pottery (Civ5)</h1>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>5,601</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button" >
+	<a accesskey="e"  href="/wiki/Pottery_(Civ5)?veaction=edit" data-id="ve-edit" id="ca-ve-edit">
+		<img alt="" class="sprite edit-pencil" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Edit	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Pottery_(Civ5)?action=edit"  accesskey="s" data-id="edit"   id="ca-edit">Classic editor</a>
+		</li>
+		<li>
+			<a href="/wiki/Pottery_(Civ5)?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="/wiki/Talk:Pottery_(Civ5)" class="wikia-button comments secondary talk" rel="nofollow" data-id="comment"> Talk<span class="commentsbubble">1</span></a>
+	</header>
+		
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div class="container-with-margins" style="float:right; width:47%"><big><big><b>Pottery</b></big></big><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1433250534/common/extensions/3rdparty/tabber/tabber.css?1433250534" TYPE="text/css" MEDIA="screen"><script>JSSnippetsStack.push({dependencies:["/extensions/3rdparty/tabber/tabber.js"],getLoaders:function(){return [$.loadJQueryUI]}})</script><div class="tabber"><div class="tabbertab" title="Brave New World"><p> 
+<table class="wikitable" style="width: 100%; margin:0">
+
+<tr>
+<td colspan="2" style="text-align: center;"><div class="center"><div class="floatnone"><a href="http://vignette2.wikia.nocookie.net/civilization/images/7/70/Pottery_%28Civ5%29.png/revision/latest?cb=20101022183205" 	class="image image-thumbnail" 	 	 	><img src="http://vignette2.wikia.nocookie.net/civilization/images/7/70/Pottery_%28Civ5%29.png/revision/latest/scale-to-width/180?cb=20101022183205" 	 alt="Pottery (Civ5)"  	class="" 	 	data-image-key="Pottery_%28Civ5%29.png" 	data-image-name="Pottery (Civ5).png" 	 	 width="180"  	 height="180"  	 	 	 	></a></div></div>
+<p><i>Technology of the <a href="/wiki/Ancient_era_(Civ5)" title="Ancient era (Civ5)">Ancient era</a></i>
+</p>
+</td></tr>
+<tr>
+<th colspan="2"><span class="_toggle gamespeed quick" style="display:none;"><b>Quick</b> - <span class="_toggler_reset-gamespeed">Regular</span> - <span class="_toggler_hide-gamespeed _toggler_show-epic">Epic</span> - <span class="_toggler_hide-gamespeed _toggler_show-marathon">Marathon</span></span><span class="_toggle gamespeed"><span class="_toggler_hide-gamespeed _toggler_show-quick">Quick</span> - <b>Regular</b> - <span class="_toggler_hide-gamespeed _toggler_show-epic">Epic</span> - <span class="_toggler_hide-gamespeed _toggler_show-marathon">Marathon</span></span><span class="_toggle gamespeed epic" style="display:none;"><span class="_toggler_hide-gamespeed _toggler_show-quick">Quick</span> - <span class="_toggler_reset-gamespeed">Regular</span> - <b>Epic</b> - <span class="_toggler_hide-gamespeed _toggler_show-marathon">Marathon</span></span><span class="_toggle gamespeed marathon" style="display:none;"><span class="_toggler_hide-gamespeed _toggler_show-quick">Quick</span> - <span class="_toggler_reset-gamespeed">Regular</span> - <span class="_toggler_hide-gamespeed _toggler_show-epic">Epic</span> - <b>Marathon</b></span>
+</th></tr>
+<tr>
+<th>Cost
+</th><td><span class="_toggle quick gamespeed" style="display:none;">23</span><span class="_toggle regular gamespeed">35</span><span class="_toggle epic gamespeed" style="display:none;">52</span>	<span class="_toggle marathon gamespeed" style="display:none;">105</span> <a href="/wiki/Science_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Science (Civ5)"  	 	><img src="http://vignette3.wikia.nocookie.net/civilization/images/1/1c/20xScience5.png/revision/latest?cb=20120415022800" 	 alt="20xScience5"  	class="" 	 	data-image-key="20xScience5.png" 	data-image-name="20xScience5.png" 	 	 width="20"  	 height="20"  	 	 	 	></a>
+</td></tr>
+<tr>
+<th>Required techs
+</th><td><a href="/wiki/Agriculture_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Agriculture"  	 	><img src="http://vignette4.wikia.nocookie.net/civilization/images/7/73/Agriculture_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022182354" 	 alt="Agriculture (Civ5)"  	class="" 	 	data-image-key="Agriculture_%28Civ5%29.png" 	data-image-name="Agriculture (Civ5).png" 	 	 width="44"  	 height="44"  	 	 	 	></a> <a href="/wiki/Agriculture_(Civ5)" title="Agriculture (Civ5)">Agriculture</a>
+</td></tr>
+<tr>
+<th>Leads to
+</th><td><a href="/wiki/Sailing_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Sailing"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Sailing (Civ5)"  	class="lzy lzyPlcHld " 	 	data-image-key="Sailing_%28Civ5%29.png" 	data-image-name="Sailing (Civ5).png" 	 data-src="http://vignette2.wikia.nocookie.net/civilization/images/5/55/Sailing_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022183241"  	 width="44"  	 height="44"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/civilization/images/5/55/Sailing_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022183241" 	 alt="Sailing (Civ5)"  	class="" 	 	data-image-key="Sailing_%28Civ5%29.png" 	data-image-name="Sailing (Civ5).png" 	 	 width="44"  	 height="44"  	 	 	 	></noscript></a> <a href="/wiki/Sailing_(Civ5)" title="Sailing (Civ5)">Sailing</a><br /><a href="/wiki/Calendar_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Calendar"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Calendar (Civ5)"  	class="lzy lzyPlcHld " 	 	data-image-key="Calendar_%28Civ5%29.png" 	data-image-name="Calendar (Civ5).png" 	 data-src="http://vignette1.wikia.nocookie.net/civilization/images/e/ea/Calendar_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022182755"  	 width="44"  	 height="44"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/civilization/images/e/ea/Calendar_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022182755" 	 alt="Calendar (Civ5)"  	class="" 	 	data-image-key="Calendar_%28Civ5%29.png" 	data-image-name="Calendar (Civ5).png" 	 	 width="44"  	 height="44"  	 	 	 	></noscript></a> <a href="/wiki/Calendar_(Civ5)" title="Calendar (Civ5)"> Calendar</a><br /><a href="/wiki/Writing_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Writing"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Writing (Civ5)"  	class="lzy lzyPlcHld " 	 	data-image-key="Writing_%28Civ5%29.png" 	data-image-name="Writing (Civ5).png" 	 data-src="http://vignette4.wikia.nocookie.net/civilization/images/f/f4/Writing_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022183302"  	 width="44"  	 height="44"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/civilization/images/f/f4/Writing_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022183302" 	 alt="Writing (Civ5)"  	class="" 	 	data-image-key="Writing_%28Civ5%29.png" 	data-image-name="Writing (Civ5).png" 	 	 width="44"  	 height="44"  	 	 	 	></noscript></a> <a href="/wiki/Writing_(Civ5)" title="Writing (Civ5)"> Writing</a>
+</td></tr>
+<tr>
+<th>Units enabled
+</th><td>None
+</td></tr>
+<tr>
+<th>Buildings enabled
+</th><td><a href="/wiki/Granary_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Granary"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Granary (Civ5)"  	class="lzy lzyPlcHld " 	 	data-image-key="Granary_%28Civ5%29.png" 	data-image-name="Granary (Civ5).png" 	 data-src="http://vignette3.wikia.nocookie.net/civilization/images/8/85/Granary_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20130124025001"  	 width="44"  	 height="44"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/civilization/images/8/85/Granary_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20130124025001" 	 alt="Granary (Civ5)"  	class="" 	 	data-image-key="Granary_%28Civ5%29.png" 	data-image-name="Granary (Civ5).png" 	 	 width="44"  	 height="44"  	 	 	 	></noscript></a> <a href="/wiki/Granary_(Civ5)" title="Granary (Civ5)">Granary</a><br /><a href="/wiki/Shrine_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Shrine"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Shrine (Civ5)"  	class="lzy lzyPlcHld " 	 	data-image-key="Shrine_%28Civ5%29.png" 	data-image-name="Shrine (Civ5).png" 	 data-src="http://vignette3.wikia.nocookie.net/civilization/images/1/1a/Shrine_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20130124025635"  	 width="44"  	 height="44"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/civilization/images/1/1a/Shrine_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20130124025635" 	 alt="Shrine (Civ5)"  	class="" 	 	data-image-key="Shrine_%28Civ5%29.png" 	data-image-name="Shrine (Civ5).png" 	 	 width="44"  	 height="44"  	 	 	 	></noscript></a> <a href="/wiki/Shrine_(Civ5)" title="Shrine (Civ5)"> Shrine</a><br /><a href="/wiki/Pyramid_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Pyramid"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Pyramid (Civ5)"  	class="lzy lzyPlcHld " 	 	data-image-key="Pyramid_%28Civ5%29.png" 	data-image-name="Pyramid (Civ5).png" 	 data-src="http://vignette4.wikia.nocookie.net/civilization/images/8/83/Pyramid_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20120715110055"  	 width="44"  	 height="45"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/civilization/images/8/83/Pyramid_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20120715110055" 	 alt="Pyramid (Civ5)"  	class="" 	 	data-image-key="Pyramid_%28Civ5%29.png" 	data-image-name="Pyramid (Civ5).png" 	 	 width="44"  	 height="45"  	 	 	 	></noscript></a> <a href="/wiki/Pyramid_(Civ5)" title="Pyramid (Civ5)"> Pyramid</a>
+</td></tr>
+<tr>
+<th colspan="2">Notes
+</th></tr>
+<tr>
+<td colspan="2">
+<p>None
+</p>
+</td></tr></table>
+</p></div><div class="tabbertab" title="Gods &amp; Kings"><p> 
+<table class="wikitable" style="width: 100%; margin:0">
+
+<tr>
+<td colspan="2" style="text-align: center;"><div class="center"><div class="floatnone"><a href="http://vignette2.wikia.nocookie.net/civilization/images/7/70/Pottery_%28Civ5%29.png/revision/latest?cb=20101022183205" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Pottery (Civ5)"  	class="lzy lzyPlcHld " 	 	data-image-key="Pottery_%28Civ5%29.png" 	data-image-name="Pottery (Civ5).png" 	 data-src="http://vignette2.wikia.nocookie.net/civilization/images/7/70/Pottery_%28Civ5%29.png/revision/latest/scale-to-width/180?cb=20101022183205"  	 width="180"  	 height="180"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/civilization/images/7/70/Pottery_%28Civ5%29.png/revision/latest/scale-to-width/180?cb=20101022183205" 	 alt="Pottery (Civ5)"  	class="" 	 	data-image-key="Pottery_%28Civ5%29.png" 	data-image-name="Pottery (Civ5).png" 	 	 width="180"  	 height="180"  	 	 	 	></noscript></a></div></div>
+<p><i>Technology of the <a href="/wiki/Ancient_era_(Civ5)" title="Ancient era (Civ5)">Ancient era</a></i>
+</p>
+</td></tr>
+<tr>
+<th colspan="2"><span class="_toggle gamespeed quick" style="display:none;"><b>Quick</b> - <span class="_toggler_reset-gamespeed">Regular</span> - <span class="_toggler_hide-gamespeed _toggler_show-epic">Epic</span> - <span class="_toggler_hide-gamespeed _toggler_show-marathon">Marathon</span></span><span class="_toggle gamespeed"><span class="_toggler_hide-gamespeed _toggler_show-quick">Quick</span> - <b>Regular</b> - <span class="_toggler_hide-gamespeed _toggler_show-epic">Epic</span> - <span class="_toggler_hide-gamespeed _toggler_show-marathon">Marathon</span></span><span class="_toggle gamespeed epic" style="display:none;"><span class="_toggler_hide-gamespeed _toggler_show-quick">Quick</span> - <span class="_toggler_reset-gamespeed">Regular</span> - <b>Epic</b> - <span class="_toggler_hide-gamespeed _toggler_show-marathon">Marathon</span></span><span class="_toggle gamespeed marathon" style="display:none;"><span class="_toggler_hide-gamespeed _toggler_show-quick">Quick</span> - <span class="_toggler_reset-gamespeed">Regular</span> - <span class="_toggler_hide-gamespeed _toggler_show-epic">Epic</span> - <b>Marathon</b></span>
+</th></tr>
+<tr>
+<th>Cost
+</th><td><span class="_toggle quick gamespeed" style="display:none;">23</span><span class="_toggle regular gamespeed">35</span><span class="_toggle epic gamespeed" style="display:none;">52</span>	<span class="_toggle marathon gamespeed" style="display:none;">105</span> <a href="/wiki/Science_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Science (Civ5)"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="20xScience5"  	class="lzy lzyPlcHld " 	 	data-image-key="20xScience5.png" 	data-image-name="20xScience5.png" 	 data-src="http://vignette3.wikia.nocookie.net/civilization/images/1/1c/20xScience5.png/revision/latest?cb=20120415022800"  	 width="20"  	 height="20"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/civilization/images/1/1c/20xScience5.png/revision/latest?cb=20120415022800" 	 alt="20xScience5"  	class="" 	 	data-image-key="20xScience5.png" 	data-image-name="20xScience5.png" 	 	 width="20"  	 height="20"  	 	 	 	></noscript></a>
+</td></tr>
+<tr>
+<th>Required techs
+</th><td><a href="/wiki/Agriculture_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Agriculture"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Agriculture (Civ5)"  	class="lzy lzyPlcHld " 	 	data-image-key="Agriculture_%28Civ5%29.png" 	data-image-name="Agriculture (Civ5).png" 	 data-src="http://vignette4.wikia.nocookie.net/civilization/images/7/73/Agriculture_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022182354"  	 width="44"  	 height="44"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/civilization/images/7/73/Agriculture_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022182354" 	 alt="Agriculture (Civ5)"  	class="" 	 	data-image-key="Agriculture_%28Civ5%29.png" 	data-image-name="Agriculture (Civ5).png" 	 	 width="44"  	 height="44"  	 	 	 	></noscript></a> <a href="/wiki/Agriculture_(Civ5)" title="Agriculture (Civ5)">Agriculture</a>
+</td></tr>
+<tr>
+<th>Leads to
+</th><td><a href="/wiki/Sailing_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Sailing"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Sailing (Civ5)"  	class="lzy lzyPlcHld " 	 	data-image-key="Sailing_%28Civ5%29.png" 	data-image-name="Sailing (Civ5).png" 	 data-src="http://vignette2.wikia.nocookie.net/civilization/images/5/55/Sailing_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022183241"  	 width="44"  	 height="44"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/civilization/images/5/55/Sailing_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022183241" 	 alt="Sailing (Civ5)"  	class="" 	 	data-image-key="Sailing_%28Civ5%29.png" 	data-image-name="Sailing (Civ5).png" 	 	 width="44"  	 height="44"  	 	 	 	></noscript></a> <a href="/wiki/Sailing_(Civ5)" title="Sailing (Civ5)">Sailing</a><br /><a href="/wiki/Calendar_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Calendar"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Calendar (Civ5)"  	class="lzy lzyPlcHld " 	 	data-image-key="Calendar_%28Civ5%29.png" 	data-image-name="Calendar (Civ5).png" 	 data-src="http://vignette1.wikia.nocookie.net/civilization/images/e/ea/Calendar_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022182755"  	 width="44"  	 height="44"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/civilization/images/e/ea/Calendar_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022182755" 	 alt="Calendar (Civ5)"  	class="" 	 	data-image-key="Calendar_%28Civ5%29.png" 	data-image-name="Calendar (Civ5).png" 	 	 width="44"  	 height="44"  	 	 	 	></noscript></a> <a href="/wiki/Calendar_(Civ5)" title="Calendar (Civ5)"> Calendar</a><br /><a href="/wiki/Writing_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Writing"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Writing (Civ5)"  	class="lzy lzyPlcHld " 	 	data-image-key="Writing_%28Civ5%29.png" 	data-image-name="Writing (Civ5).png" 	 data-src="http://vignette4.wikia.nocookie.net/civilization/images/f/f4/Writing_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022183302"  	 width="44"  	 height="44"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/civilization/images/f/f4/Writing_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022183302" 	 alt="Writing (Civ5)"  	class="" 	 	data-image-key="Writing_%28Civ5%29.png" 	data-image-name="Writing (Civ5).png" 	 	 width="44"  	 height="44"  	 	 	 	></noscript></a> <a href="/wiki/Writing_(Civ5)" title="Writing (Civ5)"> Writing</a>
+</td></tr>
+<tr>
+<th>Units enabled
+</th><td>None
+</td></tr>
+<tr>
+<th>Buildings enabled
+</th><td><a href="/wiki/Granary_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Granary"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Granary (Civ5)"  	class="lzy lzyPlcHld " 	 	data-image-key="Granary_%28Civ5%29.png" 	data-image-name="Granary (Civ5).png" 	 data-src="http://vignette3.wikia.nocookie.net/civilization/images/8/85/Granary_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20130124025001"  	 width="44"  	 height="44"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/civilization/images/8/85/Granary_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20130124025001" 	 alt="Granary (Civ5)"  	class="" 	 	data-image-key="Granary_%28Civ5%29.png" 	data-image-name="Granary (Civ5).png" 	 	 width="44"  	 height="44"  	 	 	 	></noscript></a> <a href="/wiki/Granary_(Civ5)" title="Granary (Civ5)">Granary</a><br /><a href="/wiki/Shrine_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Shrine"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Shrine (Civ5)"  	class="lzy lzyPlcHld " 	 	data-image-key="Shrine_%28Civ5%29.png" 	data-image-name="Shrine (Civ5).png" 	 data-src="http://vignette3.wikia.nocookie.net/civilization/images/1/1a/Shrine_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20130124025635"  	 width="44"  	 height="44"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/civilization/images/1/1a/Shrine_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20130124025635" 	 alt="Shrine (Civ5)"  	class="" 	 	data-image-key="Shrine_%28Civ5%29.png" 	data-image-name="Shrine (Civ5).png" 	 	 width="44"  	 height="44"  	 	 	 	></noscript></a> <a href="/wiki/Shrine_(Civ5)" title="Shrine (Civ5)"> Shrine</a><br /><a href="/wiki/Pyramid_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Pyramid"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Pyramid (Civ5)"  	class="lzy lzyPlcHld " 	 	data-image-key="Pyramid_%28Civ5%29.png" 	data-image-name="Pyramid (Civ5).png" 	 data-src="http://vignette4.wikia.nocookie.net/civilization/images/8/83/Pyramid_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20120715110055"  	 width="44"  	 height="45"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/civilization/images/8/83/Pyramid_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20120715110055" 	 alt="Pyramid (Civ5)"  	class="" 	 	data-image-key="Pyramid_%28Civ5%29.png" 	data-image-name="Pyramid (Civ5).png" 	 	 width="44"  	 height="45"  	 	 	 	></noscript></a> <a href="/wiki/Pyramid_(Civ5)" title="Pyramid (Civ5)"> Pyramid</a>
+</td></tr>
+<tr>
+<th colspan="2">Notes
+</th></tr>
+<tr>
+<td colspan="2">
+<p>None
+</p>
+</td></tr></table>
+</p></div><div class="tabbertab" title="Vanilla"><p> 
+<table class="wikitable" style="width: 100%; margin:0">
+
+<tr>
+<td colspan="2" style="text-align: center;"><div class="center"><div class="floatnone"><a href="http://vignette2.wikia.nocookie.net/civilization/images/7/70/Pottery_%28Civ5%29.png/revision/latest?cb=20101022183205" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Pottery (Civ5)"  	class="lzy lzyPlcHld " 	 	data-image-key="Pottery_%28Civ5%29.png" 	data-image-name="Pottery (Civ5).png" 	 data-src="http://vignette2.wikia.nocookie.net/civilization/images/7/70/Pottery_%28Civ5%29.png/revision/latest/scale-to-width/180?cb=20101022183205"  	 width="180"  	 height="180"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/civilization/images/7/70/Pottery_%28Civ5%29.png/revision/latest/scale-to-width/180?cb=20101022183205" 	 alt="Pottery (Civ5)"  	class="" 	 	data-image-key="Pottery_%28Civ5%29.png" 	data-image-name="Pottery (Civ5).png" 	 	 width="180"  	 height="180"  	 	 	 	></noscript></a></div></div>
+<p><i>Technology of the <a href="/wiki/Ancient_era_(Civ5)" title="Ancient era (Civ5)">Ancient era</a></i>
+</p>
+</td></tr>
+<tr>
+<th colspan="2"><span class="_toggle gamespeed quick" style="display:none;"><b>Quick</b> - <span class="_toggler_reset-gamespeed">Regular</span> - <span class="_toggler_hide-gamespeed _toggler_show-epic">Epic</span> - <span class="_toggler_hide-gamespeed _toggler_show-marathon">Marathon</span></span><span class="_toggle gamespeed"><span class="_toggler_hide-gamespeed _toggler_show-quick">Quick</span> - <b>Regular</b> - <span class="_toggler_hide-gamespeed _toggler_show-epic">Epic</span> - <span class="_toggler_hide-gamespeed _toggler_show-marathon">Marathon</span></span><span class="_toggle gamespeed epic" style="display:none;"><span class="_toggler_hide-gamespeed _toggler_show-quick">Quick</span> - <span class="_toggler_reset-gamespeed">Regular</span> - <b>Epic</b> - <span class="_toggler_hide-gamespeed _toggler_show-marathon">Marathon</span></span><span class="_toggle gamespeed marathon" style="display:none;"><span class="_toggler_hide-gamespeed _toggler_show-quick">Quick</span> - <span class="_toggler_reset-gamespeed">Regular</span> - <span class="_toggler_hide-gamespeed _toggler_show-epic">Epic</span> - <b>Marathon</b></span>
+</th></tr>
+<tr>
+<th>Cost
+</th><td><span class="_toggle quick gamespeed" style="display:none;">23</span><span class="_toggle regular gamespeed">35</span><span class="_toggle epic gamespeed" style="display:none;">52</span>	<span class="_toggle marathon gamespeed" style="display:none;">105</span> <a href="/wiki/Science_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Science (Civ5)"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="20xScience5"  	class="lzy lzyPlcHld " 	 	data-image-key="20xScience5.png" 	data-image-name="20xScience5.png" 	 data-src="http://vignette3.wikia.nocookie.net/civilization/images/1/1c/20xScience5.png/revision/latest?cb=20120415022800"  	 width="20"  	 height="20"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/civilization/images/1/1c/20xScience5.png/revision/latest?cb=20120415022800" 	 alt="20xScience5"  	class="" 	 	data-image-key="20xScience5.png" 	data-image-name="20xScience5.png" 	 	 width="20"  	 height="20"  	 	 	 	></noscript></a>
+</td></tr>
+<tr>
+<th>Required techs
+</th><td><a href="/wiki/Agriculture_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Agriculture"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Agriculture (Civ5)"  	class="lzy lzyPlcHld " 	 	data-image-key="Agriculture_%28Civ5%29.png" 	data-image-name="Agriculture (Civ5).png" 	 data-src="http://vignette4.wikia.nocookie.net/civilization/images/7/73/Agriculture_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022182354"  	 width="44"  	 height="44"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/civilization/images/7/73/Agriculture_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022182354" 	 alt="Agriculture (Civ5)"  	class="" 	 	data-image-key="Agriculture_%28Civ5%29.png" 	data-image-name="Agriculture (Civ5).png" 	 	 width="44"  	 height="44"  	 	 	 	></noscript></a> <a href="/wiki/Agriculture_(Civ5)" title="Agriculture (Civ5)">Agriculture</a>
+</td></tr>
+<tr>
+<th>Leads to
+</th><td><a href="/wiki/Sailing_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Sailing"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Sailing (Civ5)"  	class="lzy lzyPlcHld " 	 	data-image-key="Sailing_%28Civ5%29.png" 	data-image-name="Sailing (Civ5).png" 	 data-src="http://vignette2.wikia.nocookie.net/civilization/images/5/55/Sailing_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022183241"  	 width="44"  	 height="44"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/civilization/images/5/55/Sailing_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022183241" 	 alt="Sailing (Civ5)"  	class="" 	 	data-image-key="Sailing_%28Civ5%29.png" 	data-image-name="Sailing (Civ5).png" 	 	 width="44"  	 height="44"  	 	 	 	></noscript></a> <a href="/wiki/Sailing_(Civ5)" title="Sailing (Civ5)">Sailing</a><br /><a href="/wiki/Calendar_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Calendar"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Calendar (Civ5)"  	class="lzy lzyPlcHld " 	 	data-image-key="Calendar_%28Civ5%29.png" 	data-image-name="Calendar (Civ5).png" 	 data-src="http://vignette1.wikia.nocookie.net/civilization/images/e/ea/Calendar_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022182755"  	 width="44"  	 height="44"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/civilization/images/e/ea/Calendar_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022182755" 	 alt="Calendar (Civ5)"  	class="" 	 	data-image-key="Calendar_%28Civ5%29.png" 	data-image-name="Calendar (Civ5).png" 	 	 width="44"  	 height="44"  	 	 	 	></noscript></a> <a href="/wiki/Calendar_(Civ5)" title="Calendar (Civ5)"> Calendar</a><br /><a href="/wiki/Writing_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Writing"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Writing (Civ5)"  	class="lzy lzyPlcHld " 	 	data-image-key="Writing_%28Civ5%29.png" 	data-image-name="Writing (Civ5).png" 	 data-src="http://vignette4.wikia.nocookie.net/civilization/images/f/f4/Writing_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022183302"  	 width="44"  	 height="44"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/civilization/images/f/f4/Writing_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20101022183302" 	 alt="Writing (Civ5)"  	class="" 	 	data-image-key="Writing_%28Civ5%29.png" 	data-image-name="Writing (Civ5).png" 	 	 width="44"  	 height="44"  	 	 	 	></noscript></a> <a href="/wiki/Writing_(Civ5)" title="Writing (Civ5)"> Writing</a>
+</td></tr>
+<tr>
+<th>Units enabled
+</th><td>None
+</td></tr>
+<tr>
+<th>Buildings enabled
+</th><td><a href="/wiki/Granary_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Granary"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Granary (Civ5)"  	class="lzy lzyPlcHld " 	 	data-image-key="Granary_%28Civ5%29.png" 	data-image-name="Granary (Civ5).png" 	 data-src="http://vignette3.wikia.nocookie.net/civilization/images/8/85/Granary_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20130124025001"  	 width="44"  	 height="44"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/civilization/images/8/85/Granary_%28Civ5%29.png/revision/latest/scale-to-width/44?cb=20130124025001" 	 alt="Granary (Civ5)"  	class="" 	 	data-image-key="Granary_%28Civ5%29.png" 	data-image-name="Granary (Civ5).png" 	 	 width="44"  	 height="44"  	 	 	 	></noscript></a> <a href="/wiki/Granary_(Civ5)" title="Granary (Civ5)">Granary</a>
+</td></tr>
+<tr>
+<th colspan="2">Notes
+</th></tr>
+<tr>
+<td colspan="2">
+<p>None
+</p>
+</td></tr></table>
+</p></div></div></div><a href="/wiki/List_of_technologies_in_Civ5" 	class="image image-thumbnail link-internal" 	 title="List of technologies in Civ5"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="BackArrowGreen"  	class="lzy lzyPlcHld " 	 	data-image-key="BackArrowGreen.png" 	data-image-name="BackArrowGreen.png" 	 data-src="http://vignette2.wikia.nocookie.net/civilization/images/0/0b/BackArrowGreen.png/revision/latest/scale-to-width/18?cb=20130127010918"  	 width="18"  	 height="17"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/civilization/images/0/0b/BackArrowGreen.png/revision/latest/scale-to-width/18?cb=20130127010918" 	 alt="BackArrowGreen"  	class="" 	 	data-image-key="BackArrowGreen.png" 	data-image-name="BackArrowGreen.png" 	 	 width="18"  	 height="17"  	 	 	 	></noscript></a> <a href="/wiki/List_of_technologies_in_Civ5" title="List of technologies in Civ5">Back to the list of technologies</a>
+<dl><dd><i>"Shall the clay say to him that fashioneth it, what makest thou?"</i> 
+</dd><dd>–Bible Isaiah 45:9
+</dd></dl>
+<h2><span class="mw-headline" id="Game_Info">Game Info</span><span class="editsection"><a href="/wiki/Pottery_(Civ5)?action=edit&amp;section=1" title="Edit Game Info section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<p>As the art of building objects from clay, <b>Pottery</b> is also a fundament of civilization, creating the means for long-term storage of food and materials and their protection from the elements. Thanks to that, a number of future developments are possible.
+</p><p>This technology allows your cities to build the <a href="/wiki/Granary_(Civ5)" title="Granary (Civ5)">Granary</a>, which provides <a href="/wiki/Food_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Food (Civ5)"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="20xFood5"  	class="lzy lzyPlcHld " 	 	data-image-key="20xFood5.png" 	data-image-name="20xFood5.png" 	 data-src="http://vignette1.wikia.nocookie.net/civilization/images/f/f9/20xFood5.png/revision/latest?cb=20120415022636"  	 width="20"  	 height="20"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/civilization/images/f/f9/20xFood5.png/revision/latest?cb=20120415022636" 	 alt="20xFood5"  	class="" 	 	data-image-key="20xFood5.png" 	data-image-name="20xFood5.png" 	 	 width="20"  	 height="20"  	 	 	 	></noscript></a> Food, helping your <a href="/wiki/Cities_(Civ5)" title="Cities (Civ5)" class="mw-redirect">cities</a> grow larger. In <i><a href="/wiki/Gods_%26_Kings" title="Gods &amp; Kings" class="mw-redirect">Gods &amp; Kings</a></i> it also allows you to build the <a href="/wiki/Shrine_(Civ5)" title="Shrine (Civ5)">Shrine</a>, the first <a href="/wiki/Faith_(Civ5)" 	class="image image-thumbnail link-internal" 	 title="Faith (Civ5)"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="20xfaith5"  	class="lzy lzyPlcHld " 	 	data-image-key="20xfaith5.png" 	data-image-name="20xfaith5.png" 	 data-src="http://vignette2.wikia.nocookie.net/civilization/images/2/22/20xfaith5.png/revision/latest?cb=20140828085707"  	 width="20"  	 height="20"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/civilization/images/2/22/20xfaith5.png/revision/latest?cb=20140828085707" 	 alt="20xfaith5"  	class="" 	 	data-image-key="20xfaith5.png" 	data-image-name="20xfaith5.png" 	 	 width="20"  	 height="20"  	 	 	 	></noscript></a> Faith-producing building in the game.
+</p>
+<h2><span class="mw-headline" id="Historical_Info">Historical Info</span><span class="editsection"><a href="/wiki/Pottery_(Civ5)?action=edit&amp;section=2" title="Edit Historical Info section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<p>Pottery is one of the oldest and most useful of all of the arts. In pottery, objects are built out of clay and then placed in an oven and subject to extremely high temperatures. The resulting product is extremely brittle but is also airtight and virtually impervious to corrosion, oxidation, infestation, and the other destructive forces that would attack items made of metal, wood or cloth. The earliest pottery objects include jugs and containers to hold liquids or grains, as well as cooking pots, serving bowls, plates, and cups.
+</p><p>The first kind of pottery discovered was earthenware, dating back some 9,000 years. This pottery is somewhat porous and is usually covered with a more watertight material (called "slip"), or it can be glazed. Earthenware pottery is extremely durable and remains in wide use today. Stoneware is pottery that has been baked ("fired") at extremely high temperatures until the clay is "vitrified" - glasslike and nonporous. This process was discovered in China around 1400 BC. Porcelain was invented in China around the sixth century AD. It is similar to stoneware (in fact, a line of demarcation between the two is open to debate), but porcelain products are generally more translucent and delicate.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 759/300000
+Post‐expand include size: 28830/2097152 bytes
+Template argument size: 1784/2097152 bytes
+Expensive parser function count: 10/100
+Lua time usage: 0.022s
+Lua memory usage: 795 KB
+-->
+
+<!-- Saved in parser cache with key civilization:pcache:idhash:6556-0!*!0!!*!2!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1433857871/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1433857871/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://civilization.wikia.com/wiki/Pottery_(Civ5)?oldid=67791">http://civilization.wikia.com/wiki/Pottery_(Civ5)?oldid=67791</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage userCanEdit" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Ancient era technologies (G&amp;amp;K)" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Ancient_era_technologies_(G%26K)" title="Category:Ancient era technologies (G&amp;K)">Ancient era technologies (G&amp;K)</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Technologies (Civ5)" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Technologies_(Civ5)" title="Category:Technologies (Civ5)">Technologies (Civ5)</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+							<li class="last">
+					<button class="wikia-button secondary add" id="CategorySelectAdd" type="button">Add category</button>
+					<input autocomplete="off" class="input" id="CategorySelectInput" name="CategorySelectInput" placeholder="Add category..." type="text">				</li>
+					</ul>
+	</div>
+			<div class="toolbar">
+			<button class="wikia-button secondary cancel" id="CategorySelectCancel" type="button">Cancel</button>
+			<button class="wikia-button save" id="CategorySelectSave" type="button" disabled="disabled">Save</button>
+		</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+						<div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+					<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	<!-- BEGIN SLOTNAME: LEFT_SKYSCRAPER_3 -->
+<div id="LEFT_SKYSCRAPER_3" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["LEFT_SKYSCRAPER_3"]);
+	</script>
+</div>
+<!-- END SLOTNAME: LEFT_SKYSCRAPER_3 -->
+	
+			<section>
+	<div class="header-container">
+		<h1>Around Wikia's network</h1>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/1945" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-games black">
+			<a class="wikia-logo" href="http://gameshub.wikia.com/wiki/Games_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>Games</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Site Map</a>
+									</li>
+							<li>
+					Content is available under <a href="/wiki/Civilization:Copyrights" title="Civilization:Copyrights">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;What are your favorite moments from Steven Universe?&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/O5sD6&quot;},{&quot;text&quot;:&quot;What are the weirdest moments from Steven Universe?&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/O5sD6&quot;},{&quot;text&quot;:&quot;What are your favorite moments from Steven Universe?&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/O5sD6&quot;},{&quot;text&quot;:&quot;What are the weirdest moments from Steven Universe?&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/O5sD6&quot;},{&quot;text&quot;:&quot;What are your favorite moments from Steven Universe?&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/O5sD6&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1433857871/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1433857871/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1433857871/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1433857871/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1433857871/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"civilization","kv_article_id":6556,"kv_wpage":"Pottery_(Civ5)","kv_Hub":"Gaming","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age-18-34;age=kids;age=teen;gnre=rts;gnre=strategy;pform=pc;gnre=sim;esrb=everyone","kv_domain":"civilization.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://civilization.wikia.com/__load/-/cb%3D1433857871%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pottery_(Civ5)","wgTitle":"Pottery (Civ5)","wgCurRevisionId":67791,"wgArticleId":6556,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Ancient era technologies (G\x26K)","Technologies (Civ5)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Pottery_(Civ5)","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"true","background-image":"http://img4.wikia.nocookie.net/__cb20141001165809/civilization/images/5/50/Wiki-background","background-image-height":"800","background-image-width":"2000","color-body":"#13282c","color-body-middle":"#0a2c35","color-buttons":"#73979f","color-header":"#73979f","color-links":"#73979f","color-page":"#13282c","oasisTypography":1,"page-opacity":"100","widthType":0,"wordmark-font":"megalopolis"},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgOutboundScreenRedirectDelay":15,"wgCatId":"2","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"Civilization Games Wiki","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1433857871/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1433857871/common","wgSitename":"Civilization Wiki","wgMWrevId":false,"wgRevisionId":67791,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":true,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Pottery_(Civ5)","fbReturnToTitle":"Pottery_(Civ5)","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"112":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdWvwETAAAAACS_0luypJPV7aiQkpLzoZN26YAf","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Games","WikiaEnableNewCreatepage":true,"ContentNamespacesText":["",false],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Pottery (Civ5)"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"enablerichtext":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"founderemails-joins-1945":0,"founderemails-edits-1945":0,"founderemails-views-digest-1945":0,"founderemails-complete-digest-1945":0,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,
+"searchNs110":false,"searchNs111":false,"searchNs500":true,"searchNs501":false,"searchNs502":true,"searchNs503":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: civilization:resourceloader:filter:minify-js:7:d88fc65f6198f44665a43ed8272337bc */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1433857871/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_oasis_in_content_ads_js,adengine2_interactive_maps_js,media_gallery_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1433857871/group/-/videos_module_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1433857871/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1433857871/group/-/wikia_in_your_lang_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CImagePlaceholder%2CMediaGallery%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1433857871.0.79309"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1433857871/group/-/global_navigation_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1433857871/group/-/page_share_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1433857871/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://civilization.wikia.com/__load/-/cb%3D1433857871%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://civilization.wikia.com/__load/-/cb%3D1433857871%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/site"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1433857871/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationHubsMenu.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+
+
+
+</html>

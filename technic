@@ -1,0 +1,268 @@
+고대시대 
+name : 농업
+tech_point : 20 
+
+name : 도기 제조
+tech_point : 35 
+depend_tech : 농업
+name : 목축업
+tech_point : 35 
+depend_tech : 농업
+name : 궁술
+tech_point : 35 
+depend_tech : 농업
+name : 광업
+tech_point : 35 
+depend_tech : 농업
+
+name : 항해
+tech_point : 55 
+depend_tech : 도기 제조
+name : 역법
+tech_point : 55 
+depend_tech : 도기 제조
+name : 문자
+tech_point : 55 
+depend_tech : 도기 제조
+name : 수렵
+tech_point : 55 
+depend_tech : 목축업
+name : 바퀴
+tech_point : 55 
+depend_tech : 목축업, 궁술
+name ; 석공술
+tech_point : 55 
+depend_tech : 광업
+name : 청동 기술
+tech_point : 55 
+depend_tech : 광업
+
+고전시대 
+name : 광학
+tech_point : 85 
+depend_tech : 항해
+
+name : 철학
+tech_point : 105 
+depend_tech : 문자, 역법
+name : 기마술
+tech_point : 105 
+depend_tech : 바퀴
+name : 수학
+tech_point : 105 
+depend_tech : 바퀴
+name : 건설
+tech_point : 105 
+depend_tech : 석공술
+
+name : 드라마와 시
+tech_point : 175 
+depend_tech : 문자
+name : 화폐
+tech_point : 175 
+depend_tech : 수학
+name : 공학
+tech_point : 175 
+depend_tech : 수학, 건축
+
+name : 철제 기술
+tech_point : 195 
+depend_tech : 청동 기술
+
+중세시대 
+name : 신학
+tech_point : 275 
+depend_tech : 드라마와 시, 철학
+name : 공공 행정
+tech_point : 275 
+depend_tech : 드라마와 시, 기마술, 화폐
+name : 길드
+tech_point : 275 
+depend_tech : 화폐
+name : 금속 주조
+tech_point : 275 
+depend_tech : 철제 기술, 공학
+
+tech_point : 375 
+name : 나침반
+depend_tech : 광학, 신학
+
+name : 교육학
+tech_point : 485 
+depend_tech : 신학, 공공 행정
+name : 기사도
+tech_point : 485 
+depend_tech : 공공 행정, 길드
+name : 기계
+tech_point : 485 
+depend_tech : 공학, 길드
+name : 물리학
+tech_point : 485 
+depend_tech : 금속 주조
+name : 강철
+tech_point : 485 
+depend_tech : 금속 주조
+
+르네상스시대 
+name : 천문학
+tech_point : 780 
+depend_tech : 나침반, 교육학
+name : 음향학
+tech_point : 780 
+depend_tech : 교육학, 기사도
+name : 은행업
+tech_point : 780 
+depend_tech : 교육학, 기사도
+name : 인쇄 기술
+tech_point : 780 
+depend_tech : 기계, 물리학, 기사도
+name : 화약
+tech_point : 780 
+depend_tech : 물리학, 강철
+
+name : 항해술
+tech_point : 1150 
+depend_tech : 천문학
+name : 건축[10]
+tech_point : 1150 
+depend_tech : 은행업, 음향학
+name : 경제학
+tech_point : 1150 
+depend_tech : 은행업, 인쇄 기술
+name : 화학
+tech_point : 1150 
+depend_tech : 화약
+name • 야금학
+tech_point : 1150 
+depend_tech : 화약, 인쇄 기술
+
+산업시대 
+name : 고고학
+tech_point : 1600 
+depend_tech : 항해술
+name : 과학 이론
+tech_point : 1600 
+depend_tech : 경제학, 건축
+name : 군사 과학
+tech_point : 1600 
+depend_tech : 야금학, 화학
+name : 비료
+tech_point : 1600 
+depend_tech : 화학
+name : 강선
+tech_point : 1600 
+depend_tech : 야금학, 경제학
+name : 산업화
+tech_point : 1600 
+depend_tech : 경제학
+
+name : 생물학
+tech_point : 2350 
+depend_tech : 고고학, 과학 이론
+name : 증기기관
+tech_point : 2350 
+depend_tech : 과학 이론, 강선, 산업화
+name : 다이너마이트
+tech_point : 2350 
+depend_tech : 비료, 군사 과학
+name : 전기
+tech_point : 2350 
+depend_tech : 과학이론
+
+현대 시대 
+name : 교체형 부품
+tech_point : 3100 
+depend_tech : 증기기관, 전기
+name : 철도
+tech_point : 3100 
+depend_tech : 증기기관, 다이너마이트
+name : 냉각기술
+tech_point : 3100 
+depend_tech : 전기, 생물학
+name : 라디오
+tech_point : 3100 
+depend_tech : 전기
+name : 비행
+tech_point : 3100 
+depend_tech : 증기기관
+
+name : 전자공학
+tech_point : 4100 
+depend_tech : 비행, 교체형 부품
+name : 내연기관
+tech_point : 4100 
+depend_tech : 철도
+name : 탄도학
+tech_point : 4100 
+depend_tech : 비행, 철도
+name : 플라스틱 공학
+tech_point : 4100 
+depend_tech : 교체형 부품, 라디오
+
+원자력 시대 
+name : 페니실린
+tech_point : 5100 
+depend_tech : 냉각기술, 플라스틱 공학
+name : 레이더
+tech_point : 5100 
+depend_tech : 전자공학, 탄도학
+name : 원자론
+tech_point : 5100 
+depend_tech : 플라스틱 공학, 전자공학
+name : 통합 작전군
+tech_point : 5100 
+depend_tech : 탄도학, 내연기관
+
+name : 생태학
+tech_point : 6400 
+depend_tech : 원자론, 페니실린
+name : 컴퓨터
+tech_point : 6400 
+depend_tech : 통합 작전군, 레이더
+name : 로켓공학
+tech_point : 6400 
+depend_tech : 레이더
+name : 핵분열
+tech_point : 6400 
+depend_tech : 원자론
+
+정보화 시대 
+name : 레이저
+tech_point : 7700 
+depend_tech : 컴퓨터
+name : 로봇공학
+tech_point : 7700 
+depend_tech : 컴퓨터
+name : 인공위성
+tech_point : 7700 
+depend_tech : 로켓공학
+name : 고급 탄도학
+tech_point : 7700 
+depend_tech : 로켓공학, 핵분열
+name : 전기 통신
+tech_point : 7700 
+depend_tech : 생태학
+name : 기동 전술
+tech_point : 7700 
+depend_tech : 생태학, 핵분열
+name : 스텔스
+tech_point : 8800 
+depend_tech : 레이저, 로봇공학
+name : 입자물리학
+tech_point : 8800 
+depend_tech : 전기 통신, 기동 전술, 고급 탄도학
+name : 핵융합
+tech_point : 8800 
+depend_tech : 인공위성, 로봇공학, 고급 탄도학
+name : 나노기술
+tech_point : 8800 
+depend_tech : 로봇공학
+name : 세계화
+tech_point : 8800 
+depend_tech : 전기 통신
+name : 인터넷
+tech_point : 8800 
+depend_tech : 전기 통신
+
+name :  미래 기술
+tech_point : 9500 
