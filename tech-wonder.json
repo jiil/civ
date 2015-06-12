@@ -6,7 +6,7 @@
 		"Required techs" : ["Education"],
 		"Leads" : ["Architecture"],
 		"Units" : [],
-		"Buildings enabled" : ["Opera_house",  "Ceilidh hall",  "Sistine Chapel",  "Musicians' guild"]
+		"Buildings enabled" : ["Opera_house", "Ceilidh hall", "Sistine Chapel", "Musicians' guild"]
 	},
 	"Gods and Kings" : {
 		"Era" : "Renaissance",
@@ -14,7 +14,7 @@
 		"Required techs" : ["Education"],
 		"Leads" : ["Architecture"],
 		"Units" : [],
-		"Buildings enabled" : ["Opera_house",  "Ceilidh hall",  "Sistine Chapel"]
+		"Buildings enabled" : ["Opera_house", "Ceilidh hall", "Sistine Chapel"]
 	},
 	"Vanilla" : {
 		"Era" : "Renaissance",
@@ -22,30 +22,30 @@
 		"Required techs" : ["Education"],
 		"Leads" : ["Scientific theory"],
 		"Units" : [],
-		"Buildings enabled" : ["Opera_house",  "Ceilidh hall",  "Sistine Chapel",  "Kremlin"]
+		"Buildings enabled" : ["Opera_house", "Ceilidh hall", "Sistine Chapel", "Kremlin"]
 	}
 },{
 	"Technology" : "Advanced_ballistics",
 	"Brave New World" : {
 		"Era" : "Information",
 		"Cost" : 23100,
-		"Required techs" : ["Rocketry",  "Nuclear fission"],
-		"Leads" : ["Nuclear fusion",  "Particle physics"],
+		"Required techs" : ["Rocketry", "Nuclear fission"],
+		"Leads" : ["Nuclear fusion", "Particle physics"],
 		"Units" :  Guided missile   Nuclear missile  SS Booster
 		"Buildings enabled" : [[]]
 	},
 	"Gods and Kings" : {
 		"Era" : "Information",
 		"Cost" : 24546,
-		"Required techs" : ["Rocketry",  "Nuclear fission"],
-		"Leads" : ["Nuclear fusion",  "Particle physics"],
+		"Required techs" : ["Rocketry", "Nuclear fission"],
+		"Leads" : ["Nuclear fusion", "Particle physics"],
 		"Units" :  Guided missile   Nuclear missile  SS Booster
 		"Buildings enabled" : [[]]
 	},
 	"Vanilla" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 9546,
-		"Required techs" : ["Lasers",  "Nuclear fission"],
+		"Required techs" : ["Lasers", "Nuclear fission"],
 		"Leads" : ["Nuclear fusion"],
 		"Units" :  Nuclear missile
 		"Buildings enabled" : [[]]
@@ -56,7 +56,7 @@
 		"Era" : "Ancient",
 		"Cost" : 60,
 		"Required techs" : [[]],
-		"Leads" : ["Pottery",  "Animal_husbandry",  "Archery",  "Mining"],
+		"Leads" : ["Pottery", "Animal_husbandry", "Archery", "Mining"],
 		"Units" :  Worker  Settler  Warrior  Scout  Atlatlist  Jaguar  Maori warrior  Pathfinder
 		"Buildings enabled" : [Farm]
 	},
@@ -64,7 +64,7 @@
 		"Era" : "Ancient",
 		"Cost" : 60,
 		"Required techs" : [[]],
-		"Leads" : ["Pottery",  "Animal_husbandry",  "Archery",  "Mining"],
+		"Leads" : ["Pottery", "Animal_husbandry", "Archery", "Mining"],
 		"Units" :  Worker  Settler  Warrior  Scout  Jaguar
 		"Buildings enabled" : [Farm]
 	}
@@ -74,7 +74,7 @@
 		"Era" : "Ancient",
 		"Cost" : 105,
 		"Required techs" : ["Agriculture"],
-		"Leads" : ["Trapping",  "The wheel"],
+		"Leads" : ["Trapping", "The wheel"],
 		"Units" :  Caravan
 		"Buildings enabled" : [Pasture]
 	},
@@ -82,7 +82,7 @@
 		"Era" : "Ancient",
 		"Cost" : 105,
 		"Required techs" : ["Agriculture"],
-		"Leads" : ["Trapping",  "The wheel"],
+		"Leads" : ["Trapping", "The wheel"],
 		"Units" : [],
 		"Buildings enabled" : [Pasture]
 	}
@@ -91,7 +91,7 @@
 	"Brave New World" : {
 		"Era" : "Industrial",
 		"Cost" : 4800,
-		"Required techs" : ["Navigation",  "Architecture"],
+		"Required techs" : ["Navigation", "Architecture"],
 		"Leads" : ["Biology"],
 		"Units" :  Archaeologist
 		"Buildings enabled" : [Museum  Louvre]
@@ -135,16 +135,16 @@
 	"Brave New World" : {
 		"Era" : "Renaissance",
 		"Cost" : 3450,
-		"Required techs" : ["Acoustics",  "Banking"],
-		"Leads" : ["Archaeology",  "Scientific theory"],
+		"Required techs" : ["Acoustics", "Banking"],
+		"Leads" : ["Archaeology", "Scientific theory"],
 		"Units" : [],
 		"Buildings enabled" : [Hermitage  Porcelain Tower  Taj Mahal  Uffizi]
 	},
 	"Gods and Kings" : {
 		"Era" : "Renaissance",
 		"Cost" : 3450,
-		"Required techs" : ["Acoustics",  "Banking"],
-		"Leads" : ["Archaeology",  "Scientific theory"],
+		"Required techs" : ["Acoustics", "Banking"],
+		"Leads" : ["Archaeology", "Scientific theory"],
 		"Units" : [],
 		"Buildings enabled" : [Hermitage  Porcelain Tower  Taj Mahal]
 	}
@@ -153,7 +153,7 @@
 	"Brave New World" : {
 		"Era" : "Renaissance",
 		"Cost" : 2340,
-		"Required techs" : ["Compass",  "Education"],
+		"Required techs" : ["Compass", "Education"],
 		"Leads" : ["Navigation"],
 		"Units" :  Caravel  Turtle ship  Nau
 		"Buildings enabled" : [Observatory]
@@ -161,7 +161,7 @@
 	"Gods and Kings" : {
 		"Era" : "Renaissance",
 		"Cost" : 1950,
-		"Required techs" : ["Compass",  "Education"],
+		"Required techs" : ["Compass", "Education"],
 		"Leads" : ["Navigation"],
 		"Units" :  Caravel
 		"Buildings enabled" : [Observatory]
@@ -171,16 +171,16 @@
 	"Brave New World" : {
 		"Era" : "Atomic",
 		"Cost" : 15300,
-		"Required techs" : ["Electronics",  "Plastics"],
-		"Leads" : ["Ecology",  "Nuclear fission"],
+		"Required techs" : ["Electronics", "Plastics"],
+		"Leads" : ["Ecology", "Nuclear fission"],
 		"Units" : [],
 		"Buildings enabled" : [Manhattan Project]
 	},
 	"Gods and Kings" : {
 		"Era" : "Atomic",
 		"Cost" : 15300,
-		"Required techs" : ["Electronics",  "Plastics"],
-		"Leads" : ["Ecology",  "Nuclear fission"],
+		"Required techs" : ["Electronics", "Plastics"],
+		"Leads" : ["Ecology", "Nuclear fission"],
 		"Units" : [],
 		"Buildings enabled" : [Manhattan Project]
 	},
@@ -195,10 +195,10 @@
 },{
 	"Technology" : "Ballistics",
 	"Brave New World" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 12300,
 		"Required techs" : ["Railroad"],
-		"Leads" : ["Radar",  "Combined arms"],
+		"Leads" : ["Radar", "Combined arms"],
 		"Units" :  Anti-aircraft gun  Machine gun
 		"Buildings enabled" : [[]]
 	}
@@ -207,23 +207,23 @@
 	"Brave New World" : {
 		"Era" : "Renaissance",
 		"Cost" : 2340,
-		"Required techs" : ["Education",  "Chivalry"],
-		"Leads" : ["Economics",  "Architecture"],
+		"Required techs" : ["Education", "Chivalry"],
+		"Leads" : ["Economics", "Architecture"],
 		"Units" : [],
 		"Buildings enabled" : [Constabulary  Bank  Satrap's court  Hanse  Forbidden Palace]
 	},
 	"Gods and Kings" : {
 		"Era" : "Renaissance",
 		"Cost" : 2160,
-		"Required techs" : ["Education",  "Chivalry"],
-		"Leads" : ["Economics",  "Architecture"],
+		"Required techs" : ["Education", "Chivalry"],
+		"Leads" : ["Economics", "Architecture"],
 		"Units" : [],
 		"Buildings enabled" : [Satrap's court  Bank  Constabulary  Forbidden Palace]
 	},
 	"Vanilla" : {
 		"Era" : "Renaissance",
 		"Cost" : 1950,
-		"Required techs" : ["Education",  "Chivalry"],
+		"Required techs" : ["Education", "Chivalry"],
 		"Leads" : ["Economics"],
 		"Units" : [],
 		"Buildings enabled" : [Satrap's court  Bank  Forbidden Palace]
@@ -233,7 +233,7 @@
 	"Brave New World" : {
 		"Era" : "Industrial",
 		"Cost" : 7050,
-		"Required techs" : ["Archaeology",  "Scientific theory"],
+		"Required techs" : ["Archaeology", "Scientific theory"],
 		"Leads" : ["Refrigeration"],
 		"Units" : [],
 		"Buildings enabled" : [Hospital  Oil well]
@@ -241,7 +241,7 @@
 	"Gods and Kings" : {
 		"Era" : "Industrial",
 		"Cost" : 5040,
-		"Required techs" : ["Archaeology",  "Scientific theory"],
+		"Required techs" : ["Archaeology", "Scientific theory"],
 		"Leads" : ["Refrigeration"],
 		"Units" : [],
 		"Buildings enabled" : [Hospital  Oil well]
@@ -249,7 +249,7 @@
 	"Vanilla" : {
 		"Era" : "Industrial",
 		"Cost" : 5040,
-		"Required techs" : ["Archaeology",  "Scientific theory"],
+		"Required techs" : ["Archaeology", "Scientific theory"],
 		"Leads" : ["Electricity"],
 		"Units" : [],
 		"Buildings enabled" : [Hospital  Oil well]
@@ -312,7 +312,7 @@
 		"Era" : "Renaissance",
 		"Cost" : 3450,
 		"Required techs" : ["Gunpowder"],
-		"Leads" : ["Military science",  "Fertilizer"],
+		"Leads" : ["Military science", "Fertilizer"],
 		"Units" :  Cannon
 		"Buildings enabled" : [[]]
 	},
@@ -320,7 +320,7 @@
 		"Era" : "Renaissance",
 		"Cost" : 2700,
 		"Required techs" : ["Gunpowder"],
-		"Leads" : ["Military science",  "Fertilizer"],
+		"Leads" : ["Military science", "Fertilizer"],
 		"Units" :  Cannon
 		"Buildings enabled" : [[]]
 	},
@@ -328,7 +328,7 @@
 		"Era" : "Renaissance",
 		"Cost" : 2700,
 		"Required techs" : ["Gunpowder"],
-		"Leads" : ["Military science",  "Fertilizer"],
+		"Leads" : ["Military science", "Fertilizer"],
 		"Units" :  Cannon
 		"Buildings enabled" : [Ironworks]
 	}
@@ -337,24 +337,24 @@
 	"Brave New World" : {
 		"Era" : Medieval
 		"Cost" : 1455,
-		"Required techs" : ["Civil_service",  Guilds],
-		"Leads" : ["Banking",  "Printing press"],
+		"Required techs" : ["Civil_service", Guilds],
+		"Leads" : ["Banking", "Printing press"],
 		"Units" :  Knight  Camel archer  Naresuan's elephant  Mandekalu cavalry  Keshik  Conquistador
 		"Buildings enabled" : [Castle  Mughal fort  Alhambra  Chateau  Kasbah]
 	},
 	"Gods and Kings" : {
 		"Era" : Medieval
 		"Cost" : 1455,
-		"Required techs" : ["Civil_service",  "Horseback riding",  Currency],
-		"Leads" : ["Acoustics",  "Banking"],
+		"Required techs" : ["Civil_service", "Horseback riding", Currency],
+		"Leads" : ["Acoustics", "Banking"],
 		"Units" :  Knight  Camel archer  Naresuan's elephant  Mandekalu cavalry  Keshik  Conquistador
 		"Buildings enabled" : [Castle    Mughal fort  Himeji Castle]
 	},
 	"Vanilla" : {
 		"Era" : Medieval
 		"Cost" : 1455,
-		"Required techs" : ["Civil_service",  Guilds],
-		"Leads" : ["Banking",  "Printing press"],
+		"Required techs" : ["Civil_service", Guilds],
+		"Leads" : ["Banking", "Printing press"],
 		"Units" :  Knight  Camel archer  Naresuan's elephant  Mandekalu cavalry  Keshik  Conquistador
 		"Buildings enabled" : [Castle    Mughal fort  Alhambra]
 	}
@@ -363,24 +363,24 @@
 	"Brave New World" : {
 		"Era" : Medieval
 		"Cost" : 825,
-		"Required techs" : ["Drama_and_poetry",  "Horseback riding",  Currency],
-		"Leads" : ["Chivalry",  "Education"],
+		"Required techs" : ["Drama_and_poetry", "Horseback riding", Currency],
+		"Leads" : ["Chivalry", "Education"],
 		"Units" :  Pikeman  Landsknecht
 		"Buildings enabled" : [Chichen Itza]
 	},
 	"Gods and Kings" : {
 		"Era" : Medieval
 		"Cost" : 825,
-		"Required techs" : ["Drama_and_poetry",  "Horseback riding",  Currency],
-		"Leads" : ["Chivalry",  "Education"],
+		"Required techs" : ["Drama_and_poetry", "Horseback riding", Currency],
+		"Leads" : ["Chivalry", "Education"],
 		"Units" :  Pikeman  Landsknecht
 		"Buildings enabled" : [Chichen Itza]
 	},
 	"Vanilla" : {
 		"Era" : Medieval
 		"Cost" : 825,
-		"Required techs" : ["Philosophy",  "Trapping"],
-		"Leads" : ["Chivalry",  "Education"],
+		"Required techs" : ["Philosophy", "Trapping"],
+		"Leads" : ["Chivalry", "Education"],
 		"Units" :  Pikeman  Landsknecht
 		"Buildings enabled" : [Chichen Itza]
 	}
@@ -389,7 +389,7 @@
 	"Brave New World" : {
 		"Era" : "Atomic",
 		"Cost" : 15300,
-		"Required techs" : ["Combustion",  "Ballistics"],
+		"Required techs" : ["Combustion", "Ballistics"],
 		"Leads" : ["Computers"],
 		"Units" :  Tank  Anti-tank gun  Panzer
 		"Buildings enabled" : [Pentagon]
@@ -397,7 +397,7 @@
 	"Gods and Kings" : {
 		"Era" : "Atomic",
 		"Cost" : 15300,
-		"Required techs" : ["Combustion",  "Ballistics"],
+		"Required techs" : ["Combustion", "Ballistics"],
 		"Leads" : ["Computers"],
 		"Units" :  Tank  Anti-tank gun  Panzer
 		"Buildings enabled" : [Pentagon]
@@ -405,7 +405,7 @@
 },{
 	"Technology" : "Combustion",
 	"Brave New World" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 12300,
 		"Required techs" : ["Railroad"],
 		"Leads" : ["Combined arms"],
@@ -413,7 +413,7 @@
 		"Buildings enabled" : [[]]
 	},
 	"Gods and Kings" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 13926,
 		"Required techs" : ["Railroad"],
 		"Leads" : ["Combined arms"],
@@ -423,8 +423,8 @@
 	"Vanilla" : {
 		"Era" : "Industrial",
 		"Cost" : 6600,
-		"Required techs" : ["Replaceable parts",  "Railroad",  "Dynamite"],
-		"Leads" : ["Atomic_theory",  "Lasers"],
+		"Required techs" : ["Replaceable parts", "Railroad", "Dynamite"],
+		"Leads" : ["Atomic_theory", "Lasers"],
 		"Units" :  Tank  Panzer
 		"Buildings enabled" : [[]]
 	}
@@ -433,7 +433,7 @@
 	"Brave New World" : {
 		"Era" : Medieval
 		"Cost" : 1125,
-		"Required techs" : ["Optics",  "Theology"],
+		"Required techs" : ["Optics", "Theology"],
 		"Leads" : ["Astronomy"],
 		"Units" :  Galleass  Great galleass
 		"Buildings enabled" : [Harbor]
@@ -441,7 +441,7 @@
 	"Gods and Kings" : {
 		"Era" : Medieval
 		"Cost" : 1125,
-		"Required techs" : ["Optics",  "Theology"],
+		"Required techs" : ["Optics", "Theology"],
 		"Leads" : ["Astronomy"],
 		"Units" :  Galleass
 		"Buildings enabled" : [Harbor]
@@ -459,23 +459,23 @@
 	"Brave New World" : {
 		"Era" : "Atomic",
 		"Cost" : 19200,
-		"Required techs" : ["Radar",  "Combined arms"],
-		"Leads" : ["Robotics",  "Lasers"],
+		"Required techs" : ["Radar", "Combined arms"],
+		"Leads" : ["Robotics", "Lasers"],
 		"Units" :  Helicopter gunship
 		"Buildings enabled" : [Great Firewall]
 	},
 	"Gods and Kings" : {
 		"Era" : "Atomic",
 		"Cost" : 19500,
-		"Required techs" : ["Radar",  "Combined arms"],
-		"Leads" : ["Robotics",  "Lasers"],
+		"Required techs" : ["Radar", "Combined arms"],
+		"Leads" : ["Robotics", "Lasers"],
 		"Units" :  Helicopter gunship
 		"Buildings enabled" : [Great Firewall]
 	},
 	"Vanilla" : {
 		"Era" : "Industrial",
 		"Cost" : 8550,
-		"Required techs" : ["Electronics",  "Mass media"],
+		"Required techs" : ["Electronics", "Mass media"],
 		"Leads" : ["Robotics"],
 		"Units" :  Nuclear submarine  Mobile SAM
 		"Buildings enabled" : [[]]
@@ -512,7 +512,7 @@
 		"Era" : "Classical",
 		"Cost" : 525,
 		"Required techs" : ["Mathematics"],
-		"Leads" : ["Civil_service",  Guilds],
+		"Leads" : ["Civil_service", Guilds],
 		"Units" : [],
 		"Buildings enabled" : [Market  Mint  Bazaar  Petra]
 	},
@@ -520,7 +520,7 @@
 		"Era" : "Classical",
 		"Cost" : 525,
 		"Required techs" : ["Mathematics"],
-		"Leads" : ["Civil_service",  Guilds],
+		"Leads" : ["Civil_service", Guilds],
 		"Units" : [],
 		"Buildings enabled" : [Market  Mint  Bazaar  Petra]
 	},
@@ -538,7 +538,7 @@
 		"Era" : "Classical",
 		"Cost" : 525,
 		"Required techs" : ["Writing"],
-		"Leads" : ["Theology",  "Civil_service"],
+		"Leads" : ["Theology", "Civil_service"],
 		"Units" : [],
 		"Buildings enabled" : [National Epic  Amphitheater  Writers' guild  Parthenon]
 	},
@@ -546,7 +546,7 @@
 		"Era" : "Classical",
 		"Cost" : 525,
 		"Required techs" : ["Writing"],
-		"Leads" : ["Theology",  "Civil_service"],
+		"Leads" : ["Theology", "Civil_service"],
 		"Units" : [],
 		"Buildings enabled" : [Amphitheater   National Epic]
 	}
@@ -555,7 +555,7 @@
 	"Brave New World" : {
 		"Era" : "Industrial",
 		"Cost" : 6000,
-		"Required techs" : ["Fertilizer",  "Military science"],
+		"Required techs" : ["Fertilizer", "Military science"],
 		"Leads" : ["Railroad"],
 		"Units" :  Artillery
 		"Buildings enabled" : [[]]
@@ -563,7 +563,7 @@
 	"Gods and Kings" : {
 		"Era" : "Industrial",
 		"Cost" : 5700,
-		"Required techs" : ["Fertilizer",  "Rifling"],
+		"Required techs" : ["Fertilizer", "Rifling"],
 		"Leads" : ["Combustion"],
 		"Units" :  Artillery
 		"Buildings enabled" : [[]]
@@ -573,23 +573,23 @@
 	"Brave New World" : {
 		"Era" : "Atomic",
 		"Cost" : 19200,
-		"Required techs" : ["Atomic_theory",  "Penicillin"],
-		"Leads" : ["Telecommunications",  "Mobile tactics"],
+		"Required techs" : ["Atomic_theory", "Penicillin"],
+		"Leads" : ["Telecommunications", "Mobile tactics"],
 		"Units" : [],
 		"Buildings enabled" : [Solar plant  Recycling center  Sydney Opera House]
 	},
 	"Gods and Kings" : {
 		"Era" : "Atomic",
 		"Cost" : 20550,
-		"Required techs" : ["Atomic_theory",  "Penicillin"],
-		"Leads" : ["Telecommunications",  "Mobile tactics"],
+		"Required techs" : ["Atomic_theory", "Penicillin"],
+		"Leads" : ["Telecommunications", "Mobile tactics"],
 		"Units" : [],
 		"Buildings enabled" : [Solar plant  Recycling center  Sydney Opera House]
 	},
 	"Vanilla" : {
 		"Era" : "Industrial",
 		"Cost" : 8550,
-		"Required techs" : ["Plastics",  "Penicillin"],
+		"Required techs" : ["Plastics", "Penicillin"],
 		"Leads" : ["Globalization"],
 		"Units" : [],
 		"Buildings enabled" : [Solar plant  Sydney Opera House  Recycling center]
@@ -599,15 +599,15 @@
 	"Brave New World" : {
 		"Era" : "Renaissance",
 		"Cost" : 3450,
-		"Required techs" : ["Banking",  "Printing press"],
-		"Leads" : ["Scientific theory",  "Industrialization",  "Rifling"],
+		"Required techs" : ["Banking", "Printing press"],
+		"Leads" : ["Scientific theory", "Industrialization", "Rifling"],
 		"Units" : [],
 		"Buildings enabled" : [Windmill  Coffee house]
 	},
 	"Gods and Kings" : {
 		"Era" : "Renaissance",
 		"Cost" : 2700,
-		"Required techs" : ["Banking",  "Printing press"],
+		"Required techs" : ["Banking", "Printing press"],
 		"Leads" : ["Military science"],
 		"Units" : [],
 		"Buildings enabled" : [Windmill]
@@ -617,16 +617,16 @@
 	"Brave New World" : {
 		"Era" : Medieval
 		"Cost" : 1455,
-		"Required techs" : ["Theology",  "Civil_service"],
-		"Leads" : ["Astronomy",  "Acoustics",  "Banking"],
+		"Required techs" : ["Theology", "Civil_service"],
+		"Leads" : ["Astronomy", "Acoustics", "Banking"],
 		"Units" : [],
 		"Buildings enabled" : [University  Wat  Oxford University  Angkor Wat]
 	},
 	"Gods and Kings" : {
 		"Era" : Medieval
 		"Cost" : 1320,
-		"Required techs" : ["Theology",  "Civil_service"],
-		"Leads" : ["Astronomy",  "Acoustics",  "Banking"],
+		"Required techs" : ["Theology", "Civil_service"],
+		"Leads" : ["Astronomy", "Acoustics", "Banking"],
 		"Units" : [],
 		"Buildings enabled" : [University  Wat  Oxford University  Angkor Wat]
 	}
@@ -636,7 +636,7 @@
 		"Era" : "Industrial",
 		"Cost" : 7050,
 		"Required techs" : ["Scientific theory"],
-		"Leads" : ["Refrigeration",  "Radio",  "Replaceable parts"],
+		"Leads" : ["Refrigeration", "Radio", "Replaceable parts"],
 		"Units" : [],
 		"Buildings enabled" : [Hydro plant  Stock exchange  Police station]
 	},
@@ -644,33 +644,33 @@
 		"Era" : "Industrial",
 		"Cost" : 7050,
 		"Required techs" : ["Scientific theory"],
-		"Leads" : ["Refrigeration",  "Radio",  "Replaceable parts"],
+		"Leads" : ["Refrigeration", "Radio", "Replaceable parts"],
 		"Units" : [],
 		"Buildings enabled" : [Hydro plant  Stock exchange  Police station]
 	},
 	"Vanilla" : {
 		"Era" : "Industrial",
 		"Cost" : 5700,
-		"Required techs" : ["Biology",  "Steam power"],
-		"Leads" : ["Refrigeration",  Telegraph  "Radio"],
+		"Required techs" : ["Biology", "Steam power"],
+		"Leads" : ["Refrigeration", Telegraph  "Radio"],
 		"Units" : [],
 		"Buildings enabled" : [Stock exchange]
 	}
 },{
 	"Technology" : "Electronics",
 	"Brave New World" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 12300,
-		"Required techs" : ["Replaceable parts",  "Flight"],
-		"Leads" : ["Atomic_theory",  "Radar"],
+		"Required techs" : ["Replaceable parts", "Flight"],
+		"Leads" : ["Atomic_theory", "Radar"],
 		"Units" :  Carrier  Battleship
 		"Buildings enabled" : [[]]
 	},
 	"Gods and Kings" : {
 		"Era" : "Atomic",
 		"Cost" : 15990,
-		"Required techs" : ["Replaceable parts",  "Flight"],
-		"Leads" : ["Atomic_theory",  "Radar"],
+		"Required techs" : ["Replaceable parts", "Flight"],
+		"Leads" : ["Atomic_theory", "Radar"],
 		"Units" :  Carrier  Battleship
 		"Buildings enabled" : [[]]
 	},
@@ -687,24 +687,24 @@
 	"Brave New World" : {
 		"Era" : "Classical",
 		"Cost" : 525,
-		"Required techs" : ["Mathematics",  "Construction"],
-		"Leads" : ["Metal casting",  "Machinery"],
+		"Required techs" : ["Mathematics", "Construction"],
+		"Leads" : ["Metal casting", "Machinery"],
 		"Units" : [],
 		"Buildings enabled" : [Fort  Aqueduct  Great Wall]
 	},
 	"Gods and Kings" : {
 		"Era" : "Classical",
 		"Cost" : 525,
-		"Required techs" : ["Mathematics",  "Construction"],
-		"Leads" : ["Metal casting",  "Machinery"],
+		"Required techs" : ["Mathematics", "Construction"],
+		"Leads" : ["Metal casting", "Machinery"],
 		"Units" : [],
 		"Buildings enabled" : [Fort  Aqueduct  Great Wall]
 	},
 	"Vanilla" : {
 		"Era" : Medieval
 		"Cost" : 825,
-		"Required techs" : ["Mathematics",  "Construction"],
-		"Leads" : ["Machinery",  "Physics"],
+		"Required techs" : ["Mathematics", "Construction"],
+		"Leads" : ["Machinery", "Physics"],
 		"Units" : [],
 		"Buildings enabled" : [Fort  Aqueduct]
 	}
@@ -721,18 +721,18 @@
 },{
 	"Technology" : "Flight",
 	"Brave New World" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 9300,
 		"Required techs" : ["Steam power"],
-		"Leads" : ["Electronics",  "Ballistics"],
+		"Leads" : ["Electronics", "Ballistics"],
 		"Units" :  Triplane  Great war bomber
 		"Buildings enabled" : [Prora]
 	},
 	"Gods and Kings" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 9000,
 		"Required techs" : ["Steam power"],
-		"Leads" : ["Electronics",  "Ballistics"],
+		"Leads" : ["Electronics", "Ballistics"],
 		"Units" :  Triplane  Great war bomber
 		"Buildings enabled" : [[]]
 	},
@@ -749,15 +749,15 @@
 	"Brave New World" : {
 		"Era" : "Information",
 		"Cost" : 28500,
-		"Required techs" : ["Nanotechnology",  "Nuclear fusion",  "Stealth",  "Particle physics",  "Globalization",  "The Internet"],
+		"Required techs" : ["Nanotechnology", "Nuclear fusion", "Stealth", "Particle physics", "Globalization", "The Internet"],
 		"Leads" : [[]],
 		"Units" : [],
 		"Buildings enabled" : [[]]
 	},
 	"Gods and Kings" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 11400,
-		"Required techs" : ["Nanotechnology",  "Nuclear fusion"],
+		"Required techs" : ["Nanotechnology", "Nuclear fusion"],
 		"Leads" : [[]],
 		"Units" : [],
 		"Buildings enabled" : [[]]
@@ -781,9 +781,9 @@
 		"Buildings enabled" : [United Nations]
 	},
 	"Vanilla" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 9546,
-		"Required techs" : ["Ecology",  "Computers"],
+		"Required techs" : ["Ecology", "Computers"],
 		"Leads" : ["Future tech"],
 		"Units" : [],
 		"Buildings enabled" : [United Nations]
@@ -794,7 +794,7 @@
 		"Era" : Medieval
 		"Cost" : 825,
 		"Required techs" : [Currency],
-		"Leads" : ["Machinery",  "Chivalry"],
+		"Leads" : ["Machinery", "Chivalry"],
 		"Units" : [],
 		"Buildings enabled" : [Trading post  Polder  East India Company  Machu Picchu  Artists' guild]
 	},
@@ -802,7 +802,7 @@
 		"Era" : Medieval
 		"Cost" : 825,
 		"Required techs" : [Currency],
-		"Leads" : ["Machinery",  "Chivalry"],
+		"Leads" : ["Machinery", "Chivalry"],
 		"Units" : [],
 		"Buildings enabled" : [Trading post  Polder   National Treasury   Machu Picchu]
 	}
@@ -811,24 +811,24 @@
 	"Brave New World" : {
 		"Era" : "Renaissance",
 		"Cost" : 2340,
-		"Required techs" : ["Physics",  Steel],
-		"Leads" : ["Chemistry",  "Metallurgy"],
+		"Required techs" : ["Physics", Steel],
+		"Leads" : ["Chemistry", "Metallurgy"],
 		"Units" :  Musketman  Minuteman  Musketeer  Janissary  Tercio
 		"Buildings enabled" : [Himeji Castle]
 	},
 	"Gods and Kings" : {
 		"Era" : "Renaissance",
 		"Cost" : 2160,
-		"Required techs" : ["Physics",  Steel],
-		"Leads" : ["Chemistry",  "Metallurgy"],
+		"Required techs" : ["Physics", Steel],
+		"Leads" : ["Chemistry", "Metallurgy"],
 		"Units" :  Musketman  Minuteman  Musketeer  Janissary  Tercio
 		"Buildings enabled" : [Himeji Castle]
 	},
 	"Vanilla" : {
 		"Era" : "Renaissance",
 		"Cost" : 2040,
-		"Required techs" : ["Physics",  Steel],
-		"Leads" : ["Chemistry",  "Metallurgy"],
+		"Required techs" : ["Physics", Steel],
+		"Leads" : ["Chemistry", "Metallurgy"],
 		"Units" :  Musketman  Minuteman  Musketeer  Janissary  Tercio
 		"Buildings enabled" : [[]]
 	}
@@ -837,7 +837,7 @@
 	"Brave New World" : {
 		"Era" : "Classical",
 		"Cost" : 315,
-		"Required techs" : ["The wheel",  "Trapping"],
+		"Required techs" : ["The wheel", "Trapping"],
 		"Leads" : ["Civil_service"],
 		"Units" :  Horseman  Companion cavalry  Cataphract  African forest elephant
 		"Buildings enabled" : [Stable  Caravansary  Ducal stable  Circus Maximus]
@@ -845,7 +845,7 @@
 	"Gods and Kings" : {
 		"Era" : "Classical",
 		"Cost" : 315,
-		"Required techs" : ["The wheel",  "Trapping"],
+		"Required techs" : ["The wheel", "Trapping"],
 		"Leads" : ["Civil_service"],
 		"Units" :  Horseman  Companion cavalry  Cataphract  African forest elephant
 		"Buildings enabled" : [Stable  Circus Maximus]
@@ -923,8 +923,8 @@
 	"Vanilla" : {
 		"Era" : "Information",
 		"Cost" : 23100,
-		"Required techs" : ["Radar",  "Combustion"],
-		"Leads" : ["Stealth",  "Advanced ballistics"],
+		"Required techs" : ["Radar", "Combustion"],
+		"Leads" : ["Stealth", "Advanced ballistics"],
 		"Units" :  Jet fighter  Modern armor
 		"Buildings enabled" : [[]]
 	}
@@ -987,7 +987,7 @@
 	"Vanilla" : {
 		"Era" : "Classical",
 		"Cost" : 315,
-		"Required techs" : ["The wheel",  "Archery"],
+		"Required techs" : ["The wheel", "Archery"],
 		"Leads" : [Currency  Engineering],
 		"Units" :  Catapult  Ballista
 		"Buildings enabled" : [Courthouse  Hanging Gardens]
@@ -998,7 +998,7 @@
 		"Era" : Medieval
 		"Cost" : 825,
 		"Required techs" : [Engineering  "Iron working"],
-		"Leads" : ["Physics",  Steel],
+		"Leads" : ["Physics", Steel],
 		"Units" :  Berserker
 		"Buildings enabled" : [Forge  Workshop  Longhouse]
 	},
@@ -1006,7 +1006,7 @@
 		"Era" : Medieval
 		"Cost" : 750,
 		"Required techs" : ["Iron working"],
-		"Leads" : ["Physics",  Steel],
+		"Leads" : ["Physics", Steel],
 		"Units" : [],
 		"Buildings enabled" : [Forge  Workshop  Longhouse]
 	}
@@ -1016,7 +1016,7 @@
 		"Era" : "Renaissance",
 		"Cost" : 3450,
 		"Required techs" : ["Gunpowder"],
-		"Leads" : ["Rifling",  "Military science"],
+		"Leads" : ["Rifling", "Military science"],
 		"Units" :  Lancer  Sipahi  Hakkapeliitta  Winged hussar
 		"Buildings enabled" : [Arsenal  Red Fort]
 	},
@@ -1024,7 +1024,7 @@
 		"Era" : "Renaissance",
 		"Cost" : 3288,
 		"Required techs" : ["Gunpowder"],
-		"Leads" : ["Rifling",  "Military science"],
+		"Leads" : ["Rifling", "Military science"],
 		"Units" :  Lancer  Sipahi  Hakkapeliitta
 		"Buildings enabled" : [Arsenal  "Kremlin"]
 	},
@@ -1041,7 +1041,7 @@
 	"Brave New World" : {
 		"Era" : "Industrial",
 		"Cost" : 4800,
-		"Required techs" : ["Metallurgy",  "Chemistry"],
+		"Required techs" : ["Metallurgy", "Chemistry"],
 		"Leads" : ["Dynamite"],
 		"Units" :  Cavalry  Cossack  Hussar  Berber cavalry  Comanche riders
 		"Buildings enabled" : [Military academy  Brandenburg Gate]
@@ -1049,7 +1049,7 @@
 	"Gods and Kings" : {
 		"Era" : "Industrial",
 		"Cost" : 6000,
-		"Required techs" : ["Metallurgy",  "Chemistry"],
+		"Required techs" : ["Metallurgy", "Chemistry"],
 		"Leads" : ["Dynamite"],
 		"Units" :  Cavalry  Cossack  Hussar
 		"Buildings enabled" : [Military academy  Brandenburg Gate]
@@ -1057,7 +1057,7 @@
 	"Vanilla" : {
 		"Era" : "Industrial",
 		"Cost" : 3900,
-		"Required techs" : ["Economics",  "Chemistry"],
+		"Required techs" : ["Economics", "Chemistry"],
 		"Leads" : ["Steam power"],
 		"Units" :  Cavalry  Cossack
 		"Buildings enabled" : [Military academy  Brandenburg Gate]
@@ -1077,7 +1077,7 @@
 	"Brave New World" : {
 		"Era" : "Information",
 		"Cost" : 23100,
-		"Required techs" : ["Ecology",  "Nuclear fission"],
+		"Required techs" : ["Ecology", "Nuclear fission"],
 		"Leads" : ["Particle physics"],
 		"Units" :  Mechanized infantry
 		"Buildings enabled" : [[]]
@@ -1085,7 +1085,7 @@
 	"Gods and Kings" : {
 		"Era" : "Information",
 		"Cost" : 23100,
-		"Required techs" : ["Ecology",  "Nuclear fission"],
+		"Required techs" : ["Ecology", "Nuclear fission"],
 		"Leads" : ["Particle physics"],
 		"Units" :  Mechanized infantry
 		"Buildings enabled" : [[]]
@@ -1109,7 +1109,7 @@
 		"Buildings enabled" : [[]]
 	},
 	"Vanilla" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 9405,
 		"Required techs" : ["Particle physics"],
 		"Leads" : ["Future tech"],
@@ -1122,7 +1122,7 @@
 		"Era" : "Renaissance",
 		"Cost" : 3450,
 		"Required techs" : ["Astronomy"],
-		"Leads" : ["Archaeology",  "Scientific theory"],
+		"Leads" : ["Archaeology", "Scientific theory"],
 		"Units" :  Frigate  Ship of the line  Privateer  Sea beggar
 		"Buildings enabled" : [Seaport  Feitoria]
 	},
@@ -1130,7 +1130,7 @@
 		"Era" : "Renaissance",
 		"Cost" : 2700,
 		"Required techs" : ["Astronomy"],
-		"Leads" : ["Archaeology",  "Scientific theory"],
+		"Leads" : ["Archaeology", "Scientific theory"],
 		"Units" :  Frigate  Ship of the line  Privateer  Sea beggar
 		"Buildings enabled" : [Seaport]
 	},
@@ -1138,7 +1138,7 @@
 		"Era" : "Renaissance",
 		"Cost" : 2700,
 		"Required techs" : ["Astronomy"],
-		"Leads" : ["Archaeology",  "Scientific theory"],
+		"Leads" : ["Archaeology", "Scientific theory"],
 		"Units" :  Frigate  Ship of the line
 		"Buildings enabled" : [Seaport]
 	}
@@ -1147,16 +1147,16 @@
 	"Brave New World" : {
 		"Era" : "Atomic",
 		"Cost" : 19200,
-		"Required techs" : ["Atomic_theory",  "Radar"],
-		"Leads" : ["Advanced ballistics",  "Mobile tactics"],
+		"Required techs" : ["Atomic_theory", "Radar"],
+		"Leads" : ["Advanced ballistics", "Mobile tactics"],
 		"Units" :  "Atomic", bomb  Bazooka
 		"Buildings enabled" : [Nuclear plant]
 	},
 	"Gods and Kings" : {
 		"Era" : "Atomic",
 		"Cost" : 20550,
-		"Required techs" : ["Atomic_theory",  "Radar"],
-		"Leads" : ["Advanced ballistics",  "Mobile tactics"],
+		"Required techs" : ["Atomic_theory", "Radar"],
+		"Leads" : ["Advanced ballistics", "Mobile tactics"],
 		"Units" :  "Atomic", bomb
 		"Buildings enabled" : [Nuclear plant]
 	},
@@ -1173,7 +1173,7 @@
 	"Brave New World" : {
 		"Era" : "Information",
 		"Cost" : 26400,
-		"Required techs" : ["Satellites",  "Robotics",  "Advanced ballistics"],
+		"Required techs" : ["Satellites", "Robotics", "Advanced ballistics"],
 		"Leads" : ["Future tech"],
 		"Units" :  Giant death robot
 		"Buildings enabled" : [[]]
@@ -1181,15 +1181,15 @@
 	"Gods and Kings" : {
 		"Era" : "Information",
 		"Cost" : 25260,
-		"Required techs" : ["Satellites",  "Robotics",  "Advanced ballistics"],
+		"Required techs" : ["Satellites", "Robotics", "Advanced ballistics"],
 		"Leads" : ["Future tech"],
 		"Units" :  Giant death robot
 		"Buildings enabled" : [[]]
 	},
 	"Vanilla" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 10260,
-		"Required techs" : ["Satellites",  "Stealth",  "Advanced ballistics"],
+		"Required techs" : ["Satellites", "Stealth", "Advanced ballistics"],
 		"Leads" : ["Future tech"],
 		"Units" :  Giant death robot
 		"Buildings enabled" : [[]]
@@ -1225,7 +1225,7 @@
 	"Brave New World" : {
 		"Era" : "Information",
 		"Cost" : 26400,
-		"Required techs" : ["Telecommunications",  "Advanced ballistics",  "Mobile tactics"],
+		"Required techs" : ["Telecommunications", "Advanced ballistics", "Mobile tactics"],
 		"Leads" : ["Future tech"],
 		"Units" :  SS Engine
 		"Buildings enabled" : [[]]
@@ -1233,15 +1233,15 @@
 	"Gods and Kings" : {
 		"Era" : "Information",
 		"Cost" : 24546,
-		"Required techs" : ["Telecommunications",  "Advanced ballistics",  "Mobile tactics"],
+		"Required techs" : ["Telecommunications", "Advanced ballistics", "Mobile tactics"],
 		"Leads" : ["Future tech"],
 		"Units" :  SS Engine
 		"Buildings enabled" : [[]]
 	},
 	"Vanilla" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 9546,
-		"Required techs" : ["Globalization",  "Robotics",  "Satellites"],
+		"Required techs" : ["Globalization", "Robotics", "Satellites"],
 		"Leads" : ["Nanotechnology"],
 		"Units" :  SS Engine
 		"Buildings enabled" : [[]]
@@ -1251,7 +1251,7 @@
 	"Brave New World" : {
 		"Era" : "Atomic",
 		"Cost" : 15300,
-		"Required techs" : ["Refrigeration",  "Plastics"],
+		"Required techs" : ["Refrigeration", "Plastics"],
 		"Leads" : ["Ecology"],
 		"Units" :  Marine
 		"Buildings enabled" : [Medical lab]
@@ -1259,7 +1259,7 @@
 	"Gods and Kings" : {
 		"Era" : "Atomic",
 		"Cost" : 15000,
-		"Required techs" : ["Refrigeration",  "Plastics"],
+		"Required techs" : ["Refrigeration", "Plastics"],
 		"Leads" : ["Ecology"],
 		"Units" :  Marine
 		"Buildings enabled" : [Medical lab]
@@ -1277,7 +1277,7 @@
 	"Brave New World" : {
 		"Era" : "Classical",
 		"Cost" : 525,
-		"Required techs" : ["Calendar",  "Writing"],
+		"Required techs" : ["Calendar", "Writing"],
 		"Leads" : ["Theology"],
 		"Units" : [],
 		"Buildings enabled" : [Temple  Burial tomb  Mud pyramid mosque  National College  Oracle]
@@ -1285,7 +1285,7 @@
 	"Gods and Kings" : {
 		"Era" : "Classical",
 		"Cost" : 525,
-		"Required techs" : ["Calendar",  "Writing"],
+		"Required techs" : ["Calendar", "Writing"],
 		"Leads" : ["Theology"],
 		"Units" : [],
 		"Buildings enabled" : [Temple  Burial tomb  Mud pyramid mosque  National College  Oracle]
@@ -1294,7 +1294,7 @@
 		"Era" : "Classical",
 		"Cost" : 315,
 		"Required techs" : ["Writing"],
-		"Leads" : ["Theology",  "Civil_service"],
+		"Leads" : ["Theology", "Civil_service"],
 		"Units" : [],
 		"Buildings enabled" : [Temple  Burial tomb  Mud pyramid mosque  National College  National Epic  Oracle]
 	}
@@ -1304,7 +1304,7 @@
 		"Era" : Medieval
 		"Cost" : 1455,
 		"Required techs" : ["Metal casting"],
-		"Leads" : ["Printing press",  "Gunpowder"],
+		"Leads" : ["Printing press", "Gunpowder"],
 		"Units" :  Trebuchet  Hwach'a
 		"Buildings enabled" : [Notre Dame]
 	},
@@ -1312,7 +1312,7 @@
 		"Era" : Medieval
 		"Cost" : 1455,
 		"Required techs" : [Engineering  "Metal casting"],
-		"Leads" : ["Printing press",  "Gunpowder"],
+		"Leads" : ["Printing press", "Gunpowder"],
 		"Units" :  Trebuchet  Hwach'a
 		"Buildings enabled" : [Notre Dame]
 	},
@@ -1320,25 +1320,25 @@
 		"Era" : Medieval
 		"Cost" : 1320,
 		"Required techs" : [Engineering  "Metal casting"],
-		"Leads" : ["Printing press",  "Gunpowder"],
+		"Leads" : ["Printing press", "Gunpowder"],
 		"Units" :  Trebuchet  Hwach'a
 		"Buildings enabled" : [[]]
 	}
 },{
 	"Technology" : "Plastics",
 	"Brave New World" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 12300,
-		"Required techs" : ["Radio",  "Replaceable parts"],
-		"Leads" : ["Penicillin",  "Atomic_theory"],
+		"Required techs" : ["Radio", "Replaceable parts"],
+		"Leads" : ["Penicillin", "Atomic_theory"],
 		"Units" :  Infantry  Pracinha
 		"Buildings enabled" : [Research lab  Cristo Redentor]
 	},
 	"Gods and Kings" : {
 		"Era" : "Atomic",
 		"Cost" : 15990,
-		"Required techs" : ["Radio",  "Replaceable parts"],
-		"Leads" : ["Penicillin",  "Atomic_theory"],
+		"Required techs" : ["Radio", "Replaceable parts"],
+		"Leads" : ["Penicillin", "Atomic_theory"],
 		"Units" :  Infantry
 		"Buildings enabled" : [Research lab  Cristo Redentor]
 	},
@@ -1356,7 +1356,7 @@
 		"Era" : "Ancient",
 		"Cost" : 105,
 		"Required techs" : ["Agriculture"],
-		"Leads" : ["Sailing",  "Calendar",  "Writing"],
+		"Leads" : ["Sailing", "Calendar", "Writing"],
 		"Units" : [],
 		"Buildings enabled" : [Granary  Shrine  Pyramid]
 	},
@@ -1364,7 +1364,7 @@
 		"Era" : "Ancient",
 		"Cost" : 105,
 		"Required techs" : ["Agriculture"],
-		"Leads" : ["Sailing",  "Calendar",  "Writing"],
+		"Leads" : ["Sailing", "Calendar", "Writing"],
 		"Units" : [],
 		"Buildings enabled" : [Granary  Shrine  Pyramid]
 	},
@@ -1372,7 +1372,7 @@
 		"Era" : "Ancient",
 		"Cost" : 105,
 		"Required techs" : ["Agriculture"],
-		"Leads" : ["Sailing",  "Calendar",  "Writing"],
+		"Leads" : ["Sailing", "Calendar", "Writing"],
 		"Units" : [],
 		"Buildings enabled" : [Granary]
 	}
@@ -1381,24 +1381,24 @@
 	"Brave New World" : {
 		"Era" : "Renaissance",
 		"Cost" : 2340,
-		"Required techs" : ["Machinery",  "Physics",  "Chivalry"],
-		"Leads" : ["Economics",  "Metallurgy"],
+		"Required techs" : ["Machinery", "Physics", "Chivalry"],
+		"Leads" : ["Economics", "Metallurgy"],
 		"Units" : [],
 		"Buildings enabled" : [Zoo  Leaning Tower of Pisa  Globe Theatre]
 	},
 	"Gods and Kings" : {
 		"Era" : "Renaissance",
 		"Cost" : 1950,
-		"Required techs" : ["Machinery",  "Physics",  "Chivalry"],
-		"Leads" : ["Economics",  "Metallurgy"],
+		"Required techs" : ["Machinery", "Physics", "Chivalry"],
+		"Leads" : ["Economics", "Metallurgy"],
 		"Units" : [],
 		"Buildings enabled" : [Theatre  Leaning Tower of Pisa]
 	},
 	"Vanilla" : {
 		"Era" : "Renaissance",
 		"Cost" : 1950,
-		"Required techs" : ["Machinery",  "Physics",  "Chivalry"],
-		"Leads" : ["Economics",  "Metallurgy"],
+		"Required techs" : ["Machinery", "Physics", "Chivalry"],
+		"Leads" : ["Economics", "Metallurgy"],
 		"Units" : [],
 		"Buildings enabled" : [Theatre  Taj Mahal]
 	}
@@ -1407,31 +1407,31 @@
 	"Brave New World" : {
 		"Era" : "Atomic",
 		"Cost" : 15300,
-		"Required techs" : ["Ballistics",  "Electronics"],
-		"Leads" : ["Rocketry",  "Nuclear fission",  "Computers"],
+		"Required techs" : ["Ballistics", "Electronics"],
+		"Leads" : ["Rocketry", "Nuclear fission", "Computers"],
 		"Units" :  Bomber  B17  Fighter  Zero  Paratrooper
 		"Buildings enabled" : [Airport]
 	},
 	"Gods and Kings" : {
 		"Era" : "Atomic",
 		"Cost" : 19890,
-		"Required techs" : ["Ballistics",  "Electronics"],
-		"Leads" : ["Rocketry",  "Nuclear fission",  "Computers"],
+		"Required techs" : ["Ballistics", "Electronics"],
+		"Leads" : ["Rocketry", "Nuclear fission", "Computers"],
 		"Units" :  Bomber  B17  Fighter  Zero  Paratrooper
 		"Buildings enabled" : [[]]
 	},
 	"Vanilla" : {
 		"Era" : "Industrial",
 		"Cost" : 7410,
-		"Required techs" : ["Radio",  "Flight"],
-		"Leads" : ["Rocketry",  "Lasers"],
+		"Required techs" : ["Radio", "Flight"],
+		"Leads" : ["Rocketry", "Lasers"],
 		"Units" :  Bomber  B17  Paratrooper
 		"Buildings enabled" : [Pentagon]
 	}
 },{
 	"Technology" : "Radio",
 	"Brave New World" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 9300,
 		"Required techs" : ["Electricity"],
 		"Leads" : ["Plastics"],
@@ -1439,7 +1439,7 @@
 		"Buildings enabled" : [Broadcast tower  Eiffel Tower  National Intelligence Agency  Broadway]
 	},
 	"Gods and Kings" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 9000,
 		"Required techs" : ["Electricity"],
 		"Leads" : ["Plastics"],
@@ -1450,25 +1450,25 @@
 		"Era" : "Industrial",
 		"Cost" : 6600,
 		"Required techs" : ["Electricity"],
-		"Leads" : ["Radar",  "Mass media"],
+		"Leads" : ["Radar", "Mass media"],
 		"Units" :  Anti-aircraft gun
 		"Buildings enabled" : [Broadcast tower  Eiffel Tower]
 	}
 },{
 	"Technology" : "Railroad",
 	"Brave New World" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 9300,
-		"Required techs" : ["Steam power",  "Dynamite"],
-		"Leads" : ["Combustion",  "Ballistics"],
+		"Required techs" : ["Steam power", "Dynamite"],
+		"Leads" : ["Combustion", "Ballistics"],
 		"Units" : [],
-		"Buildings enabled" : ["Railroad",s  "Kremlin",  Neuschwanstein Castle]
+		"Buildings enabled" : ["Railroad",s  "Kremlin", Neuschwanstein Castle]
 	},
 	"Gods and Kings" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 9000,
-		"Required techs" : ["Steam power",  "Dynamite"],
-		"Leads" : ["Combustion",  "Ballistics"],
+		"Required techs" : ["Steam power", "Dynamite"],
+		"Leads" : ["Combustion", "Ballistics"],
 		"Units" : [],
 		"Buildings enabled" : ["Railroad",s  Neuschwanstein Castle]
 	},
@@ -1483,17 +1483,17 @@
 },{
 	"Technology" : "Refrigeration",
 	"Brave New World" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 9300,
-		"Required techs" : ["Biology",  "Electricity"],
+		"Required techs" : ["Biology", "Electricity"],
 		"Leads" : ["Penicillin"],
 		"Units" :  Submarine
 		"Buildings enabled" : [Stadium  Offshore platform  Hotel]
 	},
 	"Gods and Kings" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 9000,
-		"Required techs" : ["Biology",  "Electricity"],
+		"Required techs" : ["Biology", "Electricity"],
 		"Leads" : ["Penicillin"],
 		"Units" :  Submarine
 		"Buildings enabled" : [Stadium  Offshore platform]
@@ -1502,33 +1502,33 @@
 		"Era" : "Industrial",
 		"Cost" : 6600,
 		"Required techs" : ["Electricity"],
-		"Leads" : ["Plastics",  "Penicillin"],
+		"Leads" : ["Plastics", "Penicillin"],
 		"Units" :  Submarine
 		"Buildings enabled" : [Offshore platform]
 	}
 },{
 	"Technology" : "Replaceable_parts",
 	"Brave New World" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 9300,
-		"Required techs" : ["Electricity",  "Steam power"],
-		"Leads" : ["Plastics",  "Electronics"],
+		"Required techs" : ["Electricity", "Steam power"],
+		"Leads" : ["Plastics", "Electronics"],
 		"Units" :  Great war infantry  Foreign legion
 		"Buildings enabled" : [Military base  Statue of Liberty]
 	},
 	"Gods and Kings" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 12300,
-		"Required techs" : ["Electricity",  "Steam power"],
-		"Leads" : ["Plastics",  "Electronics"],
+		"Required techs" : ["Electricity", "Steam power"],
+		"Leads" : ["Plastics", "Electronics"],
 		"Units" :  Great war infantry  Foreign legion
 		"Buildings enabled" : [Military base  Statue of Liberty]
 	},
 	"Vanilla" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 9300,
 		"Required techs" : ["Steam power"],
-		"Leads" : ["Flight",  "Combustion"],
+		"Leads" : ["Flight", "Combustion"],
 		"Units" : [],
 		"Buildings enabled" : [Statue of Liberty]
 	}
@@ -1547,23 +1547,23 @@
 	"Brave New World" : {
 		"Era" : "Information",
 		"Cost" : 23100,
-		"Required techs" : ["Computers",  "Rocketry"],
-		"Leads" : ["Nuclear fusion",  "Nanotechnology",  "Stealth"],
+		"Required techs" : ["Computers", "Rocketry"],
+		"Leads" : ["Nuclear fusion", "Nanotechnology", "Stealth"],
 		"Units" :  Missile cruiser
 		"Buildings enabled" : [Spaceship factory]
 	},
 	"Gods and Kings" : {
 		"Era" : "Information",
 		"Cost" : 23100,
-		"Required techs" : ["Computers",  "Rocketry"],
-		"Leads" : ["Nuclear fusion",  "Nanotechnology",  "Stealth"],
+		"Required techs" : ["Computers", "Rocketry"],
+		"Leads" : ["Nuclear fusion", "Nanotechnology", "Stealth"],
 		"Units" :  Missile cruiser
 		"Buildings enabled" : [Spaceship factory]
 	},
 	"Vanilla" : {
 		"Era" : "Information",
 		"Cost" : 23100,
-		"Required techs" : ["Computers",  "Penicillin"],
+		"Required techs" : ["Computers", "Penicillin"],
 		"Leads" : ["Particle physics"],
 		"Units" :  SS Booster  Missile cruiser
 		"Buildings enabled" : [Spaceship factory]
@@ -1574,7 +1574,7 @@
 		"Era" : "Atomic",
 		"Cost" : 19200,
 		"Required techs" : ["Radar"],
-		"Leads" : ["Advanced ballistics",  "Satellites",  "Robotics"],
+		"Leads" : ["Advanced ballistics", "Satellites", "Robotics"],
 		"Units" :  Mobile SAM  Rocket artillery
 		"Buildings enabled" : [Apollo Program]
 	},
@@ -1582,7 +1582,7 @@
 		"Era" : "Atomic",
 		"Cost" : 19200,
 		"Required techs" : ["Radar"],
-		"Leads" : ["Advanced ballistics",  "Satellites",  "Robotics"],
+		"Leads" : ["Advanced ballistics", "Satellites", "Robotics"],
 		"Units" :  Mobile SAM  Rocket artillery
 		"Buildings enabled" : [Apollo Program]
 	},
@@ -1639,10 +1639,10 @@
 		"Buildings enabled" : [Hubble Telescope]
 	},
 	"Vanilla" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 9546,
 		"Required techs" : ["Rocketry"],
-		"Leads" : ["Particle physics",  "Nuclear fusion"],
+		"Leads" : ["Particle physics", "Nuclear fusion"],
 		"Units" :  SS Cockpit  Guided missile
 		"Buildings enabled" : [Hubble Telescope]
 	}
@@ -1651,24 +1651,24 @@
 	"Brave New World" : {
 		"Era" : "Industrial",
 		"Cost" : 4800,
-		"Required techs" : ["Economics",  "Architecture"],
-		"Leads" : ["Biology",  "Steam power",  "Electricity"],
+		"Required techs" : ["Economics", "Architecture"],
+		"Leads" : ["Biology", "Steam power", "Electricity"],
 		"Units" : [],
 		"Buildings enabled" : [Public school]
 	},
 	"Gods and Kings" : {
 		"Era" : "Industrial",
 		"Cost" : 4800,
-		"Required techs" : ["Economics",  "Architecture"],
-		"Leads" : ["Biology",  "Steam power",  "Electricity"],
+		"Required techs" : ["Economics", "Architecture"],
+		"Leads" : ["Biology", "Steam power", "Electricity"],
 		"Units" : [],
 		"Buildings enabled" : [Public school]
 	},
 	"Vanilla" : {
 		"Era" : "Industrial",
 		"Cost" : 4800,
-		"Required techs" : ["Navigation",  "Acoustics",  "Economics"],
-		"Leads" : ["Biology",  "Steam power"],
+		"Required techs" : ["Navigation", "Acoustics", "Economics"],
+		"Leads" : ["Biology", "Steam power"],
 		"Units" : [],
 		"Buildings enabled" : [Public school]
 	}
@@ -1677,7 +1677,7 @@
 	"Brave New World" : {
 		"Era" : "Information",
 		"Cost" : 26400,
-		"Required techs" : ["Lasers",  "Robotics"],
+		"Required techs" : ["Lasers", "Robotics"],
 		"Leads" : ["Future tech"],
 		"Units" :  "Stealth", bomber
 		"Buildings enabled" : [[]]
@@ -1691,7 +1691,7 @@
 		"Buildings enabled" : [[]]
 	},
 	"Vanilla" : {
-		"Era" : Modern
+		"Era" : "Modern"
 		"Cost" : 9546,
 		"Required techs" : ["Lasers"],
 		"Leads" : ["Nuclear fusion"],
@@ -1703,24 +1703,24 @@
 	"Brave New World" : {
 		"Era" : "Industrial",
 		"Cost" : 7050,
-		"Required techs" : ["Scientific theory",  "Industrialization",  "Rifling"],
-		"Leads" : ["Flight",  "Replaceable parts",  "Railroad"],
+		"Required techs" : ["Scientific theory", "Industrialization", "Rifling"],
+		"Leads" : ["Flight", "Replaceable parts", "Railroad"],
 		"Units" :  Ironclad
 		"Buildings enabled" : [[]]
 	},
 	"Gods and Kings" : {
 		"Era" : "Industrial",
 		"Cost" : 6717,
-		"Required techs" : ["Scientific theory",  "Industrialization",  "Rifling"],
-		"Leads" : ["Flight",  "Replaceable parts",  "Railroad"],
+		"Required techs" : ["Scientific theory", "Industrialization", "Rifling"],
+		"Leads" : ["Flight", "Replaceable parts", "Railroad"],
 		"Units" :  Ironclad
 		"Buildings enabled" : [[]]
 	},
 	"Vanilla" : {
 		"Era" : "Industrial",
 		"Cost" : 5040,
-		"Required techs" : ["Scientific theory",  "Military science"],
-		"Leads" : ["Electricity",  "Replaceable parts",  "Railroad"],
+		"Required techs" : ["Scientific theory", "Military science"],
+		"Leads" : ["Electricity", "Replaceable parts", "Railroad"],
 		"Units" :  Ironclad
 		"Buildings enabled" : [Factory]
 	}
@@ -1748,13 +1748,13 @@
 		"Era" : "Information",
 		"Cost" : 23100,
 		"Required techs" : ["Ecology"],
-		"Leads" : ["Globalization",  "Particle physics",  "The Internet"],
+		"Leads" : ["Globalization", "Particle physics", "The Internet"],
 		"Units" :  Nuclear submarine
 		"Buildings enabled" : [Bomb shelter  National Visitor's Center  CN Tower]
 	},
 	"Gods and Kings" : {
 			"Required techs" : ["Ecology"],
-		"Leads" : ["Globalization",  "Particle physics"],
+		"Leads" : ["Globalization", "Particle physics"],
 		"Units" : [],
 		"Buildings enabled" : [Bomb shelter  CN Tower]
 	}
@@ -1783,8 +1783,8 @@
 	"Brave New World" : {
 		"Era" : "Ancient",
 		"Cost" : 165,
-		"Required techs" : ["Animal_husbandry",  "Archery"],
-		"Leads" : ["Horseback riding",  "Mathematics",  "Construction"],
+		"Required techs" : ["Animal_husbandry", "Archery"],
+		"Leads" : ["Horseback riding", "Mathematics", "Construction"],
 		"Units" :  Chariot archer  War chariot  War elephant  Horse archer
 		"Buildings enabled" : [Roads  Water mill  Floating gardens]
 	},
@@ -1792,15 +1792,15 @@
 		"Era" : "Ancient",
 		"Cost" : 165,
 		"Required techs" : ["Animal_husbandry"],
-		"Leads" : ["Horseback riding",  "Mathematics",  "Construction"],
+		"Leads" : ["Horseback riding", "Mathematics", "Construction"],
 		"Units" :  Chariot archer  War chariot  War elephant  Horse archer
 		"Buildings enabled" : [Roads  Water mill  Floating gardens]
 	},
 	"Vanilla" : {
 		"Era" : "Ancient",
 		"Cost" : 165,
-		"Required techs" : ["Animal_husbandry",  "Archery"],
-		"Leads" : ["Horseback riding",  "Mathematics"],
+		"Required techs" : ["Animal_husbandry", "Archery"],
+		"Leads" : ["Horseback riding", "Mathematics"],
 		"Units" :  Chariot archer  War chariot  War elephant
 		"Buildings enabled" : [Roads  Water mill  Floating gardens]
 	}
@@ -1809,15 +1809,15 @@
 	"Brave New World" : {
 		"Era" : Medieval
 		"Cost" : 825,
-		"Required techs" : ["Drama_and_poetry",  "Philosophy"],
-		"Leads" : ["Education",  "Compass"],
+		"Required techs" : ["Drama_and_poetry", "Philosophy"],
+		"Leads" : ["Education", "Compass"],
 		"Units" : [],
 		"Buildings enabled" : [Garden  Candi  Grand Temple  Great Mosque of Djenne  Hagia Sophia  Borobudur]
 	},
 	"Gods and Kings" : {
 		"Era" : Medieval
 		"Cost" : 750,
-		"Required techs" : ["Calendar",  "Philosophy"],
+		"Required techs" : ["Calendar", "Philosophy"],
 		"Leads" : ["Education"],
 		"Units" : [],
 		"Buildings enabled" : [Garden  Great Mosque of Djenne  Hagia Sophia  Grand Temple]
@@ -1854,7 +1854,7 @@
 		"Era" : "Ancient",
 		"Cost" : 165,
 		"Required techs" : ["Pottery"],
-		"Leads" : ["Philosophy",  "Drama_and_poetry"],
+		"Leads" : ["Philosophy", "Drama_and_poetry"],
 		"Units" : [],
 		"Buildings enabled" : [Library  Paper maker  Great Library  Royal library]
 	},
@@ -1862,7 +1862,7 @@
 		"Era" : "Ancient",
 		"Cost" : 165,
 		"Required techs" : ["Pottery"],
-		"Leads" : ["Philosophy",  "Drama_and_poetry"],
+		"Leads" : ["Philosophy", "Drama_and_poetry"],
 		"Units" : [],
 		"Buildings enabled" : [Library  Paper maker  Great Library]
 	},
@@ -1876,6 +1876,7 @@
 	}
 } 
 ],
+[
 {
 	"Wonder" : "Alhambra",
 	"Production Cost" : 400 ,
@@ -2310,13 +2311,6 @@ Effect
  Back to the list of wonders
  +15% combat strength for units fighting in friendly territory.
  Free Castle in the city
-Another purely defensive Wonder, the Himeji Castle makes units defending your lands stronger, as opposed to slowing down the enemy like the Great Wall. Note that this bonus doesn't work on the offense! An interesting strategy for a player seeking a domination victory is to build the Wonder to prevent enemies from gaining a universal 15% strength in their territory.
-Himeji Castle can also be useful offensively because the combat bonus also applies to conquered enemy cities, which can serve as forward bases, giving you a strong safe zone to retreat to when your army is wounded.
-Note that, as with other similar promotions, units sitting in friendly territory attacking enemies outside of your territory will not get the bonus for attacking. This is because the battleground is considered to be the tile where the defending unit is, not the attacker, so you'll only get an attack bonus against enemy units who are actually inside your territory; similarly, your units only gain the defensive bonus when they are actually inside your territory. For example, you will not gain the bonus if an enemy inside your territory fires upon your unit outside of your territory, because the battleground location is the defending unit's position and Himeji Castle only affects battles taking place inside your territory.
-Finally, if you plan on building Himeji Castle in a city, don't build a Castle there.
-Himeji Castle is an extraordinary Japanese castle and one of the most beautiful structures in the world. First constructed in the 14th century and then massively rebuilt and extended in the late 16th-early 17th by Kuroda Yoshitaka and Ikeda Terumasa, Himeji Castle is a tall, imposing multi-story structure constructed of stone and wood, and featuring a brilliant white exterior and a series beautifully curved rooftops. It is nicknamed "White Heron Castle."
-Himeji Castle is surrounded by a confusing maze of paths leading to the keep. The walls and gates were designed to force an invading army to travel in a series of concentric circles with many dead ends before reaching the main gate. This would string out the attackers and allow the defenders to fire on the vanguard many times during the approach. The ingenious system was not put to the test, as the castle was never attacked during the medieval era.
-Although the surrounding area was heavily damaged by Allied bombing during World War II, the castle was almost entirely unscathed. It is currently undergoing major restoration, and it remains one of the most popular tourist sites in Japan.
 },
 {
 	"Wonder" : "Hubble_Space_Telescope",
@@ -2332,9 +2326,6 @@ Effect
  2 free Great scientists appear near the City where the Wonder was built.
  Free Spaceship Factory in the city 
  +25%  Production when building Spaceship Parts.
-The Hubble Space Telescope is the Wonder for seekers of a science victory! Not only does it speed up your building of Spaceship parts (a requirement for the victory), but it also gives you two free Great Scientists, which could be used to research technologies almost instantaneously, giving you a boost to your tech progression.
-To get it, rush "Satellites", - make it the first tech to research in the Information Era.
-Named for renowned American astronomer Edwin Hubble, the Hubble Space Telescope has proven to be among the most crucial astronomical research tools ever developed. Launched in 1990, the telescope has continually provided breathtaking images of far-off constellations and nebulas, attracting widespread attention from both scientists and the general public. As the only space telescope capable of being repaired by astronauts, the service life of the Hubble has been continually extended through a series of space walks. However, despite its notable legacy, the Hubble Space Telescope will be replaced in 2018 by the more advanced James Webb Space Telescope.
 },
 {
 	"Wonder" : "International_Space_Station",
@@ -2653,7 +2644,7 @@ Connecting other cities to the  Capital by Road will produce additional  Gold
 +3  Production, +3  Science, +3  Gold, +1  Culture
 +2  Defense
  1 Great Work of Art or Artifact slot
-+1  Production,  Culture,  Gold,  Faith and  Science with God King Religious Belief
++1  Production, Culture, Gold, Faith and  Science with God King Religious Belief
 Your Palace is the seat of your government. In the very beginning of the game it provides a significant portion of your capital city's  Gold and  Production, boosts  Science output, and is the only source of  Culture. It also forms the heart of your empire's trading network.
 At all times, the Palace is considered the seat of your government in regards to domination victory. Although the Palace is automatically rebuilt in another city if your capital is captured, it can still be a terrible blow to your civilization (and also makes you ineligible to win a domination victory until you get it back). Protect your Palace well!
 A palace is the residence of a civilization's ruler. The term is somewhat anachronistic, dating back to a time when most countries were ruled by kings or other hereditary leaders. Nowadays modern rulers live in ornate buildings called something like "the People's House" or "the Place of Justice," but the effect is the same. Palaces (and their modern equivalents) are designed to do three things: to provide the ruler with access to the people and communications necessary to rule, to defend the leader from attack, and to impress upon subjects and foreign visitors the leader's importance and grandeur.
@@ -2937,3 +2928,4 @@ Triggers the cultural victory
 Unlocked after completing five social policy branches
  Back to the list of wonders
 }
+]

@@ -28,12 +28,10 @@ function elm2obj(elm) {
     switch (elm.type) {
         case 'tag':
             switch(elm.name){
-                case 'a' : 
-                    obj = _.map(elm.children, function(child){return elm2obj(child);});
-                    break;
                 case 'img':
-                    if(elm.attribs){
-                        obj = elm.attribs.alt.replace(/^20x/,"").replace(/5$/,"").replace(/ (Civ5)/,"");
+                    if(elm.attribs.alt){
+                        obj = elm.attribs.alt.replace(/^20x/,"").replace(/5$/,"").replace(/ (Civ5)/,"")
+                        obj = obj.replace(/^./,obj[0].toUpperCase());
                     }else{
                         obj = null;
                     }
@@ -42,14 +40,14 @@ function elm2obj(elm) {
                     if(elm.attribs.style === 'display:none;'){
                         obj = null;
                     }else{
-                        obj = _.compact(_.flatten(_.map(elm.children, function(child){return elm2obj(child);})));
+                        obj = alignChidren(elm.children);
                     }
                     break;
                 case 'noscript':
                     obj = null;
                     break;
                 case 'li':
-                    var sons = _.compact(_.flatten(_.map(elm.children, function(child){return elm2obj(child);})));
+                    var sons = alignChidren(elm.children);
                     if( _.every(sons, function(son){return (typeof son === 'string');})){
                         obj = sons.join(" ");
                     }else{
@@ -58,13 +56,14 @@ function elm2obj(elm) {
                     }
                     break;
                 case 'tr':
-                    var sons = _.compact(_.flatten(_.map(elm.children, function(child){return elm2obj(child);})));
+                    var sons = alignChidren(elm.children);
                     obj[_.first(sons)] = _.rest(sons);
                     break;
                 case 'table':
-                    var sons = _.compact(_.flatten(_.map(elm.children, function(child){return elm2obj(child);})));
+                    var sons = alignChidren(elm.children);
                     obj = _.reduce(sons, function(o,s){return _.extend(o,s)}, {});
                     break;
+                case 'a' : 
                 case 'br':
                 case 'b':
                 case 'i':
@@ -73,11 +72,11 @@ function elm2obj(elm) {
                 case 'div':
                 case 'th':
                 case 'td':
-                    obj = _.compact(_.flatten(_.map(elm.children, function(child){return elm2obj(child);})));
+                    obj = alignChidren(elm.children);
                     break;
                 default:
                     obj.name = elm.name;
-                    obj.children = _.compact(_.flatten(_.map(elm.children, function(child){return elm2obj(child);})));
+                    obj.children = alignChidren(elm.children);
                     break;
             }
             break;
@@ -87,4 +86,8 @@ function elm2obj(elm) {
     }
     //console.log(obj);
     return obj;
+}
+
+function alignChidren(children){
+    return _.uniq(_.compact(_.flatten(_.map(children, function(child){return elm2obj(child);}))));
 }
