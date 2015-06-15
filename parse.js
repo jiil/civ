@@ -1,6 +1,5 @@
 var htmlparser = require("htmlparser2");
 var DomUtils = require('domutils');
-var http = require('http');
 var _ = require('underscore');
 var fs = require('fs');
 var handler = new htmlparser.DomHandler(function(error, dom) {
@@ -14,35 +13,21 @@ var handler = new htmlparser.DomHandler(function(error, dom) {
         //var tabber = DomUtils.getElements({tag:'a', class:'mw-redirect'},dom,true)[0];
        
         console.log(JSON.stringify(elm2obj(tabber)));
+
+        var tabber = DomUtils.getElements({
+            tag: 'ul',
+            class: 'categories'
+        }, dom, true)[0];
     }
 }, {
     normalizeWhitespace: true
 });
 
 var parser = new htmlparser.Parser(handler);
-fs.readFile(__dirname + '/Cathedral_(Civ5)', function(err, result) {
+fs.readFile(process.argv[2], function(err, result) {
     parser.write(result);
     parser.done();
 });
-
-
-function getTextFromeUrl( url, callback ) {
-    http.get(getHttpOption(url),function(response){
-        if(response.statusCode === 200){
-            var contents = "";
-            response.addListener('data',function(data){
-                contents += data;
-            });
-            response.addListener('end',function(){
-                callback(null,contents);
-            });
-        }else{
-            callback( new Error("get " + url + " return code : " + response.statusCode), null );
-        }
-    }).on('error', function(e){
-        callback(e,null);
-    });
-};
 
 
 function elm2obj(elm) {
