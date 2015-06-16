@@ -6,18 +6,21 @@ var handler = new htmlparser.DomHandler(function(error, dom) {
     if (error) {
         console.log(error)
     } else {
+        var obj = {};
         var tabber = DomUtils.getElements({
             tag: 'table',
             class: 'wikitable'
         }, dom, true)[0];
         //var tabber = DomUtils.getElements({tag:'a', class:'mw-redirect'},dom,true)[0];
        
-        console.log(JSON.stringify(elm2obj(tabber)));
-
-        var tabber = DomUtils.getElements({
+        obj = _.omit(elm2obj(tabber),"Game speed");
+        
+        tabber = DomUtils.getElements({
             tag: 'ul',
             class: 'categories'
         }, dom, true)[0];
+        obj = _.extend(obj, {type:elm2obj(tabber)[0]});
+        console.log(JSON.stringify(obj));
     }
 }, {
     normalizeWhitespace: true
@@ -37,8 +40,7 @@ function elm2obj(elm) {
             switch(elm.name){
                 case 'img':
                     if(elm.attribs.alt){
-                        obj = elm.attribs.alt.replace(/^20x/,"").replace(/5$/,"").replace(/ (Civ5)/,"")
-                        obj = obj.replace(/^./,obj[0].toUpperCase());
+                        obj = asString(elm.attribs.alt);
                     }else{
                         obj = null;
                     }
@@ -56,7 +58,7 @@ function elm2obj(elm) {
                 case 'li':
                     var sons = alignChidren(elm.children);
                     if( _.every(sons, function(son){return (typeof son === 'string');})){
-                        obj = sons.join(" ");
+                        obj = _.map(sons,function(son){return asString(son);}).join(" ");
                     }else{
                         obj.name = elm.name;
                         obj.children = sons;
@@ -77,6 +79,8 @@ function elm2obj(elm) {
                 case 'p':
                 case 'ul':
                 case 'div':
+                case 'button':
+                case 'input':
                 case 'th':
                 case 'td':
                     obj = alignChidren(elm.children);
@@ -88,7 +92,7 @@ function elm2obj(elm) {
             }
             break;
         case 'text':
-            obj = elm.data.trim();
+            obj = asString(elm.data);
             break;
     }
     //console.log(obj);
@@ -96,5 +100,18 @@ function elm2obj(elm) {
 }
 
 function alignChidren(children){
-    return _.uniq(_.compact(_.flatten(_.map(children, function(child){return elm2obj(child);}))));
+    return _.uniq(_.compact(_.flatten(_.map(children, function(child){
+        var result = elm2obj(child);
+        return (typeof result === 'string')? asString(result): result }))));
+}
+
+function asString(str) {
+    var obj = str.trim().replace(/^20x/, "").replace(/5$/, "").replace(/[ \t]*\(Civ5\)/, "");
+    if(obj.length > 0){
+        obj = obj.replace(/^./, obj[0].toUpperCase());
+    }
+    if(obj === "-"){
+        obj = "";
+    }
+    return obj;
 }
