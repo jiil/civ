@@ -1,0 +1,16 @@
+{
+    "name": "civ",
+    "version": "0.0.0",
+    "description": "civ",
+    "main": "parser.js",
+    "scripts": {
+        "start": "node parser.js"
+    },
+    "dependencies": {
+        "htmlparser2": "*",
+        "domutils": "*",
+        "underscore" : "*"
+   },
+    "devDependencies": {
+    }
+}
